@@ -48,12 +48,12 @@ android {
             minifyEnabled false
             shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            resValue "string", "app_name", "Slide"
+            resValue "string", "app_name", "Cash for Reddit"
             signingConfig signingConfigs.releaseConfig
         }
         debug {
             applicationIdSuffix ".debug"
-            resValue "string", "app_name", "Slide Debug"
+            resValue "string", "app_name", "Cash for Reddit Debug"
         }
 
     }
