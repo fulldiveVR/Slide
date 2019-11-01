@@ -10,7 +10,7 @@ android {
     buildToolsVersion '28.0.3'
 
     defaultConfig {
-        applicationId "me.ccrama.redditslide"
+        applicationId "com.fulldive.cash4reddit"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 322
