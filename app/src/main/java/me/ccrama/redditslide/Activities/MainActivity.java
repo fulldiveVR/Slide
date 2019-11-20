@@ -53,7 +53,12 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v4.widget.ViewDragHelper;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.view.ContextThemeWrapper;
-import android.support.v7.widget.*;
+import android.support.v7.widget.AppCompatCheckBox;
+import android.support.v7.widget.CardView;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.PopupMenu;
+import android.support.v7.widget.SwitchCompat;
+import android.support.v7.widget.Toolbar;
 import android.text.Editable;
 import android.text.Spannable;
 import android.text.TextWatcher;
@@ -91,6 +96,7 @@ import com.afollestad.materialdialogs.AlertDialogWrapper;
 import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.fasterxml.jackson.databind.JsonNode;
+import com.fulldive.eventsender.lib.EventSender;
 import com.lusfold.androidkeyvaluestore.KVStore;
 import com.lusfold.androidkeyvaluestore.core.KVManger;
 
@@ -399,6 +405,18 @@ public class MainActivity extends BaseActivity
         if (findViewById(R.id.toolbar_search).getVisibility() == View.VISIBLE) {
             findViewById(R.id.close_search_toolbar).performClick();
         }
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        EventSender.getInstance(getApplicationContext()).onStart(this);
+    }
+
+    @Override
+    protected void onStop() {
+        EventSender.getInstance(getApplicationContext()).onStop(this);
+        super.onStop();
     }
 
     @Override
