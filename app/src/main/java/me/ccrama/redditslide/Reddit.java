@@ -473,7 +473,7 @@ public class Reddit extends MultiDexApplication implements Application.ActivityL
 
         UpgradeUtil.upgrade(getApplicationContext());
         doMainStuff();
-        EventSender.getInstance(this);  // initialize
+        EventSender.getInstance(getApplicationContext());  // initialize
     }
 
     public void doMainStuff() {
