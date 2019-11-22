@@ -2,12 +2,12 @@ package me.ccrama.redditslide.Toolbox;
 
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonParseException;
 import com.google.gson.reflect.TypeToken;
-import me.ccrama.redditslide.Authentication;
-import me.ccrama.redditslide.Reddit;
+
 import net.dean.jraw.ApiException;
 import net.dean.jraw.http.NetworkException;
 import net.dean.jraw.managers.WikiManager;
@@ -16,6 +16,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
+
+import me.ccrama.redditslide.Authentication;
+import me.ccrama.redditslide.Reddit;
 
 /**
  * Main class for /r/toolbox functionality
@@ -245,7 +248,7 @@ public class Toolbox {
                 new Usernotes.BlobSerializer()).disableHtmlEscaping().create();
         String data = gson.toJson(getUsernotes(subreddit));
         try {
-            manager.edit(subreddit, "usernotes", data, "\"" + editReason + "\" via Slide");
+            manager.edit(subreddit, "usernotes", data, "\"" + editReason + "\" via Cash");
             cache.edit().putBoolean(subreddit + "_usernotes_exists", true)
                     .putLong(subreddit + "_usernotes_timestamp", System.currentTimeMillis())
                     .putString(subreddit + "_usernotes_data", data)

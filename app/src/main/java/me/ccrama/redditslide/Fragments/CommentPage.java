@@ -2,7 +2,6 @@ package me.ccrama.redditslide.Fragments;
 
 import android.app.Activity;
 import android.app.Dialog;
-import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.ContextWrapper;
 import android.content.DialogInterface;
@@ -10,7 +9,6 @@ import android.content.Intent;
 import android.content.res.Resources;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
-import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -110,7 +108,6 @@ import me.ccrama.redditslide.Views.PreCachingLayoutManagerComments;
 import me.ccrama.redditslide.Visuals.Palette;
 import me.ccrama.redditslide.handler.ToolbarScrollHideHandler;
 import me.ccrama.redditslide.util.LinkUtil;
-import me.ccrama.redditslide.util.LogUtil;
 import me.ccrama.redditslide.util.NetworkUtil;
 import me.ccrama.redditslide.util.OnSingleClickListener;
 import me.ccrama.redditslide.util.SubmissionParser;
@@ -833,7 +830,7 @@ public class CommentPage extends Fragment implements Toolbar.OnMenuItemClickList
                                     Snackbar.LENGTH_SHORT).show();
                         }
                     }
-                } else {
+                } /*else {
                     AlertDialogWrapper.Builder b =
                             new AlertDialogWrapper.Builder(getContext()).setTitle(
                                     R.string.general_shadowbox_comments_ispro)
@@ -867,7 +864,7 @@ public class CommentPage extends Fragment implements Toolbar.OnMenuItemClickList
                                                 }
                                             });
                     b.show();
-                }
+                }*/
                 return true;
             case R.id.sort: {
                 openPopup(toolbar);

@@ -1,7 +1,6 @@
 package me.ccrama.redditslide.Activities;
 
 import android.app.Dialog;
-import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -9,7 +8,6 @@ import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
-import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Parcelable;
@@ -328,7 +326,7 @@ public class SubredditView extends BaseActivity {
                                 ((SubmissionsView) adapter.getCurrentFragment()).posts.subreddit);
                         startActivity(i2);
                     }
-                } else {
+                } /*else {
                     new AlertDialogWrapper.Builder(this).setTitle(
                             R.string.general_gallerymode_ispro)
                             .setMessage(R.string.pro_upgrade_msg)
@@ -358,7 +356,7 @@ public class SubredditView extends BaseActivity {
                                         }
                                     })
                             .show();
-                }
+                }*/
                 return true;
             case R.id.search:
                 MaterialDialog.Builder builder =
@@ -425,7 +423,7 @@ public class SubredditView extends BaseActivity {
                                 ((SubmissionsView) adapter.getCurrentFragment()).posts.subreddit);
                         startActivity(i2);
                     }
-                } else {
+                } /*else {
                     new AlertDialogWrapper.Builder(this).setTitle(R.string.general_shadowbox_ispro)
                             .setMessage(R.string.pro_upgrade_msg)
                             .setPositiveButton(R.string.btn_yes_exclaim,
@@ -455,7 +453,7 @@ public class SubredditView extends BaseActivity {
                                         }
                                     })
                             .show();
-                }
+                }*/
                 return true;
             default:
                 return false;

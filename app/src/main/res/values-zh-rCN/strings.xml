@@ -4,11 +4,11 @@
     <!-- Generic text used anywhere -->
     <string name="general_confirm">确认</string>
     <string name="general_confirm_exit">确认退出</string>
-    <string name="general_confirm_exit_msg">你真的想退出 Slide 吗？</string>
+    <string name="general_confirm_exit_msg">你真的想退出 Cash 吗？</string>
     <string name="general_enable_shadowbox">启用 Shadowbox 模式</string>
-    <string name="pro_upgrade_msg">升级到 Slide for Reddit Pro，享受以下高级功能：\n\n- 网站广告拦截和阅读模式\n- 上传图片时的编辑功能\n- 平版模式的定制列功能\n- 自动夜间模式\n- 内容视图的图库功能\n- 评论视图\n- 备份和恢复，支持 Google Drive 和文件\n- 支持开源和无广告软件\n\n你愿意支持 Slide for Reddit 吗？</string>
-    <string name="general_pro_msg">我选择了一些 Slide 的功能，需要从 Play Store 购买后解锁。\n\n这是为了能让开发可持续的进行，避免在免费版中放置广告。\n\n专业版的功能包括多列模式，Shadowbox 模式，图库模式，备份恢复，图片编辑等。\n\n你愿意解锁 Slide for Reddit 专业版吗？</string>
-    <string name="general_pro_msg_crop">我选择了一些 Slide 的功能，需要从 Play Store 购买后解锁。\n\n这是为了能让开发可持续的进行，避免在免费版中放置广告。\n\n专业版的功能包括多列模式，Shadowbox 模式，图库模式，备份恢复，图片编辑等。\n\n你愿意解锁 Slide for Reddit 专业版吗？</string>
+    <string name="pro_upgrade_msg">升级到 Cash for Reddit Pro，享受以下高级功能：\n\n- 网站广告拦截和阅读模式\n- 上传图片时的编辑功能\n- 平版模式的定制列功能\n- 自动夜间模式\n- 内容视图的图库功能\n- 评论视图\n- 备份和恢复，支持 Google Drive 和文件\n- 支持开源和无广告软件\n\n你愿意支持 Cash for Reddit 吗？</string>
+    <string name="general_pro_msg">我选择了一些 Cash 的功能，需要从 Play Store 购买后解锁。\n\n这是为了能让开发可持续的进行，避免在免费版中放置广告。\n\n专业版的功能包括多列模式，Shadowbox 模式，图库模式，备份恢复，图片编辑等。\n\n你愿意解锁 Cash for Reddit 专业版吗？</string>
+    <string name="general_pro_msg_crop">我选择了一些 Cash 的功能，需要从 Play Store 购买后解锁。\n\n这是为了能让开发可持续的进行，避免在免费版中放置广告。\n\n专业版的功能包括多列模式，Shadowbox 模式，图库模式，备份恢复，图片编辑等。\n\n你愿意解锁 Cash for Reddit 专业版吗？</string>
     <string name="general_open_settings">侧栏</string>
     <string name="general_sub_sync">正在同步订阅</string>
     <string name="general_gallerymode_ispro">图库模式是专业版功能</string>
@@ -106,7 +106,7 @@
     <string name="drawer_hello">你好，</string>
     <string name="drawer_search">前往版块</string>
     <string name="drawer_moderation">版主管理</string>
-    <string name="drawer_offline">Slide 现正在离线模式</string>
+    <string name="drawer_offline">Cash 现正在离线模式</string>
     <string name="drawer_offline_retry">尝试进入在线模式</string>
     <string name="drawer_guest_mode">以游客身份浏览</string>
     <!-- Sidebar items (That's the one on the right) -->
@@ -218,7 +218,7 @@
     <string name="err_no_connection">Reddit 不能访问。你想再试一遍吗？</string>
     <string name="err_retry_later">一分钟后再试！</string>
     <string name="err_permission">权限被拒绝</string>
-    <string name="err_permission_msg">似乎您拒绝了 Slide 在外置存储的写入权限。这会引起图片缓存、帖子缓存和保存图片失败 :(。\n您想让 Slide 访问外部存储吗？</string>
+    <string name="err_permission_msg">似乎您拒绝了 Cash 在外置存储的写入权限。这会引起图片缓存、帖子缓存和保存图片失败 :(。\n您想让 Cash 访问外部存储吗？</string>
     <string name="err_authentication">验证失败</string>
     <string name="err_submit_restricted">此版块受限制</string>
     <string name="err_submit_restricted_text">你不允许在这里发帖。请选择其他版块</string>
@@ -232,12 +232,12 @@
     <string name="err_refused_request_msg">Reddit 拒绝了一个请求。你想尝试重新连接到 Reddit 吗？</string>
     <string name="err_color_sync_login">请登录以使用颜色同步</string>
     <string name="err_something_wrong">哎呀，出错了</string>
-    <string name="err_couldnt_save_choose_new">Slide 无法保存到选定的目录。是否要选择新的保存位置？</string>
+    <string name="err_couldnt_save_choose_new">Cash 无法保存到选定的目录。是否要选择新的保存位置？</string>
     <string name="err_share_image">分享图片时出错</string>
     <string name="err_file_not_found">未找到文件</string>
-    <string name="err_not_valid_backup">不是有效的 Slide 备份文件</string>
-    <string name="err_not_valid_backup_msg">所选文件不是有效的 Slide 备份文件</string>
-    <string name="err_file_not_found_msg">找不到选定的文件。请确保它存在, 并且 Slide 具有访问该文件/文件夹的权限</string>
+    <string name="err_not_valid_backup">不是有效的 Cash 备份文件</string>
+    <string name="err_not_valid_backup_msg">所选文件不是有效的 Cash 备份文件</string>
+    <string name="err_file_not_found_msg">找不到选定的文件。请确保它存在, 并且 Cash 具有访问该文件/文件夹的权限</string>
     <string name="err_comment_post">哎呀，发表评论失败了！</string>
     <string name="err_comment_post_reason">原因: %1$s</string>
     <string name="err_comment_post_message">\n\n你的信息已保存为草稿。请稍后再试。</string>
@@ -344,7 +344,7 @@
     <string name="misc_setting_up">设置一些东西&#8230;</string>
     <string name="misc_setting_up_message">请不要离开这个界面。不需要太久!</string>
     <string name="misc_more_info">更多信息</string>
-    <string name="misc_rate_title">喜欢 Slide？</string>
+    <string name="misc_rate_title">喜欢 Cash？</string>
     <string name="misc_rate_msg">给它评分！</string>
     <string name="misc_captcha_incorrect">验证码不正确，请重试</string>
     <!-- Goto User -->
@@ -393,7 +393,7 @@
     <string name="backup_backing_up">正在备份你的设置</string>
     <string name="backup_restore_settings">恢复设置成功！</string>
     <string name="backup_restarting">应用将重启。</string>
-    <string name="backup_info">Slide 会将你的所有数据保存在一个私人 Google Drive 文件夹之中。你可在多台设备之间（或者在同一台设备）同步信息，你的所有数据传输绝对不会经过第三方服务或者服务器。</string>
+    <string name="backup_info">Cash 会将你的所有数据保存在一个私人 Google Drive 文件夹之中。你可在多台设备之间（或者在同一台设备）同步信息，你的所有数据传输绝对不会经过第三方服务或者服务器。</string>
     <string name="backup_btn">备份</string>
     <string name="backup_btn_restore">恢复</string>
     <string name="backup_btn_file">备份到文件</string>
@@ -433,8 +433,8 @@
     <string name="mod_btn_author">作者的个人资料</string>
     <string name="mod_btn_ban">封禁</string>
     <string name="mod_ban_user">封禁用户</string>
-    <string name="mod_ban_reauth">为了封禁用户，Slide 必须重新验证你的身份</string>
-    <string name="mod_ban_reauth_question">你想现在重新登录到 Slide 吗？</string>
+    <string name="mod_ban_reauth">为了封禁用户，Cash 必须重新验证你的身份</string>
+    <string name="mod_ban_reauth_question">你想现在重新登录到 Cash 吗？</string>
     <string name="mod_ban_success">用户已封禁！</string>
     <string name="mod_ban_fail">封禁用户时出错</string>
     <string name="mod_ban_reason">封禁原因</string>
@@ -475,8 +475,8 @@
     <string name="toolbox_note_text_required">备注文本是必需的</string>
     <string name="toolbox_note_text_placeholder">有关&#8230;的事</string>
     <string name="toolbox_note_default">无类型</string>
-    <string name="toolbox_wiki_edit_reauth">为了添加或删除用户备注，Slide 必须重新验证你的身份</string>
-    <string name="toolbox_wiki_edit_reauth_question">你想现在重新登录到 Slide 吗？</string>
+    <string name="toolbox_wiki_edit_reauth">为了添加或删除用户备注，Cash 必须重新验证你的身份</string>
+    <string name="toolbox_wiki_edit_reauth_question">你想现在重新登录到 Cash 吗？</string>
     <!-- Pleasantly asking the user if he made his mind up -->
     <string name="really_remove_submission">确认删除此提交？</string>
     <string name="really_pin_submission">确认置顶此提交？</string>
@@ -522,7 +522,7 @@
     <string name="settings_link_handling">链接处理方式</string>
     <string name="settings_link_image">内部查看图片</string>
     <string name="settings_mail_check">检查新邮件</string>
-    <string name="settings_mail_info">频率越高，Slide 在后台可能的用电量也就越高！</string>
+    <string name="settings_mail_info">频率越高，Cash 在后台可能的用电量也就越高！</string>
     <string name="settings_main_color_title">修改主颜色</string>
     <string name="settings_notification">每 %1$s 检查新信息</string>
     <string name="settings_notification_newline">每隔 %1$s 检查新消息</string>
@@ -539,7 +539,7 @@
     <string name="settings_bugs">提交 bug</string>
     <string name="settings_changelog">查看更改日志</string>
     <string name="settings_google">正在连接至 Google</string>
-    <string name="settings_google_msg">Slide 正在连接至 Google。几秒钟后再试！</string>
+    <string name="settings_google_msg">Cash 正在连接至 Google。几秒钟后再试！</string>
     <string name="settings_fabclear_msg">触摸清除按钮会将当前视图中的帖子移除，但不会永久将其隐藏起来。 \n长按按钮会将帖子永久隐藏！</string>
     <string name="settings_fabclear">悬浮按钮清除操作</string>
     <string name="settings_notifdisabled">通知已停用</string>
@@ -640,7 +640,7 @@
     <string name="settings_general_comment_last_visit">显示自上次访问以来的评论数</string>
     <string name="settings_fab_create">显示 \"创建评论\" FAB</string>
     <string name="settings_right_handed_comment_menu">右手评论回复菜单</string>
-    <string name="settings_reddit_description">这些设置将更改 Reddit API 返回到 Slide 的内容。\n\n要在所有版块中查看缩略图, 启用 \"忽略版块媒体偏好\" \n\n要查看所有 NSFW 内容, 关闭 \"隐藏 NSFW 照片\" 并打开 \"我已满18岁\"</string>
+    <string name="settings_reddit_description">这些设置将更改 Reddit API 返回到 Cash 的内容。\n\n要在所有版块中查看缩略图, 启用 \"忽略版块媒体偏好\" \n\n要查看所有 NSFW 内容, 关闭 \"隐藏 NSFW 照片\" 并打开 \"我已满18岁\"</string>
     <string name="settings_reddit_media_pref">忽略版块媒体偏好</string>
     <string name="settings_description_synccit">Synccit 允许您在设备和浏览器之间同步提交历史记录</string>
     <string name="settings_description_view_type">视图类型同时影响主视图和单个版块视图。\n\n评论窗格: 评论从帖子旁边滑出, 并且在向后滑动时保存评论页状态 (所以你不会失去你的位置) \n\n 无版块选项卡: 禁用在版块之间滑动 \n\n 版块选项卡: 在你的版块之间滑动</string>
@@ -662,7 +662,7 @@
     <string name="settings_backup_err_no_explorer">找不到文件资源管理器, 文件位于%1$s</string>
     <string name="settings_about_version_copied_toast">版本号已复制到剪贴板</string>
     <string name="settings_about_stacktrace_copied_toast">Stacktrace 已复制到剪贴板</string>
-    <string name="settings_support_slide">升级Pro版以支持 Slide for Reddit</string>
+    <string name="settings_support_slide">升级Pro版以支持 Cash for Reddit</string>
     <string name="settings_theme_night_start_title">选择夜间模式的开始时间</string>
     <string name="settings_theme_night_end_title">选择夜间模式的结束时间</string>
     <string name="settings_theme_night_start_at">开始于\u0020</string>
@@ -716,7 +716,7 @@
     <string name="reorder_not_found_err">版块未找到，这是一些建议</string>
     <string name="reorder_subscribed_toast">已订阅 /r/%1$s</string>
     <string name="reorder_unsubscribed_toast">取消订阅 /r/%1$s</string>
-    <string name="sorting_faq"><b> 如何刷新版块？ </b>\n要刷新版块，请单击工具栏中的刷新图标! \n\n<b> 我取消订阅一些版块，但他们仍然在列表中! </b>\nSlide 将已取消订阅的版块从浏览器转换成临时订阅。要删除它们, 请长按版块, 然后单击 "删除"! \n\n<b> 如何使用集合？ </b>\n 要创建一个集合, 请单击 \"+\", 然后选择 \"创建集合\"。这可以让你有多个版块作为一个版块在主屏幕!</string>
+    <string name="sorting_faq"><b> 如何刷新版块？ </b>\n要刷新版块，请单击工具栏中的刷新图标! \n\n<b> 我取消订阅一些版块，但他们仍然在列表中! </b>\nCash 将已取消订阅的版块从浏览器转换成临时订阅。要删除它们, 请长按版块, 然后单击 "删除"! \n\n<b> 如何使用集合？ </b>\n 要创建一个集合, 请单击 \"+\", 然后选择 \"创建集合\"。这可以让你有多个版块作为一个版块在主屏幕!</string>
     <string name="FAQ">常见问题</string>
     <string name="alphabetize_subreddits">按字母排序版块</string>
     <string name="sync_subscriptions">同步订阅</string>
@@ -782,17 +782,17 @@
     <string name="title_mod">版主</string>
     <!-- Text in Donation-Activity -->
     <string name="donate_amount_title">此金额&#8230;&#8230;</string>
-    <string name="donate_info_student">我是一名学生开发者，我非常感激你的慷慨捐赠！这些使得 Slide 成为现实 :)</string>
+    <string name="donate_info_student">我是一名学生开发者，我非常感激你的慷慨捐赠！这些使得 Cash 成为现实 :)</string>
     <string name="donate_btn">捐赠</string>
     <string name="donate_amount_ads1">使</string>
     <string name="donate_amount_ads2">条广告免于显示</string>
     <string name="donate_amount_hours1">支持</string>
     <string name="donate_amount_hours2">小时的开发历程</string>
-    <string name="donate_title">支持 Slide for Reddit</string>
+    <string name="donate_title">支持 Cash for Reddit</string>
     <string name="donate_err_title">捐赠失败 :(</string>
     <string name="donate_err_msg">很遗憾，捐赠未完成。确保你已连接到网络再试一次！感谢你的支持！</string>
     <string name="donate_success_title">捐赠成功！</string>
-    <string name="donate_success_msg">非常感谢您支持 Slide for Reddit！这对我来说意义重大。如果你遇到任何问题，随时向我发邮件或者在 /r/slideforreddit 发帖！</string>
+    <string name="donate_success_msg">非常感谢您支持 Cash for Reddit！这对我来说意义重大。如果你遇到任何问题，随时向我发邮件或者在 /r/slideforreddit 发帖！</string>
     <string name="donate_success_btn">感激不尽！</string>
     <!-- Offline mode -->
     <string name="offline_caching">正在缓存提交</string>
@@ -840,7 +840,7 @@
     <string name="login_subscribe_rslideforreddit_desc">你想订阅 /r/slideforreddit 以获得最新消息和报告问题？</string>
     <string name="login_sync_colors">现在同步颜色？</string>
     <string name="login_sync_colors_desc">你想现在同步你的版块颜色吗？这可在以后再做，设置→版块主题</string>
-    <string name="login_authenticating">Slide 正在验证</string>
+    <string name="login_authenticating">Cash 正在验证</string>
     <string name="login_starting">开始设置</string>
     <string name="login_starting_desc">这应该只需要一秒钟...</string>
     <!-- Over 18 prompt when visiting a NSFW subreddit -->
@@ -863,7 +863,7 @@
     <string name="sub_post_notifs_title_settings">新帖通知?</string>
     <string name="sub_post_notifs_menu">新帖通知</string>
     <string name="sub_post_notify">通知</string>
-    <string name="sub_post_notifs_text">Slide 将每10分钟检查一次新的帖子。你可以在帖子通知里取消此操作</string>
+    <string name="sub_post_notifs_text">Cash 将每10分钟检查一次新的帖子。你可以在帖子通知里取消此操作</string>
     <string name="sub_post_notifs_threshold">分数阈值</string>
     <string name="sub_post_notifs_err">你可以只添加通知到一个版块</string>
     <string name="sub_post_notifs_settings_none">没有版块要通知</string>
@@ -960,11 +960,11 @@
     <string name="comments_count">要缓存的评论数</string>
     <!-- Saving location setting -->
     <string name="set_gif_save_loc">设置动图保存位置</string>
-    <string name="set_gif_save_loc_msg">Slide 的动图保存位置还没设置，你想现在设置吗？</string>
+    <string name="set_gif_save_loc_msg">Cash 的动图保存位置还没设置，你想现在设置吗？</string>
     <string name="set_video_save_loc">设置视频保存位置</string>
-    <string name="set_video_save_loc_msg">Slide 的视频保存位置还没设置，你想现在设置吗？</string>
+    <string name="set_video_save_loc_msg">Cash 的视频保存位置还没设置，你想现在设置吗？</string>
     <string name="set_save_location">设置图片保存位置</string>
-    <string name="set_save_location_msg">Slide 的图片保存位置还没设置，你想现在设置吗？</string>
+    <string name="set_save_location_msg">Cash 的图片保存位置还没设置，你想现在设置吗？</string>
     <!-- Report flow -->
     <string name="btn_report">举报</string>
     <string name="report_post">举报帖子</string>
@@ -983,7 +983,7 @@
     <string name="subreddit_theme">版块主题</string>
     <string name="dialog_choose_subreddits_to_edit">选择要编辑的版块</string>
     <string name="dialog_color_sync_title">颜色同步中</string>
-    <string name="dialog_color_sync_message">Slide 会尝试取得该版块版主设定的「主要颜色」，这不会覆盖已上色的版块。</string>
+    <string name="dialog_color_sync_message">Cash 会尝试取得该版块版主设定的「主要颜色」，这不会覆盖已上色的版块。</string>
     <string name="fab_hide">隐藏看过的帖子</string>
     <string name="fab_create">新建帖子</string>
     <string name="fab_disabled">禁用</string>
@@ -1008,7 +1008,7 @@
     <string name="btn_collapse_children_all">折叠下级评论</string>
     <string name="btn_open_content">打开内容</string>
     <string name="load_videos_internally">在内部加载视频</string>
-    <string name="load_videos_internally_content">你想尝试 Slide 视频插件吗？这将允许你在内部查看视频（如YouTube）！</string>
+    <string name="load_videos_internally_content">你想尝试 Cash 视频插件吗？这将允许你在内部查看视频（如YouTube）！</string>
     <string name="do_not_show_again">不再显示</string>
     <string name="enter_text_to_filter_click_enter_to_add_flair">输入文本以过滤(subreddit:flair_text)，单击输入以添加</string>
     <plurals name="landscape_columns">
@@ -1062,7 +1062,7 @@
     <string name="upvote_percentage">显示赞同投票百分比</string>
     <string name="view_subreddits">查看版块</string>
     <string name="clear_saved_subreddits">清除所有已保存的版块</string>
-    <string name="download_the_slide_video_player_plugin">下载 Slide 视频播放器插件</string>
+    <string name="download_the_slide_video_player_plugin">下载 Cash 视频播放器插件</string>
     <string name="btn_suggest_title">建议标题</string>
     <string name="navigate_comments_since">比&#8230;更新的评论</string>
     <string name="btn_offline">进入离线模式</string>
@@ -1090,9 +1090,9 @@
     <string name="comment_removed">评论已删除</string>
     <string name="set_nav_mode">设置浏览模式</string>
     <string name="auto_hide_the_comment_nav_bar">自动隐藏评论导航栏</string>
-    <string name="rate_slide">给 Slide 评分</string>
+    <string name="rate_slide">给 Cash 评分</string>
     <string name="edit_query">编辑查询</string>
-    <string name="share_slide">分享 Slide</string>
+    <string name="share_slide">分享 Cash</string>
     <string name="create_folder">新建文件夹</string>
     <string name="folder_name">文件夹名称</string>
     <string name="sidebar_friends">朋友</string>
@@ -1118,7 +1118,7 @@
     <string name="type_tumblr">Tumblr</string>
     <string name="type_nsfw_tumblr">NSFW Tumblr</string>
     <string name="submission_info_contest">此主题帖处于争论模式。不能更改排序。</string>
-    <string name="sub_post_notifs_msg">在检查邮件时，Slide 将检查新帖子 (必须启用邮件通知)</string>
+    <string name="sub_post_notifs_msg">在检查邮件时，Cash 将检查新帖子 (必须启用邮件通知)</string>
     <string name="mod_ban_reason_required">原因是必需的</string>
     <string name="settings_abbreviate_post_scores">缩写帖子分数 (例如 24.0k)</string>
     <string name="settings_wide_depth_indicators">宽评论深度指标</string>

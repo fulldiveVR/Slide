@@ -4,11 +4,11 @@
     <!-- Generic text used anywhere -->
     <string name="general_confirm">Konfirmasi</string>
     <string name="general_confirm_exit">Konfirmasi keluar</string>
-    <string name="general_confirm_exit_msg">Apakah anda benar-benar ingin keluar Slide?</string>
+    <string name="general_confirm_exit_msg">Apakah anda benar-benar ingin keluar Cash?</string>
     <string name="general_enable_shadowbox">Mode shadowbox</string>
-    <string name="pro_upgrade_msg">Tingkatkan ke Slide untuk Reddit Pro untuk menikmati fitur baru yang keren antara lain:\n\n- Pemblokir iklan dan Mode Baca di tampilan web\n- Potong dan lukis gambar untuk diunggah\n- Mode kolom tablet khusus\n- Mode malam otomatis\n- Tampilan Shadowbox dan Galeri\n- Tampilan komentar Shadowbox\n- Cadangkan dan pulihkan ke Google Drive dan berkas\n- Mendukung perangkat lunak sumber terbuka dan bebas iklan!\n\nApakah anda ingin mendukung Slide untuk Reddit?</string>
-    <string name="general_pro_msg">Aku telah memilih untuk membuat beberapa fitur slide membuka dengan membeli Pro membuka kunci dari Play Store. \n\nThis adalah untuk menjaga pengembangan terjadi, dan sebagai pengganti menampilkan iklan dalam versi gratis dari Slide! \n\nIncluded dalam hal ini adalah modus multi-kolom, bertinju melawan bayangan mode (untuk subreddits gambar), Galeri modus, backup dan mengembalikan Google Drive dan file, dan gambar/tanam gambar! \n\nWould Anda ingin membuka Slide untuk Reddit Pro?</string>
-    <string name="general_pro_msg_crop">Saya telah memilih untuk membuat beberapa fitur Slide (termasuk cropping dan drawing on images) yang tidak dapat dibuka dengan membeli kunci Prolock dari Play Store. \ n \ n Ini untuk menjaga perkembangan, dan sebagai pengganti menampilkan iklan dalam versi gratis Slide! \ n \ n Termasuk dalam mode multi-kolom ini, mode Shadowbox (untuk subversi gambar), mode galeri, backup dan kembalikan ke Google Drive dan arsipkan, dan banyak lagi! \ n \ n Apakah Anda ingin membuka Slide untuk Reddit Pro?</string>
+    <string name="pro_upgrade_msg">Tingkatkan ke Cash untuk Reddit Pro untuk menikmati fitur baru yang keren antara lain:\n\n- Pemblokir iklan dan Mode Baca di tampilan web\n- Potong dan lukis gambar untuk diunggah\n- Mode kolom tablet khusus\n- Mode malam otomatis\n- Tampilan Shadowbox dan Galeri\n- Tampilan komentar Shadowbox\n- Cadangkan dan pulihkan ke Google Drive dan berkas\n- Mendukung perangkat lunak sumber terbuka dan bebas iklan!\n\nApakah anda ingin mendukung Cash untuk Reddit?</string>
+    <string name="general_pro_msg">Aku telah memilih untuk membuat beberapa fitur slide membuka dengan membeli Pro membuka kunci dari Play Store. \n\nThis adalah untuk menjaga pengembangan terjadi, dan sebagai pengganti menampilkan iklan dalam versi gratis dari Cash! \n\nIncluded dalam hal ini adalah modus multi-kolom, bertinju melawan bayangan mode (untuk subreddits gambar), Galeri modus, backup dan mengembalikan Google Drive dan file, dan gambar/tanam gambar! \n\nWould Anda ingin membuka Cash untuk Reddit Pro?</string>
+    <string name="general_pro_msg_crop">Saya telah memilih untuk membuat beberapa fitur Cash (termasuk cropping dan drawing on images) yang tidak dapat dibuka dengan membeli kunci Prolock dari Play Store. \ n \ n Ini untuk menjaga perkembangan, dan sebagai pengganti menampilkan iklan dalam versi gratis Cash! \ n \ n Termasuk dalam mode multi-kolom ini, mode Shadowbox (untuk subversi gambar), mode galeri, backup dan kembalikan ke Google Drive dan arsipkan, dan banyak lagi! \ n \ n Apakah Anda ingin membuka Cash untuk Reddit Pro?</string>
     <string name="general_open_settings">Bilah sisi</string>
     <string name="general_sub_sync">Menyinkronkan subscription</string>
     <string name="general_gallerymode_ispro">Mode galeri adalah fitur Pro</string>
@@ -101,7 +101,7 @@
     <string name="drawer_hello">Hai,</string>
     <string name="drawer_search">Buka subreddit</string>
     <string name="drawer_moderation">Moderasi</string>
-    <string name="drawer_offline">Slide dalam mode luring</string>
+    <string name="drawer_offline">Cash dalam mode luring</string>
     <string name="drawer_offline_retry">Mencoba masuk ke mode daring</string>
     <!-- Sidebar items (That's the one on the right) -->
     <string name="sidebar_wiki">Wiki subreddit</string>
@@ -225,12 +225,12 @@
     <string name="err_refused_request_msg">Reddit menolak permintaan. Apakah anda ingin mencoba untuk menghubungkan kembali ke Reddit?</string>
     <string name="err_color_sync_login">Silakan masuk untuk menggunakan Sinkronisasi Warna</string>
     <string name="err_something_wrong">Uh oh, ada sesuatu yang salah</string>
-    <string name="err_couldnt_save_choose_new">Slide tidak bisa menyimpan ke direktori yang dipilih. Apakah anda ingin memilih lokasi penyimpanan baru?</string>
+    <string name="err_couldnt_save_choose_new">Cash tidak bisa menyimpan ke direktori yang dipilih. Apakah anda ingin memilih lokasi penyimpanan baru?</string>
     <string name="err_share_image">Galat berbagi gambar</string>
     <string name="err_file_not_found">Berkas tidak ditemukan</string>
-    <string name="err_not_valid_backup">Bukan berkas cadangan Slide yang valid</string>
-    <string name="err_not_valid_backup_msg">Berkas yang dipilih bukan berkas cadangan Slide yang valid</string>
-    <string name="err_file_not_found_msg">Berkas yang dipilih tidak bisa ditemukan. Pastikan berkas ada dan Slide memiliki izin untuk mengakses berkas/folder tersebut</string>
+    <string name="err_not_valid_backup">Bukan berkas cadangan Cash yang valid</string>
+    <string name="err_not_valid_backup_msg">Berkas yang dipilih bukan berkas cadangan Cash yang valid</string>
+    <string name="err_file_not_found_msg">Berkas yang dipilih tidak bisa ditemukan. Pastikan berkas ada dan Cash memiliki izin untuk mengakses berkas/folder tersebut</string>
     <string name="err_comment_post">Uh oh, gagal mengirim komentar ini!</string>
     <string name="err_comment_post_reason">Alasan: %1$s</string>
     <string name="err_comment_post_message">\n\nPesan anda disimpan sebagai draf. Silakan coba lagi nanti.</string>
@@ -337,7 +337,7 @@
     <string name="misc_setting_up">Menyiapkan beberapa hal&#8230;</string>
     <string name="misc_setting_up_message">Tolong jangan tinggalkan layar ini. Tidak akan lama!</string>
     <string name="misc_more_info">Info lebih lanjut</string>
-    <string name="misc_rate_title">Suka Slide?</string>
+    <string name="misc_rate_title">Suka Cash?</string>
     <string name="misc_rate_msg">Berikan nilai!</string>
     <string name="misc_captcha_incorrect">Captcha salah, silakan coba lagi</string>
     <!-- Goto User -->
@@ -423,8 +423,8 @@
     <string name="mod_btn_author">Profil penulis</string>
     <string name="mod_btn_ban">Blokir</string>
     <string name="mod_ban_user">Blokir Pengguna</string>
-    <string name="mod_ban_reauth">Untuk memblokir pengguna, Slide harus mengotentikasi Anda kembali</string>
-    <string name="mod_ban_reauth_question">Apakah Anda ingin masuk kembali ke Slide sekarang?</string>
+    <string name="mod_ban_reauth">Untuk memblokir pengguna, Cash harus mengotentikasi Anda kembali</string>
+    <string name="mod_ban_reauth_question">Apakah Anda ingin masuk kembali ke Cash sekarang?</string>
     <string name="mod_ban_success">Pengguna diblokir!</string>
     <string name="mod_ban_fail">Kesalahan memblokir pengguna</string>
     <string name="mod_ban_reason">Alasan blokir</string>
@@ -663,7 +663,7 @@ ini juga akan menghapus ikon dari layar depan anda.</string>
     <string name="reorder_not_found_err">Subreddit tidak ditemukan, berikut adalah beberapa saran</string>
     <string name="reorder_subscribed_toast">Berlangganan ke /r/%1$s</string>
     <string name="reorder_unsubscribed_toast">Berhenti Berlangganan ke /r/%1$s</string>
-    <string name="sorting_faq"><b>Bagaimana cara memperbarui subreddits?</b>\n untuk menyegarkan subreddits, klik ikon segarkan di toolbar! \n\n<b>saya berhenti berlangganan dari beberapa subreddits tetapi mereka masih dalam daftar!</b> \nSlide akan mengkonversi subs berhenti berlangganan dari browser ke langganan biasa. Untuk menghapusnya, Pendam pada subreddit(s) dan klik Hapus! \n\n <b>bagaimana cara menggunakan koleksi?</b> \nTo membuat koleksi, klik + FAB dan pilih \'Buat koleksi\'. Hal ini memungkinkan Anda untuk memiliki beberapa subs bertindak sebagai satu subreddit di layar utama!</string>
+    <string name="sorting_faq"><b>Bagaimana cara memperbarui subreddits?</b>\n untuk menyegarkan subreddits, klik ikon segarkan di toolbar! \n\n<b>saya berhenti berlangganan dari beberapa subreddits tetapi mereka masih dalam daftar!</b> \nCash akan mengkonversi subs berhenti berlangganan dari browser ke langganan biasa. Untuk menghapusnya, Pendam pada subreddit(s) dan klik Hapus! \n\n <b>bagaimana cara menggunakan koleksi?</b> \nTo membuat koleksi, klik + FAB dan pilih \'Buat koleksi\'. Hal ini memungkinkan Anda untuk memiliki beberapa subs bertindak sebagai satu subreddit di layar utama!</string>
     <string name="FAQ">FAQ</string>
     <string name="alphabetize_subreddits">Abjad subreddits</string>
     <string name="sync_subscriptions">Sinkronisasi langganan</string>
@@ -738,7 +738,7 @@ ini juga akan menghapus ikon dari layar depan anda.</string>
     <string name="donate_err_title">Donasi tidak berhasil :(</string>
     <string name="donate_err_msg">Sayangnya, sumbangan tidak berjalan. Pastikan Anda terhubung ke internet dan mencoba lagi! Terima kasih atas dukungan Anda!</string>
     <string name="donate_success_title">Donasi berhasil!</string>
-    <string name="donate_success_msg">Terima kasih banyak atas dukungan Anda untuk Slide for Reddit! Ini sangat berarti bagiku. Jika Anda mengalami masalah apa pun, kirimkan saya email atau laporkan di GitHub kapan saja!</string>
+    <string name="donate_success_msg">Terima kasih banyak atas dukungan Anda untuk Cash for Reddit! Ini sangat berarti bagiku. Jika Anda mengalami masalah apa pun, kirimkan saya email atau laporkan di GitHub kapan saja!</string>
     <string name="donate_success_btn">Terima kasih kembali!</string>
     <!-- Offline mode -->
     <string name="offline_caching">Pengiriman Chaching</string>
@@ -786,7 +786,7 @@ ini juga akan menghapus ikon dari layar depan anda.</string>
     <string name="login_subscribe_rslideforreddit_desc">Apakah Anda ingin berlangganan untuk /r/slideforreddit untuk berita terbaru dan laporan masalah?</string>
     <string name="login_sync_colors">Sinkronkan warna sekarang?</string>
     <string name="login_sync_colors_desc">Ingin Anda sinkronkan warna subreddit Anda sekarang? Ini dapat dilakukan nanti dalam pengaturan → Subreddit tema</string>
-    <string name="login_authenticating">Slide otentikasi</string>
+    <string name="login_authenticating">Cash otentikasi</string>
     <string name="login_starting">Menetapkan segalanya!</string>
     <string name="login_starting_desc">Ini hanya harus mengambil kedua&#8230;</string>
     <!-- Over 18 prompt when visiting a NSFW subreddit -->
@@ -809,7 +809,7 @@ ini juga akan menghapus ikon dari layar depan anda.</string>
     <string name="sub_post_notifs_title_settings">Memperoleh pemberitahuan tentang posting baru?</string>
     <string name="sub_post_notifs_menu">Diberitahu tentang posting baru</string>
     <string name="sub_post_notify">Memberitahukan</string>
-    <string name="sub_post_notifs_text">Slide akan memeriksa posting baru setiap 10 menit. Anda dapat membatalkan ini dalam posting pemberitahuan</string>
+    <string name="sub_post_notifs_text">Cash akan memeriksa posting baru setiap 10 menit. Anda dapat membatalkan ini dalam posting pemberitahuan</string>
     <string name="sub_post_notifs_threshold">Skor ambang</string>
     <string name="sub_post_notifs_err">Anda hanya dapat menambahkan pemberitahuan ke satu subreddits</string>
     <string name="sub_post_notifs_settings_none">Tidak subreddits untuk memberitahu</string>
@@ -906,11 +906,11 @@ ini juga akan menghapus ikon dari layar depan anda.</string>
     <string name="comments_count">Jumlah komentar untuk cache</string>
     <!-- Saving location setting -->
     <string name="set_gif_save_loc">Setel lokasi penyimpanan GIF</string>
-    <string name="set_gif_save_loc_msg">Lokasi penyimpanan GIF Slide belum ditetapkan. Apakah Anda ingin mengatur ini sekarang?</string>
+    <string name="set_gif_save_loc_msg">Lokasi penyimpanan GIF Cash belum ditetapkan. Apakah Anda ingin mengatur ini sekarang?</string>
     <string name="set_video_save_loc">Setel lokasi penyimpanan video</string>
     <string name="set_video_save_loc_msg">Lokasi penyimpanan video slide belum ditetapkan. Apakah Anda ingin mengatur ini sekarang?</string>
     <string name="set_save_location">Setel lokasi penyimpanan gambar</string>
-    <string name="set_save_location_msg">Lokasi penyimpanan gambar Slide belum ditetapkan. Apakah Anda ingin mengatur ini sekarang?</string>
+    <string name="set_save_location_msg">Lokasi penyimpanan gambar Cash belum ditetapkan. Apakah Anda ingin mengatur ini sekarang?</string>
     <!-- Report flow -->
     <string name="btn_report">Laporan</string>
     <string name="report_post">Laporkan postingan</string>
@@ -945,7 +945,7 @@ ini juga akan menghapus ikon dari layar depan anda.</string>
     <string name="save_for_offline_viewing">Simpan kiriman pos untuk akses luring</string>
     <string name="btn_open_content">Buka konten</string>
     <string name="load_videos_internally">Muat video secara internal</string>
-    <string name="load_videos_internally_content">Apakah Anda ingin mencoba plugin Slide Video? Ini akan memungkinkan Anda melihat video (seperti YouTube) secara internal!</string>
+    <string name="load_videos_internally_content">Apakah Anda ingin mencoba plugin Cash Video? Ini akan memungkinkan Anda melihat video (seperti YouTube) secara internal!</string>
     <string name="do_not_show_again">Jangan tampilkan lagi</string>
     <string name="enter_text_to_filter_click_enter_to_add_flair">Masukkan teks untuk disaring (subreddit: flair_text), klik enter untuk menambahkan</string>
     <plurals name="landscape_columns">
@@ -999,7 +999,7 @@ ini juga akan menghapus ikon dari layar depan anda.</string>
     <string name="upvote_percentage">Tampilkan persentase upvote</string>
     <string name="view_subreddits">Lihat subreddit</string>
     <string name="clear_saved_subreddits">Hapus semua subreddit yang disimpan</string>
-    <string name="download_the_slide_video_player_plugin">Unduh plugin Pemutar Video Slide</string>
+    <string name="download_the_slide_video_player_plugin">Unduh plugin Pemutar Video Cash</string>
     <string name="btn_suggest_title">Sarankan judul</string>
     <string name="navigate_comments_since">Komentar lebih baru dari&#8230;</string>
     <string name="btn_offline">Beralih ke mode luring</string>
@@ -1025,7 +1025,7 @@ ini juga akan menghapus ikon dari layar depan anda.</string>
     <string name="set_nav_mode">Setel mode navigasi</string>
     <string name="auto_hide_the_comment_nav_bar">Otomatis sembunyikan bilah navigasi komentar</string>
     <string name="edit_query">Sunting kueri</string>
-    <string name="share_slide">Bagikan Slide</string>
+    <string name="share_slide">Bagikan Cash</string>
     <string name="create_folder">Buat folder</string>
     <string name="folder_name">Nama folder</string>
     <string name="sidebar_friends">Teman</string>
@@ -1051,7 +1051,7 @@ ini juga akan menghapus ikon dari layar depan anda.</string>
     <string name="type_tumblr">Tumblr</string>
     <string name="type_nsfw_tumblr">NSFW Tumblr</string>
     <string name="submission_info_contest">Thread ini ada dalam modus kontes. Anda tidak bisa melakukan pemilahan.</string>
-    <string name="sub_post_notifs_msg">Slide akan memeriksa posting baru saat memeriksa e-mail (e-mail pemberitahuan harus diaktifkan)</string>
+    <string name="sub_post_notifs_msg">Cash akan memeriksa posting baru saat memeriksa e-mail (e-mail pemberitahuan harus diaktifkan)</string>
     <string name="mod_ban_reason_required">Alasannya diperlukan</string>
     <string name="settings_abbreviate_post_scores">Menyingkat nilai posting (Keluaran 24.0 k)</string>
     <string name="settings_wide_depth_indicators">Komentar berbagai kedalaman indikator</string>

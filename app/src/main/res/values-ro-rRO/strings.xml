@@ -3,7 +3,7 @@
 <resources>
     <!-- Generic text used anywhere -->
     <string name="general_confirm_exit">Confirmaţi ieşirea</string>
-    <string name="general_confirm_exit_msg">Sigur doriți să ieșiți din Slide?</string>
+    <string name="general_confirm_exit_msg">Sigur doriți să ieșiți din Cash?</string>
     <string name="general_enable_shadowbox">Activați mod Shadowbox</string>
     <string name="general_open_settings">Deschideţi setări Subreddit</string>
     <string name="general_sub_sync">Sincronizând subscrieri</string>
@@ -88,7 +88,7 @@
     <string name="drawer_hello">Salut,</string>
     <string name="drawer_search">Vizitează subredditul</string>
     <string name="drawer_moderation">Moderare</string>
-    <string name="drawer_offline">Slide este în modul fără conexiune</string>
+    <string name="drawer_offline">Cash este în modul fără conexiune</string>
     <string name="drawer_offline_retry">Încearcă să intri în modul online</string>
     <!-- Sidebar items (That's the one on the right) -->
     <string name="sidebar_wiki">Subreddit wiki</string>
@@ -195,7 +195,7 @@
     <string name="err_no_connection">Nu s-a putut ajunge la Reddit. Dorești sa încerci din nou?</string>
     <string name="err_retry_later">Încearcă din nou într-un minut!</string>
     <string name="err_permission">Permisiunea a fost refuzată</string>
-    <string name="err_permission_msg">Se pare că ai blocat accesul lui Slide pentru depozitarea externă. Se va vedea afectat cache-ul cu imagini, posturi, și nu vei putea salva imagini :(.\n Dorești să permiți accesul pentru depozitarea externă pentru Slide?</string>
+    <string name="err_permission_msg">Se pare că ai blocat accesul lui Cash pentru depozitarea externă. Se va vedea afectat cache-ul cu imagini, posturi, și nu vei putea salva imagini :(.\n Dorești să permiți accesul pentru depozitarea externă pentru Cash?</string>
     <string name="err_authentication">Autentificare eșuată</string>
     <string name="err_submit_restricted">Acest subreddit este restricţionat</string>
     <string name="err_submit_restricted_text">Nu ai voie să postezi aici. Te rugăm să alegi alt subreddit</string>
@@ -290,7 +290,7 @@
     <string name="misc_img_share">Distribuie imaginea cu</string>
     <string name="misc_link_chooser">Deschide URL-ul cu</string>
     <string name="misc_copy_text">Copiază textul</string>
-    <string name="misc_rate_title">Îți place Slide?</string>
+    <string name="misc_rate_title">Îți place Cash?</string>
     <string name="misc_rate_msg">Evaluează!</string>
     <!-- Goto User -->
     <string name="user_enter">Introdu numele de utilizator</string>
@@ -335,7 +335,7 @@
     <string name="backup_backing_up">Salvând setările</string>
     <string name="backup_restore_settings">Restaurarea setărilor s-a realizat cu succes!</string>
     <string name="backup_restarting">Aplicația se va restarta.</string>
-    <string name="backup_info">Slide salvează informațiile tale într-un dosar privat în Google Drive. Poți sincroniza datele acestea între dispozitive (sau în același dispozitiv), iar informațiile nu ajung la nici un serviciu sau server terț.</string>
+    <string name="backup_info">Cash salvează informațiile tale într-un dosar privat în Google Drive. Poți sincroniza datele acestea între dispozitive (sau în același dispozitiv), iar informațiile nu ajung la nici un serviciu sau server terț.</string>
     <string name="backup_btn">Copie de rezervă</string>
     <string name="backup_btn_restore">Restaurează</string>
     <string name="backup_btn_file">Copie de rezervă în fișier</string>
@@ -369,7 +369,7 @@
     <string name="mod_btn_author">Profilul autorului</string>
     <string name="mod_btn_ban">Blochează</string>
     <string name="mod_ban_user">Blochează utilizator</string>
-    <string name="mod_ban_reauth">Pentru a bloca utilizatori, Slide trebuie să te reautentifice</string>
+    <string name="mod_ban_reauth">Pentru a bloca utilizatori, Cash trebuie să te reautentifice</string>
     <string name="mod_ban_success">Utilizator blocat!</string>
     <string name="mod_ban_fail">Eroare la blocarea utilizatorului</string>
     <string name="mod_ban_reason">Motivul blocării</string>
@@ -419,7 +419,7 @@
     <string name="settings_link_handling">Comportamentul linkurilor</string>
     <string name="settings_link_image">Vizualizare internă a imaginilor</string>
     <string name="settings_mail_check">Verifică dacă sunt mesaje noi</string>
-    <string name="settings_mail_info">Cu cât mai des se verifică, cu atât mai multă baterie va fi folosită de Slide în fundal!</string>
+    <string name="settings_mail_info">Cu cât mai des se verifică, cu atât mai multă baterie va fi folosită de Cash în fundal!</string>
     <string name="settings_main_color_title">Modifică culoarea principală</string>
     <string name="settings_notification">Verifică dacă sunt mesaje noi la fiecare %1$s</string>
     <string name="settings_notification_short">Verifică o dată la fiecare %1$s</string>
@@ -434,7 +434,7 @@
     <string name="settings_bugs">Raportează un bug</string>
     <string name="settings_changelog">Vezi changelog</string>
     <string name="settings_google">Conectare la Google în curs</string>
-    <string name="settings_google_msg">Slide se conectează cu Google. Încearcă din nou în câteva secunde!</string>
+    <string name="settings_google_msg">Cash se conectează cu Google. Încearcă din nou în câteva secunde!</string>
     <string name="settings_fabclear_msg">Atingerea butonului de curățare va șterge posturile din vizualizarea actuală, dar temporal.\nApăsarea le va ascunde pentru totdeauna!</string>
     <string name="settings_fabclear">Acțiunile de curățare BAF</string>
     <string name="settings_notifdisabled">Notificări dezactivate.</string>
@@ -583,17 +583,17 @@
     <string name="title_mod">Moderator</string>
     <!-- Text in Donation-Activity -->
     <string name="donate_amount_title">Suma aceasta&#8230;</string>
-    <string name="donate_info_student">Ca programator student, sunt toate recunoscător pentru donațiile voastre generoase! M-au ajutat să din Slide o realitate (gratuită) :)</string>
+    <string name="donate_info_student">Ca programator student, sunt toate recunoscător pentru donațiile voastre generoase! M-au ajutat să din Cash o realitate (gratuită) :)</string>
     <string name="donate_btn">Donează</string>
     <string name="donate_amount_ads1">Evită ca</string>
     <string name="donate_amount_ads2">de reclame să fie afișate</string>
     <string name="donate_amount_hours1">Susține</string>
     <string name="donate_amount_hours2">ore de dezvoltare</string>
-    <string name="donate_title">Ajută Slide for Reddit</string>
+    <string name="donate_title">Ajută Cash for Reddit</string>
     <string name="donate_err_title">Nu s-a putut realiza donația :(</string>
     <string name="donate_err_msg">Din păcate, donația nu s-a putut realiza. Asigură-te că ești conectat la internet și încearcă din nou! Mulțumim pentru că ne susții!</string>
     <string name="donate_success_title">Donația realizată cu succes!</string>
-    <string name="donate_success_msg">Mulțumesc foarte mult pentru sprijinul oferit către Slide for Reddit! Înseamnă foarte mult pentru mine. Dacă se ivește vreo problemă, trimite-mi un email sau raportează pe Github în orice moment!</string>
+    <string name="donate_success_msg">Mulțumesc foarte mult pentru sprijinul oferit către Cash for Reddit! Înseamnă foarte mult pentru mine. Dacă se ivește vreo problemă, trimite-mi un email sau raportează pe Github în orice moment!</string>
     <string name="donate_success_btn">Ești binevenit!</string>
     <!-- Offline mode -->
     <string name="offline_caching">Salvând postările</string>
@@ -630,7 +630,7 @@
     <string name="login_subscribe_rslideforreddit_desc">Doriți să vă abonați la /r/slideforreddit pentru noutăți și raportare de probleme?</string>
     <string name="login_sync_colors">Sincronizați culorile acum?</string>
     <string name="login_sync_colors_desc">Doriți să sincronizați culorile subreddit-ului acum? Acest lucru poate fi făcut mai târziu în Setări → Teme subreddit</string>
-    <string name="login_authenticating">Slide se autentifică</string>
+    <string name="login_authenticating">Cash se autentifică</string>
     <string name="login_starting">Setăm lucrurile!</string>
     <string name="login_starting_desc">Ar trebui să dureze o secundă&#8230;</string>
     <!-- Over 18 prompt when visiting a NSFW subreddit -->
@@ -749,7 +749,7 @@
     <string name="btn_collapse_children_all">Colapsează comentariile copil</string>
     <string name="btn_open_content">Deschide conținut</string>
     <string name="load_videos_internally">Încarcă videourile intern</string>
-    <string name="load_videos_internally_content">Doriți să încercați plugin-ul video pentru Slide? Acesta vă va permite să vizionați videoclipuri din aplicație (ca pe YouTube)!</string>
+    <string name="load_videos_internally_content">Doriți să încercați plugin-ul video pentru Cash? Acesta vă va permite să vizionați videoclipuri din aplicație (ca pe YouTube)!</string>
     <string name="do_not_show_again">Nu arăta din nou</string>
     <string name="datasave_always">Date mobile sau Wi-Fi</string>
     <string name="datasave_mobile">Date mobile</string>
@@ -791,7 +791,7 @@
     <string name="upvote_percentage">Arată procentul de upvoturi</string>
     <string name="view_subreddits">Vezi subreddit-uri</string>
     <string name="clear_saved_subreddits">Șterge toate subreddit-urile salvate</string>
-    <string name="download_the_slide_video_player_plugin">Descarcă plugin-ul Slide Video Player</string>
+    <string name="download_the_slide_video_player_plugin">Descarcă plugin-ul Cash Video Player</string>
     <string name="btn_suggest_title">Sugerează titlu</string>
     <string name="navigate_comments_since">Comentarii mai noi decât&#8230;</string>
     <string name="btn_offline">Intră în modul offline</string>
@@ -811,7 +811,7 @@
     <string name="unsticky_comment">Sigur dezlipești acest comentariu?</string>
     <string name="comment_removed">Comentariu şters</string>
     <string name="set_nav_mode">Setează modul de navigare</string>
-    <string name="rate_slide">Acordă o notă pentru Slide</string>
+    <string name="rate_slide">Acordă o notă pentru Cash</string>
     <string name="empty_preview_text">Nimic de văzut ¯\\_(ツ)_/¯</string>
     <string name="low_quality_through_imgur_higher_resolution">Calitate joasă prin Imgur (calitate mai înaltă)</string>
     <string name="low_quality_through_reddit_lower_resolution">Calitate joasă prin Reddit (rezoluție mai joasă)</string>
@@ -820,6 +820,6 @@
     <string name="enlarge_links">Mărește linkuri</string>
     <string name="type_tumblr">Tumblr</string>
     <string name="type_nsfw_tumblr">NSFW Tumblr</string>
-    <string name="sub_post_notifs_msg">Slide va verifica postările noi atunci când verifică mail-ul (notificările de mail trebuie să fie activate)</string>
+    <string name="sub_post_notifs_msg">Cash va verifica postările noi atunci când verifică mail-ul (notificările de mail trebuie să fie activate)</string>
     <string name="mod_ban_reason_required">Motivul este necesar</string>
 </resources>

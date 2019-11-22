@@ -4,11 +4,11 @@
     <!-- Generic text used anywhere -->
     <string name="general_confirm">Onayla</string>
     <string name="general_confirm_exit">Çıkışı onayla</string>
-    <string name="general_confirm_exit_msg">Gerçekten Slide\'dan çıkmak istiyor musunuz?</string>
+    <string name="general_confirm_exit_msg">Gerçekten Cash\'dan çıkmak istiyor musunuz?</string>
     <string name="general_enable_shadowbox">Shadowbox Modunu Etkinleştir</string>
-    <string name="pro_upgrade_msg">Slide for Reddit Pro sürümüne geçin ve:\n\n- Reklam Engelleyici ve Web sitesi görünümünde Okuma Modu\n- Yüklenen görüntüleri kesme ve üzerine çizme\n- Özelleştirilebilir çoklu sütun modu\n- Otomatik gece modu\n- Shadowbox ve Galeri içerik görünümleri\n- Yorum Shadowbox görünümü\n- Google Drive ve dosyaya yedekleme ve yedekten geri yükleme\n- de dahil birçok şahane özellikten yararlanıp, açık kaynaklı ve reklamsız yazılımları destekleyin!\n\n Slide for Reddit\'i desteklemek ister misiniz?</string>
-    <string name="general_pro_msg">Slide\'ın bir kaç özelliğini açmak için Play Store\'dan Pro anahtarını almak gerekir.\n\nBu, uygulamanın geliştirilmesinin devamı ve Slide\'ın ücretsiz sürümünde bile reklam olmamasını sağlamak içindir!\n\nBunun yanısıra Pro sürümü çoklu sütun modu, Shadowbox modu(görüntü subredditleri için), galeri modu, Google Drive\'a ve dosyaya yedekleme ve yedekten geri yükleme, görüntüleri kırpma ve üzerlerine çizim yapma gibi özellikleri de içerir!\n\n Slide for Reddit Pro\'yu açmak ister misiniz?</string>
-    <string name="general_pro_msg_crop">Slide\'ın bir kaç özelliğini açmak için (görüntüleri kırpma ve üzerlerine çizim yapma dahil) Play Store\'dan Pro anahtarını almak gerekir.\n\nBu, uygulamanın geliştirilmesinin devamı ve Slide\'ın ücretsiz sürümünde bile reklam olmamasını sağlamak içindir!\n\nBunun yanısıra Pro sürümü çoklu sütun modu, Shadowbox modu(görüntü subredditleri için), galeri modu, Google Drive\'a ve dosyaya yedekleme ve yedekten geri yükleme gibi özellikleri de içerir!\n\n Slide for Reddit Pro\'yu açmak ister misiniz?</string>
+    <string name="pro_upgrade_msg">Cash for Reddit Pro sürümüne geçin ve:\n\n- Reklam Engelleyici ve Web sitesi görünümünde Okuma Modu\n- Yüklenen görüntüleri kesme ve üzerine çizme\n- Özelleştirilebilir çoklu sütun modu\n- Otomatik gece modu\n- Shadowbox ve Galeri içerik görünümleri\n- Yorum Shadowbox görünümü\n- Google Drive ve dosyaya yedekleme ve yedekten geri yükleme\n- de dahil birçok şahane özellikten yararlanıp, açık kaynaklı ve reklamsız yazılımları destekleyin!\n\n Cash for Reddit\'i desteklemek ister misiniz?</string>
+    <string name="general_pro_msg">Cash\'ın bir kaç özelliğini açmak için Play Store\'dan Pro anahtarını almak gerekir.\n\nBu, uygulamanın geliştirilmesinin devamı ve Cash\'ın ücretsiz sürümünde bile reklam olmamasını sağlamak içindir!\n\nBunun yanısıra Pro sürümü çoklu sütun modu, Shadowbox modu(görüntü subredditleri için), galeri modu, Google Drive\'a ve dosyaya yedekleme ve yedekten geri yükleme, görüntüleri kırpma ve üzerlerine çizim yapma gibi özellikleri de içerir!\n\n Cash for Reddit Pro\'yu açmak ister misiniz?</string>
+    <string name="general_pro_msg_crop">Cash\'ın bir kaç özelliğini açmak için (görüntüleri kırpma ve üzerlerine çizim yapma dahil) Play Store\'dan Pro anahtarını almak gerekir.\n\nBu, uygulamanın geliştirilmesinin devamı ve Cash\'ın ücretsiz sürümünde bile reklam olmamasını sağlamak içindir!\n\nBunun yanısıra Pro sürümü çoklu sütun modu, Shadowbox modu(görüntü subredditleri için), galeri modu, Google Drive\'a ve dosyaya yedekleme ve yedekten geri yükleme gibi özellikleri de içerir!\n\n Cash for Reddit Pro\'yu açmak ister misiniz?</string>
     <string name="general_open_settings">Subreddit Ayarları\'nı Açın</string>
     <string name="general_sub_sync">Abonelikler eşitleniyor</string>
     <string name="general_gallerymode_ispro">Galeri modu bir Pro özelliğidir</string>
@@ -105,7 +105,7 @@
     <string name="drawer_hello">Merhaba,</string>
     <string name="drawer_search">Subreddite gidin</string>
     <string name="drawer_moderation">Moderasyon</string>
-    <string name="drawer_offline">Slide çevrimdışı modda</string>
+    <string name="drawer_offline">Cash çevrimdışı modda</string>
     <string name="drawer_offline_retry">Çevrimiçi moda girmeyi dene</string>
     <!-- Sidebar items (That's the one on the right) -->
     <string name="sidebar_wiki">Subreddit wikisi</string>
@@ -215,7 +215,7 @@
     <string name="err_no_connection">Reddit\'e ulaşılamadı. Tekrar denemek ister misin?</string>
     <string name="err_retry_later">Bir dakika içinde yeniden deneyin!</string>
     <string name="err_permission">İzin reddedildi</string>
-    <string name="err_permission_msg">Slide\'in harici depolama için yazma erişim iznini engellemişiniz gibi görünüyor. Bu durum resim önbelleğinde, yazı önbelleğinde ve resimleri kaydederken hatalara sebep olur :(. \nSlide\'ın harici depolamaya erişmesine izin vermek ister misiniz?</string>
+    <string name="err_permission_msg">Cash\'in harici depolama için yazma erişim iznini engellemişiniz gibi görünüyor. Bu durum resim önbelleğinde, yazı önbelleğinde ve resimleri kaydederken hatalara sebep olur :(. \nCash\'ın harici depolamaya erişmesine izin vermek ister misiniz?</string>
     <string name="err_authentication">Kimlik doğrulaması başarısız</string>
     <string name="err_submit_restricted">Bu subreddit sınırlıdır</string>
     <string name="err_submit_restricted_text">Lütfen başka bir subreddit seçin. Buraya gönderi yollamaya yetkiniz yok.</string>
@@ -229,12 +229,12 @@
     <string name="err_refused_request_msg">Reddit isteği reddetti. Reddit\'e tekrar bağlanmaya çalışmak ister misiniz?</string>
     <string name="err_color_sync_login">Renk eşitlemeyi kullanmak için lütfen giriş yapınız</string>
     <string name="err_something_wrong">Hay aksi, bir şeyler ters gitti</string>
-    <string name="err_couldnt_save_choose_new">Slide seçilen konuma kaydedemedi. Yeni bir konum seçmek ister misiniz?</string>
+    <string name="err_couldnt_save_choose_new">Cash seçilen konuma kaydedemedi. Yeni bir konum seçmek ister misiniz?</string>
     <string name="err_share_image">Görüntü paylaşımı sırasında hata oluştu</string>
     <string name="err_file_not_found">Dosya bulunamadı</string>
-    <string name="err_not_valid_backup">Geçerli bir Slide yedek dosyası değil</string>
-    <string name="err_not_valid_backup_msg">Seçili dosya geçerli bir Slide yedek dosyası değil</string>
-    <string name="err_file_not_found_msg">Seçili dosya bulunamadı. Lütfen dosyanın varolduğundan ve Slide\'ın bu dosya/klasöre erişim izni olduğundan emin olun</string>
+    <string name="err_not_valid_backup">Geçerli bir Cash yedek dosyası değil</string>
+    <string name="err_not_valid_backup_msg">Seçili dosya geçerli bir Cash yedek dosyası değil</string>
+    <string name="err_file_not_found_msg">Seçili dosya bulunamadı. Lütfen dosyanın varolduğundan ve Cash\'ın bu dosya/klasöre erişim izni olduğundan emin olun</string>
     <string name="err_comment_post">Hay aksi, yorumu gönderme başarısız oldu!</string>
     <string name="err_comment_post_reason">Sebep: %1$s</string>
     <string name="err_comment_post_message">\n\nİletiniz taslak olarak kaydedildi. Lütfen daha sonra tekrar deneyin.</string>
@@ -343,7 +343,7 @@
     <string name="misc_setting_up">Bazı şeyler ayarlanıyor&#8230;</string>
     <string name="misc_setting_up_message">Lütfen bu ekrandan ayrılmayın. Çok uzun sürmez!</string>
     <string name="misc_more_info">Daha fazla bilgi</string>
-    <string name="misc_rate_title">Slide\'ı sevdin mi?</string>
+    <string name="misc_rate_title">Cash\'ı sevdin mi?</string>
     <string name="misc_rate_msg">Oy ver!</string>
     <string name="misc_captcha_incorrect">Captcha yanlış, lütfen tekrar deneyin</string>
     <!-- Goto User -->
@@ -392,7 +392,7 @@
     <string name="backup_backing_up">Ayarlarınız yedekleniyor</string>
     <string name="backup_restore_settings">Ayar geri yükleme başarılı!</string>
     <string name="backup_restarting">Uygulama şimdi yeniden başlayacak.</string>
-    <string name="backup_info">Slide tüm verilerinizi Google Drive\'da kişisel bir dosyaya yedekler. Bu verilerinizi cihazlarınız arasında (ya da aynı cihazda) eşitleyebilirsiniz, ve verileriniz asla üçüncü taraf servis ya da sunuclarına ulaşmaz.</string>
+    <string name="backup_info">Cash tüm verilerinizi Google Drive\'da kişisel bir dosyaya yedekler. Bu verilerinizi cihazlarınız arasında (ya da aynı cihazda) eşitleyebilirsiniz, ve verileriniz asla üçüncü taraf servis ya da sunuclarına ulaşmaz.</string>
     <string name="backup_btn">Yedekle</string>
     <string name="backup_btn_restore">Geri yükle</string>
     <string name="backup_btn_file">Dosyaya yedekle</string>
@@ -429,8 +429,8 @@
     <string name="mod_btn_author">Yazar profili</string>
     <string name="mod_btn_ban">Yasakla</string>
     <string name="mod_ban_user">Kullanıcıyı yasakla</string>
-    <string name="mod_ban_reauth">Kullanıcıları yasaklamak için Slide\'ın sizi yeniden doğrulaması gerekiyor</string>
-    <string name="mod_ban_reauth_question">Slide\'a yeniden giriş yapmak ister misiniz?</string>
+    <string name="mod_ban_reauth">Kullanıcıları yasaklamak için Cash\'ın sizi yeniden doğrulaması gerekiyor</string>
+    <string name="mod_ban_reauth_question">Cash\'a yeniden giriş yapmak ister misiniz?</string>
     <string name="mod_ban_success">Kullanıcı yasaklandı!</string>
     <string name="mod_ban_fail">Kullanıcı yasaklanırken hata oluştu</string>
     <string name="mod_ban_reason">Yasaklama sebebi</string>
@@ -499,7 +499,7 @@
     <string name="settings_link_handling">Bağlantı açma şekli</string>
     <string name="settings_link_image">Dahili resim gösterimi</string>
     <string name="settings_mail_check">Yeni mesajlar için kontrol et</string>
-    <string name="settings_mail_info">Sıklığı yükselttikçe, Slide arka planda daha fazla pil harcayacaktır!</string>
+    <string name="settings_mail_info">Sıklığı yükselttikçe, Cash arka planda daha fazla pil harcayacaktır!</string>
     <string name="settings_main_color_title">Ana rengi değiştirin</string>
     <string name="settings_notification">Yeni posta denetimi her %1$s da bir yapılsın</string>
     <string name="settings_notification_newline">Yeni mesaj denetimi her \n%1$s da bir yapılsın</string>
@@ -516,7 +516,7 @@
     <string name="settings_bugs">Hata raporu</string>
     <string name="settings_changelog">Değişiklikleri görüntüle</string>
     <string name="settings_google">Google\'a bağlanılıyor</string>
-    <string name="settings_google_msg">Slide, Google\'a bağlanıyor. Bir kaç saniye içinde yeniden deneyin!</string>
+    <string name="settings_google_msg">Cash, Google\'a bağlanıyor. Bir kaç saniye içinde yeniden deneyin!</string>
     <string name="settings_fabclear_msg">Temizle butonuna basmak gönderileri şu anki ekrandan temizler fakat sürekli gizlemez. \nButona uzun basmak gönderileri sürekli gizler!</string>
     <string name="settings_fabclear">FAB temizleme eylemleri</string>
     <string name="settings_notifdisabled">Bildirimler devre dışı</string>
@@ -633,7 +633,7 @@
     <string name="settings_backup_err_no_explorer">Bir dosya gezgini bulunamadı, dosya %1$s konumunda</string>
     <string name="settings_about_version_copied_toast">Sürüm numarası panoya kopyalandı</string>
     <string name="settings_about_stacktrace_copied_toast">Stacktrace panoya kopyalandı</string>
-    <string name="settings_support_slide">Pro sürümüne geçerek Slide for Reddit\'i destekleyin!</string>
+    <string name="settings_support_slide">Pro sürümüne geçerek Cash for Reddit\'i destekleyin!</string>
     <string name="settings_theme_night_start_title">Gece modu için bir başlangıç saati seçin</string>
     <string name="settings_theme_night_end_title">Gece modu için bir bitiş saati seçin</string>
     <string name="settings_theme_night_start_at">\u0020\'da başla</string>
@@ -669,7 +669,7 @@
     <string name="reorder_not_found_err">Subreddit bulunamadı, bir kaç öneri</string>
     <string name="reorder_subscribed_toast">/r/%1$s\'e abone olundu</string>
     <string name="reorder_unsubscribed_toast">/r/%1$s\'e abonelikten çıkıldı</string>
-    <string name="sorting_faq"><b>Subredditleri nasıl yenilerim?</b>\nSubredditleri yenilemek için, araç çubuğundaki yenile ikonuna tıkla!\n\n<b>Bazı subredditlerin aboneliğinden çıktım ama yinede listedeler!</b>\nSlide, tarayıcıdan aboneliğinden çıkılmış subları normal aboneliklere çevirir. Onları da silmek için subreddit üzerine basılı tut ve kaldır tuşuna bas!\n\n<b>Koleksiyonları nasıl kullanırım?</b>\nBir koleksiyon kullanmak için, + FAB tuşuna basın ve \'Koleksiyon oluştur\'u seçin. Böylece seçtiğiniz sublar ana ekranda tek bir sub gibi davranır!</string>
+    <string name="sorting_faq"><b>Subredditleri nasıl yenilerim?</b>\nSubredditleri yenilemek için, araç çubuğundaki yenile ikonuna tıkla!\n\n<b>Bazı subredditlerin aboneliğinden çıktım ama yinede listedeler!</b>\nCash, tarayıcıdan aboneliğinden çıkılmış subları normal aboneliklere çevirir. Onları da silmek için subreddit üzerine basılı tut ve kaldır tuşuna bas!\n\n<b>Koleksiyonları nasıl kullanırım?</b>\nBir koleksiyon kullanmak için, + FAB tuşuna basın ve \'Koleksiyon oluştur\'u seçin. Böylece seçtiğiniz sublar ana ekranda tek bir sub gibi davranır!</string>
     <string name="FAQ">S.S.S</string>
     <string name="alphabetize_subreddits">Subredditleri alfabetik sıraya diz</string>
     <string name="sync_subscriptions">Abonelikleri eşitle</string>
@@ -734,17 +734,17 @@
     <string name="title_mod">Moderatör</string>
     <!-- Text in Donation-Activity -->
     <string name="donate_amount_title">Bu miktar&#8230;</string>
-    <string name="donate_info_student">Ben bir öğrenci ve geliştiriciyim, cömert bağışlarınız için çok teşekkür ederim! Bağışlarınız bana Slide\'ı (ücretsiz) bir gerçek yapmamda yardımcı oldu :)</string>
+    <string name="donate_info_student">Ben bir öğrenci ve geliştiriciyim, cömert bağışlarınız için çok teşekkür ederim! Bağışlarınız bana Cash\'ı (ücretsiz) bir gerçek yapmamda yardımcı oldu :)</string>
     <string name="donate_btn">Bağış yapın</string>
     <string name="donate_amount_ads1">engeller</string>
     <string name="donate_amount_ads2">reklamın gösterilmesini</string>
     <string name="donate_amount_hours1">destekler</string>
     <string name="donate_amount_hours2">saat geliştirmeyi</string>
-    <string name="donate_title">Slide for Reddit\'i Destekleyin</string>
+    <string name="donate_title">Cash for Reddit\'i Destekleyin</string>
     <string name="donate_err_title">Bağış başarısız :(</string>
     <string name="donate_err_msg">Ne yazık ki, bağışınız ulaşmadı. Internet\'e bağlı olduğunuzdan emin olun ve tekrar deneyin! Desteğiniz için teşekkür ederim!</string>
     <string name="donate_success_title">Bağış başarılı!</string>
-    <string name="donate_success_msg">Slide for Reddit\'e desteğiniz için çok teşekkür ederiz! Bu benim için gerçekten çok önemli. Eğer herhangi bir sorunla karşılaşırsanız, bana bir e-posta atın ya da istediğiniz zaman /r/slideforreddit \'e mesaj yazın!</string>
+    <string name="donate_success_msg">Cash for Reddit\'e desteğiniz için çok teşekkür ederiz! Bu benim için gerçekten çok önemli. Eğer herhangi bir sorunla karşılaşırsanız, bana bir e-posta atın ya da istediğiniz zaman /r/slideforreddit \'e mesaj yazın!</string>
     <string name="donate_success_btn">Bir şey değil!</string>
     <!-- Offline mode -->
     <string name="offline_caching">Gönderiler ön belleğe alınıyor</string>
@@ -799,7 +799,7 @@
     <string name="login_subscribe_rslideforreddit_desc">/r/slideforreddit\'e sorunları bildirmek ve son durumdan haberdar olmak için abone olmak ister misiniz?</string>
     <string name="login_sync_colors">Renkleri şimdi eşle?</string>
     <string name="login_sync_colors_desc">Subreddit renklerini şimdi eşlemek ister misiniz? Ayarlar → Subreddit temaları kısmından da yapabilirsiniz</string>
-    <string name="login_authenticating">Slide bilgilerinizi doğruluyor</string>
+    <string name="login_authenticating">Cash bilgilerinizi doğruluyor</string>
     <string name="login_starting">Bir kaç şey ayarlanıyor!</string>
     <string name="login_starting_desc">Bu sadece bir kaç saniye sürer&#8230;</string>
     <!-- Over 18 prompt when visiting a NSFW subreddit -->
@@ -921,11 +921,11 @@
     <string name="comments_count">Önbelleğe alınacak yorumların sayısı</string>
     <!-- Saving location setting -->
     <string name="set_gif_save_loc">GIF kaydetme konumunu seçin</string>
-    <string name="set_gif_save_loc_msg">Slide\'ın GIF kaydetme konumu henüz ayarlanmamış. Şimdi ayarlamak ister misiniz?</string>
+    <string name="set_gif_save_loc_msg">Cash\'ın GIF kaydetme konumu henüz ayarlanmamış. Şimdi ayarlamak ister misiniz?</string>
     <string name="set_video_save_loc">Video kaydetme konumunu seçin</string>
-    <string name="set_video_save_loc_msg">Slide\'ın video kaydetme konumu henüz ayarlanmamış. Şimdi ayarlamak ister misiniz?</string>
+    <string name="set_video_save_loc_msg">Cash\'ın video kaydetme konumu henüz ayarlanmamış. Şimdi ayarlamak ister misiniz?</string>
     <string name="set_save_location">Görüntü kaydetme konumunu seçin</string>
-    <string name="set_save_location_msg">Slide\'ın görüntü kaydetme konumu henüz ayarlanmamış. Şimdi ayarlamak ister misiniz?</string>
+    <string name="set_save_location_msg">Cash\'ın görüntü kaydetme konumu henüz ayarlanmamış. Şimdi ayarlamak ister misiniz?</string>
     <!-- Report flow -->
     <string name="btn_report">Rapor Et</string>
     <string name="report_post">Gönderiyi bildir</string>
@@ -1016,7 +1016,7 @@
     <string name="upvote_percentage">Artılanma oranını göster</string>
     <string name="view_subreddits">Subredditleri görüntüle</string>
     <string name="clear_saved_subreddits">Tüm kaydedilmiş subredditleri temizle</string>
-    <string name="download_the_slide_video_player_plugin">Slide Video Player eklentisini indir</string>
+    <string name="download_the_slide_video_player_plugin">Cash Video Player eklentisini indir</string>
     <string name="btn_suggest_title">Başlık tavsiye et</string>
     <string name="navigate_comments_since">...dan daha yeni yorumlar</string>
     <string name="btn_offline">Çevrimdışı moda gir</string>
@@ -1044,9 +1044,9 @@
     <string name="comment_removed">Yorum silindi</string>
     <string name="set_nav_mode">Gezinme modunu belirle</string>
     <string name="auto_hide_the_comment_nav_bar">Yorum gezinme çubuğunu otomatik olarak gizle</string>
-    <string name="rate_slide">Slide\'a oy ver</string>
+    <string name="rate_slide">Cash\'a oy ver</string>
     <string name="edit_query">Sorgu Düzenle</string>
-    <string name="share_slide">Slide\'ı paylaş</string>
+    <string name="share_slide">Cash\'ı paylaş</string>
     <string name="create_folder">Klasör oluştur</string>
     <string name="folder_name">Klasör adı</string>
     <string name="sidebar_friends">Arkadaşlar</string>
@@ -1072,7 +1072,7 @@
     <string name="type_tumblr">Tumblr</string>
     <string name="type_nsfw_tumblr">NSFW Tumblr</string>
     <string name="submission_info_contest">Bu konu yarışma modundadır. Sıralamayı değiştiremezsiniz.</string>
-    <string name="sub_post_notifs_msg">Slide, yeni mesajları kontrol ederken yeni gönderileri de kontrol edecektir (mesaj bildirimleri etkin olmalıdır)</string>
+    <string name="sub_post_notifs_msg">Cash, yeni mesajları kontrol ederken yeni gönderileri de kontrol edecektir (mesaj bildirimleri etkin olmalıdır)</string>
     <string name="mod_ban_reason_required">Sebep gereklidir</string>
     <string name="settings_abbreviate_post_scores">Gönderi puanlarını kısalt (örn. 24.0k)</string>
     <string name="settings_wide_depth_indicators">Geniş yorum derinliği göstergeleri</string>

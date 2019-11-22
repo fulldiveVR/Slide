@@ -4,9 +4,9 @@
     <!-- Generic text used anywhere -->
     <string name="general_confirm">Potvrdi</string>
     <string name="general_confirm_exit">Potvrdi izlaz iz aplikacije</string>
-    <string name="general_confirm_exit_msg">Stvarno želiš izaći iz Slide?</string>
+    <string name="general_confirm_exit_msg">Stvarno želiš izaći iz Cash?</string>
     <string name="general_enable_shadowbox">Omogući Shadowbox način</string>
-    <string name="pro_upgrade_msg">Nadogradi na Slide for Reddit Pro i uživaj u super značajkama uključujući:\n\n- Bloker za reklame i čitalački mod u web-prikazu\n- Obrezivanje i crtanje slika prije upload-a\n- Prilagodljivi način s kolumnima\n- Automatski noćni prikaz\n- Prikaz sadržaja Shadowboxa i galerije\n- Shadowbox prikaz za komentare\n- Sigurnosna kopija sadržaja na Google Disk\n- Podržavanje softvera odtvorenog koda\n\nBiste li htjeli podržati Slide for Reddit?</string>
+    <string name="pro_upgrade_msg">Nadogradi na Cash for Reddit Pro i uživaj u super značajkama uključujući:\n\n- Bloker za reklame i čitalački mod u web-prikazu\n- Obrezivanje i crtanje slika prije upload-a\n- Prilagodljivi način s kolumnima\n- Automatski noćni prikaz\n- Prikaz sadržaja Shadowboxa i galerije\n- Shadowbox prikaz za komentare\n- Sigurnosna kopija sadržaja na Google Disk\n- Podržavanje softvera odtvorenog koda\n\nBiste li htjeli podržati Cash for Reddit?</string>
     <string name="general_open_settings">Otvori postavke Podreddita</string>
     <string name="general_sub_sync">Sinkroniziram pretplate</string>
     <string name="general_shadowbox_ispro">Shadowbox način je Pro mogućnost</string>
@@ -105,7 +105,7 @@
     <string name="drawer_hello">Bok,</string>
     <string name="drawer_search">Traži podreddit</string>
     <string name="drawer_moderation">Moderator</string>
-    <string name="drawer_offline">Slide je u izvanmrežnom načinu rada</string>
+    <string name="drawer_offline">Cash je u izvanmrežnom načinu rada</string>
     <string name="drawer_offline_retry">Pokušaj se povezati s internetom</string>
     <!-- Sidebar items (That's the one on the right) -->
     <string name="sidebar_wiki">Podreddit wiki</string>
@@ -213,7 +213,7 @@
     <string name="err_no_connection">Neuspješno povezivanje s Redditom. Želite li pokušati ponovno?</string>
     <string name="err_retry_later">Pokušajte opet za minutu!</string>
     <string name="err_permission">Dopuštenje odbijeno</string>
-    <string name="err_permission_msg">Izgleda da ste uskratili pristup Slide-u za zapisivanje u vanjsku pohranu. Tako će cache slika, cache postova i spremanje slika biti neuspješno :(. \nŽelite li dopustiti Slide-u pristup vanjskoj pohrani?</string>
+    <string name="err_permission_msg">Izgleda da ste uskratili pristup Cash-u za zapisivanje u vanjsku pohranu. Tako će cache slika, cache postova i spremanje slika biti neuspješno :(. \nŽelite li dopustiti Cash-u pristup vanjskoj pohrani?</string>
     <string name="err_authentication">Autentifikacija neuspješna</string>
     <string name="error_video_not_found">Video nije pronađen</string>
     <string name="error_video_message">Došlo je do pogreške tijekom učitavanja videa</string>
@@ -319,7 +319,7 @@
     <string name="misc_please_try_again">Molimo pokušajte ponovno</string>
     <string name="misc_please_try_again_soon">Molim, pokušajte ponovo kasnije</string>
     <string name="misc_more_info">Više informacija</string>
-    <string name="misc_rate_title">Sviđa ti se Slide?</string>
+    <string name="misc_rate_title">Sviđa ti se Cash?</string>
     <string name="misc_rate_msg">Ocjenite ga!</string>
     <string name="misc_captcha_incorrect">Capatcha netočna, molimo pokušajte ponovno</string>
     <!-- Goto User -->
@@ -368,7 +368,7 @@
     <string name="backup_backing_up">Stvaranje sigurnosnih kopija postavki</string>
     <string name="backup_restore_settings">Vraćanje postavka uspješno!</string>
     <string name="backup_restarting">Aplikacija će se sada ponovno pokrenuti.</string>
-    <string name="backup_info">Slide sigurnosno kopira sve podatke u privatnu mapu Google Drive. Možete sinkronizirati podatke svih uređaja (ili na istog uređaja), a podatci nikada ne idu preko drugih usluga ili poslužitelja.</string>
+    <string name="backup_info">Cash sigurnosno kopira sve podatke u privatnu mapu Google Drive. Možete sinkronizirati podatke svih uređaja (ili na istog uređaja), a podatci nikada ne idu preko drugih usluga ili poslužitelja.</string>
     <string name="backup_btn">Sigurnosna kopija</string>
     <string name="backup_btn_restore">Vrati</string>
     <string name="backup_btn_file">Sigurnosno kopiraj u datoteku</string>
@@ -403,7 +403,7 @@
     <string name="mod_btn_author">Profil autora</string>
     <string name="mod_btn_ban">Zabranite pristup</string>
     <string name="mod_ban_user">Zabrana pristupa korisniku</string>
-    <string name="mod_ban_reauth_question">Želite li se ponovno logirati u Slide?</string>
+    <string name="mod_ban_reauth_question">Želite li se ponovno logirati u Cash?</string>
     <string name="mod_ban_success">Pristup korisniku zabranjen!</string>
     <string name="mod_ban_fail">Pogreška zabrane korisnika</string>
     <string name="mod_ban_reason">Razlog Bana</string>
@@ -460,7 +460,7 @@
     <string name="settings_link_handling">Rukovanje linkovima</string>
     <string name="settings_link_image">Interni preglednik slika</string>
     <string name="settings_mail_check">Provjeri ima li novih poruka</string>
-    <string name="settings_mail_info">Veća učestalost, veća potencijalna potrošnja baterija koju će Slide koristiti u pozadini!</string>
+    <string name="settings_mail_info">Veća učestalost, veća potencijalna potrošnja baterija koju će Cash koristiti u pozadini!</string>
     <string name="settings_main_color_title">Uredi glavnu boju</string>
     <string name="settings_notification">Provjeri ima li novih poruka svakih %1$s</string>
     <string name="settings_notification_newline">Provjeri ima li novih poruka svakih \n%1$s</string>
@@ -476,7 +476,7 @@
     <string name="settings_bugs">Prijavite bugove</string>
     <string name="settings_changelog">Prikaz dnevnika promjena</string>
     <string name="settings_google">Povezivanje s Google</string>
-    <string name="settings_google_msg">Slide se povezuje sa Google. Pokušajte ponovo za nekoliko sekundi!</string>
+    <string name="settings_google_msg">Cash se povezuje sa Google. Pokušajte ponovo za nekoliko sekundi!</string>
     <string name="settings_fabclear_msg">Pritiskanjem gumba očisti ukloniti će se postovi iz trenutnog prikaza, ali neće sakriti postove zauvijek. \n Dugim pritiskom na gumb postovi će se sakriti zauvijek!</string>
     <string name="settings_fabclear">FAB akcije brisanja</string>
     <string name="settings_notifdisabled">Obavijesti onemogućene.</string>
@@ -554,7 +554,7 @@
     <string name="settings_about_changelog_post">Prikaži popis promjena</string>
     <string name="settings_backup_include_personal_title">Uključi osobne informacije?</string>
     <string name="settings_backup_view">Pogledaj kopiju</string>
-    <string name="settings_support_slide">Podrži Slide for Reddit kupovinom Pro!</string>
+    <string name="settings_support_slide">Podrži Cash for Reddit kupovinom Pro!</string>
     <string name="settings_theme_night_start_title">Odaberite vrijeme početka za noćni način rada</string>
     <string name="settings_theme_night_end_title">Odaberite vrijeme završetka za noćni način rada</string>
     <string name="settings_theme_night_start_at">Početak u\u0020</string>
@@ -639,17 +639,17 @@
     <string name="title_mod">Moderator</string>
     <!-- Text in Donation-Activity -->
     <string name="donate_amount_title">Ovaj iznos&#8230;</string>
-    <string name="donate_info_student">Ja sam student programer, i vrlo sam Vam zahvalan za vaše velikodušne donacije! One su pomogle da se Slide (besplatno) realizira :)</string>
+    <string name="donate_info_student">Ja sam student programer, i vrlo sam Vam zahvalan za vaše velikodušne donacije! One su pomogle da se Cash (besplatno) realizira :)</string>
     <string name="donate_btn">Doniraj</string>
     <string name="donate_amount_ads1">Čuva</string>
     <string name="donate_amount_ads2">reklama da ne budu prikazane</string>
     <string name="donate_amount_hours1">Podržava</string>
     <string name="donate_amount_hours2">sati razvoja</string>
-    <string name="donate_title">Podrži Slide za Reddit</string>
+    <string name="donate_title">Podrži Cash za Reddit</string>
     <string name="donate_err_title">Donacija neuspješna :(</string>
     <string name="donate_err_msg">Nažalost, donacija nije uspjela. Provjerite da li ste povezani s internetom i pokušajte ponovo! Hvala vam na Vašoj podršci!</string>
     <string name="donate_success_title">Donacija uspješna!</string>
-    <string name="donate_success_msg">Hvala vam jako puno za Vašu podršku za Slide for Reddit! To mi zaista puno znači. Ako naiđete na bilo kakve probleme, pošaljite mi e-mail ili izvješće na GitHub bilo kada!</string>
+    <string name="donate_success_msg">Hvala vam jako puno za Vašu podršku za Cash for Reddit! To mi zaista puno znači. Ako naiđete na bilo kakve probleme, pošaljite mi e-mail ili izvješće na GitHub bilo kada!</string>
     <string name="donate_success_btn">Nema na čemu!</string>
     <!-- Offline mode -->
     <string name="offline_caching">Predmemoriranje postova</string>
@@ -868,9 +868,9 @@
     <string name="comment_stickied">Komentar zalijepljen</string>
     <string name="comment_removed">Komentar uklonjen</string>
     <string name="set_nav_mode">Postavi način navigacije</string>
-    <string name="rate_slide">Ocijeni Slide</string>
+    <string name="rate_slide">Ocijeni Cash</string>
     <string name="edit_query">Uređivanje upita</string>
-    <string name="share_slide">Podijeli Slide</string>
+    <string name="share_slide">Podijeli Cash</string>
     <string name="create_folder">Stvori mapu</string>
     <string name="folder_name">Naziv mape</string>
     <string name="sidebar_friends">Prijatelji</string>

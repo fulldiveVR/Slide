@@ -3,10 +3,10 @@
 <resources>
     <!-- Generic text used anywhere -->
     <string name="general_confirm">Bestätigen</string>
-    <string name="general_confirm_exit">Slide beenden</string>
-    <string name="general_confirm_exit_msg">Willst du Slide wirklich beenden?</string>
+    <string name="general_confirm_exit">Cash beenden</string>
+    <string name="general_confirm_exit_msg">Willst du Cash wirklich beenden?</string>
     <string name="general_enable_shadowbox">Shadowbox-Modus aktivieren</string>
-    <string name="pro_upgrade_msg">Kaufen Sie Slide for Reddit Pro um großartige neue Features zu erhalten:
+    <string name="pro_upgrade_msg">Kaufen Sie Cash for Reddit Pro um großartige neue Features zu erhalten:
 \n\n
 - Ad Blocker und Lesemodus in der Webseitenansicht\n
 - Bilder zuschneiden und bemalen vor dem Upload\n
@@ -17,9 +17,9 @@
 - Sichern und Wiederherstellen auf Google Drive und als Datei\n
 - Unterstützung für Open Source und werbefreie Software\n
 \n\n
-Möchten Sie Slide for Reddit unterstützen?</string>
-    <string name="general_pro_msg">Ich habe mich entschieden, ein paar Funktionen von Slide durch das Kaufen der Pro-Version aus dem Play Store verfügbar zu machen. \n\n Das Geld dient dazu, die Entwicklung voran zu bringen und Werbung in der kostenlosen Version zu vermeiden. \n\nDie Funktionen enthalten einen Mehrspaltenmodus, den Shadowbox Modus (Für subreddits mit Bildern), einen Galeriemodus und die Fähigkeit, Backups und Wiederherstellungen bei Google Drive zu tätigen, sowie die Möglichkeit, Bilder zu malen, zuzuschneiden und zu speichern!\n\nMöchtest du Slide für Reddit Pro freischalten?</string>
-    <string name="general_pro_msg_crop">Ich habe mich entschieden ein paar Funktionen von Slide (inklusive zuschneiden von und zeichnen auf Bilder) durch das kaufen eines Pro Keys aus dem Play Store freischaltbar zu machen.\n\nDies ermöglicht die weitere Entwicklung von Slide anstelle von Werbung in der kostenlosen Version!\n\nDie Pro Version enthält einen Mehr-Spalten Modus, Shadowbox Modus (Für Bilder und Subreddits), Galerie Modus, Backups auf Google Drive und in einer Datei und mehr!\n\nMöchtest du Slide for Reddit Pro freischalten?</string>
+Möchten Sie Cash for Reddit unterstützen?</string>
+    <string name="general_pro_msg">Ich habe mich entschieden, ein paar Funktionen von Cash durch das Kaufen der Pro-Version aus dem Play Store verfügbar zu machen. \n\n Das Geld dient dazu, die Entwicklung voran zu bringen und Werbung in der kostenlosen Version zu vermeiden. \n\nDie Funktionen enthalten einen Mehrspaltenmodus, den Shadowbox Modus (Für subreddits mit Bildern), einen Galeriemodus und die Fähigkeit, Backups und Wiederherstellungen bei Google Drive zu tätigen, sowie die Möglichkeit, Bilder zu malen, zuzuschneiden und zu speichern!\n\nMöchtest du Cash für Reddit Pro freischalten?</string>
+    <string name="general_pro_msg_crop">Ich habe mich entschieden ein paar Funktionen von Cash (inklusive zuschneiden von und zeichnen auf Bilder) durch das kaufen eines Pro Keys aus dem Play Store freischaltbar zu machen.\n\nDies ermöglicht die weitere Entwicklung von Cash anstelle von Werbung in der kostenlosen Version!\n\nDie Pro Version enthält einen Mehr-Spalten Modus, Shadowbox Modus (Für Bilder und Subreddits), Galerie Modus, Backups auf Google Drive und in einer Datei und mehr!\n\nMöchtest du Cash for Reddit Pro freischalten?</string>
     <string name="general_open_settings">Seitenleiste</string>
     <string name="general_sub_sync">Subreddits werden synchronisiert</string>
     <string name="general_gallerymode_ispro">Der Galeriemodus ist ein Pro-feature</string>
@@ -121,7 +121,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="drawer_hello">Hallo,</string>
     <string name="drawer_search">Suche nach einem Subreddit</string>
     <string name="drawer_moderation">Moderation</string>
-    <string name="drawer_offline">Slide ist im Offline-Modus</string>
+    <string name="drawer_offline">Cash ist im Offline-Modus</string>
     <string name="drawer_offline_retry">Versuche, zum Online-Modus zu wechseln</string>
     <string name="drawer_guest_mode">Als Gast browsen</string>
     <!-- Sidebar items (That's the one on the right) -->
@@ -232,11 +232,11 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="err_no_connection">Reddit konnte nicht erreicht werden. Möchtest du es noch einmal versuchen?</string>
     <string name="err_retry_later">Versuche es in einer Minute noch einmal!</string>
     <string name="err_permission">Berechtigung wurde verweigert</string>
-    <string name="err_permission_msg">Es sieht aus als hättest du Slide den Zugang zu deinem externen Speicher verweigert. Dies führt dazu, dass Bild Cache, Post Cache sowie das Speichern von Bildern nicht mehr funktioniert :(. \nWillst du Silde den Zugang zum externen Speicher erlauben?</string>
+    <string name="err_permission_msg">Es sieht aus als hättest du Cash den Zugang zu deinem externen Speicher verweigert. Dies führt dazu, dass Bild Cache, Post Cache sowie das Speichern von Bildern nicht mehr funktioniert :(. \nWillst du Silde den Zugang zum externen Speicher erlauben?</string>
     <string name="err_authentication">Anmeldung fehlgeschlagen</string>
     <string name="err_submit_restricted">Dieser Subreddit ist eingeschränkt</string>
     <string name="err_submit_restricted_text">Sie dürfen hier nicht posten, bitte wählen sie ein anderes Subreddit</string>
-    <string name="err_upload_unaccessible">Stelle sicher dass Slide auf das Bild zugreifen kann und versuche es erneut!</string>
+    <string name="err_upload_unaccessible">Stelle sicher dass Cash auf das Bild zugreifen kann und versuche es erneut!</string>
     <string name="error_video_not_found">Video nicht gefunden</string>
     <string name="error_video_message">Beim Laden des Videos ist ein Fehler aufgetreten</string>
     <string name="error_album_not_found">Album nicht gefunden</string>
@@ -246,11 +246,11 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="err_refused_request_msg">Reddit hat eine Anfrage abgewiesen. Möchtest du noch einen Verbindungsversuch machen?</string>
     <string name="err_color_sync_login">Bitte melde dich an, um Color Sync zu nutzen</string>
     <string name="err_something_wrong">Hoppla, da ist etwas schief gelaufen</string>
-    <string name="err_couldnt_save_choose_new">Slide konnte im ausgewählten Verzeichnis nicht speichern. Möchtest du ein neues Verzeichnis auswählen?</string>
+    <string name="err_couldnt_save_choose_new">Cash konnte im ausgewählten Verzeichnis nicht speichern. Möchtest du ein neues Verzeichnis auswählen?</string>
     <string name="err_share_image">Fehler beim Teilen des Bildes</string>
     <string name="err_file_not_found">Datei nicht gefunden</string>
-    <string name="err_not_valid_backup">Ungültige Slide Sicherungsdatei</string>
-    <string name="err_not_valid_backup_msg">Die ausgewählte Datei ist keine gültige Slide Sicherungsdatei</string>
+    <string name="err_not_valid_backup">Ungültige Cash Sicherungsdatei</string>
+    <string name="err_not_valid_backup_msg">Die ausgewählte Datei ist keine gültige Cash Sicherungsdatei</string>
     <string name="err_file_not_found_msg">Die ausgewählte Datei konnte nicht gefunden werden. Stelle sicher, dass sie existiert und die benötigten Berechtigungen vorhanden sind</string>
     <string name="err_comment_post">Hoppla! Dieser Kommentar konnte nicht gesendet werden.</string>
     <string name="err_comment_post_reason">Grund: %1$s</string>
@@ -360,7 +360,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="misc_setting_up">Einrichtung läuft&#8230;</string>
     <string name="misc_setting_up_message">Bitte verlassen sie diesen Bildschirm nicht, es sollte nicht lange dauern!</string>
     <string name="misc_more_info">Mehr Information</string>
-    <string name="misc_rate_title">Gefällt dir Slide?</string>
+    <string name="misc_rate_title">Gefällt dir Cash?</string>
     <string name="misc_rate_msg">Bewerte es!</string>
     <string name="misc_captcha_incorrect">Captcha falsch, bitte versuchen Sie es erneut</string>
     <!-- Goto User -->
@@ -414,8 +414,8 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="backup_restoring">Wiederherstellen deiner Einstellungen</string>
     <string name="backup_backing_up">Sichern der Einstellungen</string>
     <string name="backup_restore_settings">Einstellungen erfolgreich wiederhergestellt!</string>
-    <string name="backup_restarting">Slide wird jetzt neu gestartet.</string>
-    <string name="backup_info">Slide sichert alle deine Daten in deinem privaten Google Drive-Verzeichnis. Du kannst die Daten zwischen mehreren Geräten (oder auf dem selben Gerät) synchronisieren, ohne dabei auf einen Drittanbieterdienst angewiesen zu sein.</string>
+    <string name="backup_restarting">Cash wird jetzt neu gestartet.</string>
+    <string name="backup_info">Cash sichert alle deine Daten in deinem privaten Google Drive-Verzeichnis. Du kannst die Daten zwischen mehreren Geräten (oder auf dem selben Gerät) synchronisieren, ohne dabei auf einen Drittanbieterdienst angewiesen zu sein.</string>
     <string name="backup_btn">Sichern</string>
     <string name="backup_btn_restore">Wiederherstellen</string>
     <string name="backup_btn_file">Sicherung als Datei</string>
@@ -456,7 +456,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="mod_btn_ban">Bannen</string>
     <string name="mod_ban_user">Benutzer bannen</string>
     <string name="mod_ban_reauth">Um Benutzer zu bannen, musst du dich erneut anmelden</string>
-    <string name="mod_ban_reauth_question">Jetzt neu bei Slide anmelden?</string>
+    <string name="mod_ban_reauth_question">Jetzt neu bei Cash anmelden?</string>
     <string name="mod_ban_success">Nutzer gebannt!</string>
     <string name="mod_ban_fail">Fehler beim Bannen des Benutzers</string>
     <string name="mod_ban_reason">Ursache</string>
@@ -493,7 +493,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="toolbox_removal_lock">Entfernten Thread sperren</string>
     <string name="toolbox_note_text_required">Text erforderlich</string>
     <string name="toolbox_note_default">Kein Typ</string>
-    <string name="toolbox_wiki_edit_reauth_question">Möchten Sie sich jetzt wieder in Slide einloggen?</string>
+    <string name="toolbox_wiki_edit_reauth_question">Möchten Sie sich jetzt wieder in Cash einloggen?</string>
     <!-- Pleasantly asking the user if he made his mind up -->
     <string name="really_remove_submission">Diesen Beitrag wirklich entfernen?</string>
     <string name="really_pin_submission">Diesen Beitrag wirklich anpinnen?</string>
@@ -539,7 +539,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="settings_link_handling">Umgang mit Links</string>
     <string name="settings_link_image">Interne Bildanzeige</string>
     <string name="settings_mail_check">Prüfe nach neuen Nachrichten</string>
-    <string name="settings_mail_info">Ein kurzer Abstand führt unter Umständen zu einem erhöhten Stromverbrauch während Slide im Hintergrund läuft!</string>
+    <string name="settings_mail_info">Ein kurzer Abstand führt unter Umständen zu einem erhöhten Stromverbrauch während Cash im Hintergrund läuft!</string>
     <string name="settings_main_color_title">Hauptfarbe bearbeiten</string>
     <string name="settings_notification">Auf neue Nachrichten alle %1$s überprüfen</string>
     <string name="settings_notification_newline">Auf neue Nachrichten alle\n%1$s überprüfen</string>
@@ -556,7 +556,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="settings_bugs">Fehler melden</string>
     <string name="settings_changelog">Changelog anzeigen</string>
     <string name="settings_google">Herstellen einer Verbindung zu Google</string>
-    <string name="settings_google_msg">Slide verbindet sich mit Google. Versuche es in einigen Sekunden erneut!</string>
+    <string name="settings_google_msg">Cash verbindet sich mit Google. Versuche es in einigen Sekunden erneut!</string>
     <string name="settings_fabclear_msg">Ein kurzes Drücken blendet den Beitrag in der aktuellen Ansicht aus.\nFür ein dauerhaftes Ausblenden musst du den Knopf länger drücken!</string>
     <string name="settings_fabclear">Aktionsknopf Löschaktion</string>
     <string name="settings_notifdisabled">Benachrichtigungen deaktiviert.</string>
@@ -655,7 +655,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="settings_general_comment_last_visit">Anzahl der Kommentare seit dem letzten Besuch anzeigen</string>
     <string name="settings_fab_create">Zeige \"Kommentar erstellen\" FAB</string>
     <string name="settings_right_handed_comment_menu">Rechtshänder Kommentar Menü</string>
-    <string name="settings_reddit_description">Diese Einstellungen ändern was die Reddit API zu Slide zurücksendet.\n\nUm Thumbnails in allen Subreddits zu sehen, aktivierte \'Subreddit Medieneinstellungen ignorieren\'\n\nUm alle NSFW Inhalte anzuzeigen, schalte \'NSFW Fotos verbergen\' aus und schalte \'Ich bin über 18\' ein</string>
+    <string name="settings_reddit_description">Diese Einstellungen ändern was die Reddit API zu Cash zurücksendet.\n\nUm Thumbnails in allen Subreddits zu sehen, aktivierte \'Subreddit Medieneinstellungen ignorieren\'\n\nUm alle NSFW Inhalte anzuzeigen, schalte \'NSFW Fotos verbergen\' aus und schalte \'Ich bin über 18\' ein</string>
     <string name="settings_reddit_media_pref">Subreddit Medieneinstellungen ignorieren</string>
     <string name="settings_description_synccit">Synccit erlaubt dir deinen Beitragsverlauf zwischen Geräten und deinem Browser zu synchronisieren</string>
     <string name="settings_description_view_type">Ansichtstypen beeinflussen die Hauptansicht und auch die Ansicht in Subreddits.\n\nKommentarfenster: Kommentare erscheinen neben Beiträgen durch wischen und werden beim Zurückwechseln automatisch gespeichert, damit du nichts verlierst.\n\nNicht-Subreddit Tabs: Wischen zwischen Subreddits ist deaktiviert\n\nSubreddit Tabs: Wischen um zwischen Subreddits zu wechseln</string>
@@ -677,7 +677,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="settings_backup_err_no_explorer">Kein Dateiexplorer gefunden, Datei befindet sich hier: %1$s</string>
     <string name="settings_about_version_copied_toast">Versionsnummer in die Zwischenablage kopiert</string>
     <string name="settings_about_stacktrace_copied_toast">Stacktrace in die Zwischenablage kopiert</string>
-    <string name="settings_support_slide">Unterstütze Slide for Reddit und werde Pro!</string>
+    <string name="settings_support_slide">Unterstütze Cash for Reddit und werde Pro!</string>
     <string name="settings_theme_night_start_title">Wähle eine Startzeit für den Nachtmodus aus</string>
     <string name="settings_theme_night_end_title">Wähle eine Endzeit für den Nachtmodus aus</string>
     <string name="settings_theme_night_start_at">Start um\u0020</string>
@@ -688,7 +688,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="settings_mod_toolbox_enabled">Toolbox-Funktionalität aktivieren</string>
     <string name="settings_mod_toolbox_desc">Kann die Leistung etwas reduzieren</string>
     <string name="settings_mod_removal_reasons">Art des Grundes für Entfernen</string>
-    <string name="settings_mod_removal_slide">Slide \"mit Grund entfernen\"</string>
+    <string name="settings_mod_removal_slide">Cash \"mit Grund entfernen\"</string>
     <string name="settings_mod_removal_reddit">Gründe für das Löschen von Reddit</string>
     <string name="settings_mod_toolbox_refresh">Aktualisierung der Toolbox-Daten erzwingen</string>
     <string name="settings_mod_toolbox_sticky">Angepinnte Kommentare auf Entfernen</string>
@@ -727,7 +727,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="reorder_not_found_err">Subreddit nicht gefunden, aber hier sind ein paar Vorschläge</string>
     <string name="reorder_subscribed_toast">/r/%1$s abonniert</string>
     <string name="reorder_unsubscribed_toast">/r/%1$s abbestellt</string>
-    <string name="sorting_faq"><b>Wie kann ich Subreddits aktualisieren?</b>\nUm Subreddits zu aktualisieren, drücke auf das Neuladen-Symbol in der Symbolleiste!\n\n<b>Ich habe ein Subreddit-Abo abbestellt aber es ist noch immer in der Liste!</b>\nSlide behält im Browser abbestellte Subreddits als "Lockere Abos". Willst du diese entfernen, halte den Subreddit gedrückt und klicke entfernen!\n\n<b>Wie benutze ich Sammlungen?</b>\nKlicke den + Aktionsknopf und wähle \'Sammlung erzeugen\'. Sammlungen mehrerer Subs verhalten sich in der Hauptansicht wie ein einziger Subreddit!</string>
+    <string name="sorting_faq"><b>Wie kann ich Subreddits aktualisieren?</b>\nUm Subreddits zu aktualisieren, drücke auf das Neuladen-Symbol in der Symbolleiste!\n\n<b>Ich habe ein Subreddit-Abo abbestellt aber es ist noch immer in der Liste!</b>\nCash behält im Browser abbestellte Subreddits als "Lockere Abos". Willst du diese entfernen, halte den Subreddit gedrückt und klicke entfernen!\n\n<b>Wie benutze ich Sammlungen?</b>\nKlicke den + Aktionsknopf und wähle \'Sammlung erzeugen\'. Sammlungen mehrerer Subs verhalten sich in der Hauptansicht wie ein einziger Subreddit!</string>
     <string name="FAQ">Häufige Fragen / FAQ</string>
     <string name="alphabetize_subreddits">Sortiere Subreddits alphabetisch</string>
     <string name="sync_subscriptions">Subreddits synchronisieren</string>
@@ -793,17 +793,17 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="title_mod">Moderator</string>
     <!-- Text in Donation-Activity -->
     <string name="donate_amount_title">Dieser Betrag&#8230;</string>
-    <string name="donate_info_student">Ich bin Student und entwickle Slide nur nebenher. Für grosszügige Spenden bin ich sehr dankbar. Spenden haben geholfen Slide (kostenlos) zur Verfügung zu stellen :)</string>
+    <string name="donate_info_student">Ich bin Student und entwickle Cash nur nebenher. Für grosszügige Spenden bin ich sehr dankbar. Spenden haben geholfen Cash (kostenlos) zur Verfügung zu stellen :)</string>
     <string name="donate_btn">Spenden</string>
     <string name="donate_amount_ads1">Stoppt</string>
     <string name="donate_amount_ads2">Werbebanner</string>
     <string name="donate_amount_hours1">Unterstützt</string>
     <string name="donate_amount_hours2">Entwickelungsstunden</string>
-    <string name="donate_title">Unterstütze Slide for Reddit</string>
+    <string name="donate_title">Unterstütze Cash for Reddit</string>
     <string name="donate_err_title">Spende fehlgeschlagen :(</string>
     <string name="donate_err_msg">Die Spende konnte leider nicht durchgestellt werden. Stelle sicher, dass du mit dem Internet verbunden bist und versuche es erneut! Danke für deine Unterstützung!</string>
     <string name="donate_success_title">Spende erfolgreich!</string>
-    <string name="donate_success_msg">Vielen Dank für deine Unterstützung von Slide for Reddit! Es bedeutet mir wirklich sehr viel. Wenn du auf irgendwelche Probleme triffst, schicke mir jederzeit eine E-Mail oder poste es GitHub!</string>
+    <string name="donate_success_msg">Vielen Dank für deine Unterstützung von Cash for Reddit! Es bedeutet mir wirklich sehr viel. Wenn du auf irgendwelche Probleme triffst, schicke mir jederzeit eine E-Mail oder poste es GitHub!</string>
     <string name="donate_success_btn">Gern geschehen!</string>
     <!-- Offline mode -->
     <string name="offline_caching">Beiträge werden gecacht</string>
@@ -858,7 +858,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="login_subscribe_rslideforreddit_desc">Möchtest du /r/slideforreddit abonnieren, um über die Neuigkeiten informiert zu werden?</string>
     <string name="login_sync_colors">Farben jetzt synchronisieren?</string>
     <string name="login_sync_colors_desc">Möchten Sie die Subreddit-Farben jetzt synchronisieren? Das kann auch später über die Einstellungen→Subreddit Themes erledigt werden</string>
-    <string name="login_authenticating">Slide authentifiziert sich</string>
+    <string name="login_authenticating">Cash authentifiziert sich</string>
     <string name="login_starting">Einige Dinge einrichten...</string>
     <string name="login_starting_desc">Dies sollte nur eine Sekunde dauern!</string>
     <!-- Over 18 prompt when visiting a NSFW subreddit -->
@@ -882,7 +882,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="sub_post_notifs_title_settings">Über neue Posts benachrichtigt werden?</string>
     <string name="sub_post_notifs_menu">Werde über neue Posts benachrichtigt</string>
     <string name="sub_post_notify">Benachrichtigen</string>
-    <string name="sub_post_notifs_text">Slide wird alle 10 Minuten auf neue Posts prüfen. Du kannst dies in den Post Benachrichtigungen abstellen</string>
+    <string name="sub_post_notifs_text">Cash wird alle 10 Minuten auf neue Posts prüfen. Du kannst dies in den Post Benachrichtigungen abstellen</string>
     <string name="sub_post_notifs_threshold">Punkteschwellwert</string>
     <string name="sub_post_notifs_err">Du kannst nur für einzelne Subreddits Benachrichtigungen hinzufügen</string>
     <string name="sub_post_notifs_settings_none">Keine Subreddits zu benachrichtigen</string>
@@ -1028,7 +1028,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="btn_collapse_children_all">Untergeordnete Kommentare zuklappen</string>
     <string name="btn_open_content">Inhalt öffnen</string>
     <string name="load_videos_internally">Videos intern laden</string>
-    <string name="load_videos_internally_content">Möchtest du das Slide Video Plugin ausprobieren? Es erlaubt Dir Videos (z.B. YouTube) in der App anzuzeigen!</string>
+    <string name="load_videos_internally_content">Möchtest du das Cash Video Plugin ausprobieren? Es erlaubt Dir Videos (z.B. YouTube) in der App anzuzeigen!</string>
     <string name="do_not_show_again">Nicht erneut anzeigen</string>
     <string name="enter_text_to_filter_click_enter_to_add_flair">Gib den Filtertext ein (subreddit:flair_text), klicke Enter zum Hinzufügen</string>
     <plurals name="landscape_columns">
@@ -1083,7 +1083,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="upvote_percentage">Zeige Upvote-Prozentsatz</string>
     <string name="view_subreddits">Subreddits ansehen</string>
     <string name="clear_saved_subreddits">Lösche alle gespeicherten subreddits</string>
-    <string name="download_the_slide_video_player_plugin">Lade das Slide Video Player Plugin runter</string>
+    <string name="download_the_slide_video_player_plugin">Lade das Cash Video Player Plugin runter</string>
     <string name="btn_suggest_title">Schlage einen Titel vor</string>
     <string name="navigate_comments_since">Kommentare neuer als...</string>
     <string name="btn_offline">Offline-Modus aktivieren</string>
@@ -1111,9 +1111,9 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="comment_removed">Kommentar entfernt</string>
     <string name="set_nav_mode">Steuerungsmodus einstellen</string>
     <string name="auto_hide_the_comment_nav_bar">Kommentar-Steuerleiste automatisch ausblenden</string>
-    <string name="rate_slide">Slide bewerten</string>
+    <string name="rate_slide">Cash bewerten</string>
     <string name="edit_query">Abfrage bearbeiten</string>
-    <string name="share_slide">Slide teilen</string>
+    <string name="share_slide">Cash teilen</string>
     <string name="create_folder">Ordner erstellen</string>
     <string name="folder_name">Ordnername</string>
     <string name="sidebar_friends">Freunde</string>
@@ -1139,7 +1139,7 @@ Möchten Sie Slide for Reddit unterstützen?</string>
     <string name="type_tumblr">Tumblr</string>
     <string name="type_nsfw_tumblr">NSFW Tumblr</string>
     <string name="submission_info_contest">Dieser Thread ist im Wettbewerb-Modus. Sie können die Sortierung nicht ändern.</string>
-    <string name="sub_post_notifs_msg">Slide sucht nach neuen Posts, wenn es die Nachrichten abruft (Benachrichtigungen für Nachrichten müssen an sein)</string>
+    <string name="sub_post_notifs_msg">Cash sucht nach neuen Posts, wenn es die Nachrichten abruft (Benachrichtigungen für Nachrichten müssen an sein)</string>
     <string name="mod_ban_reason_required">Grund ist erforderlich</string>
     <string name="settings_abbreviate_post_scores">Verkürze Post Punkte (z. B. 24,0 k)</string>
     <string name="settings_wide_depth_indicators">Breite Indikatoren für Kommentartiefe</string>

@@ -5,9 +5,9 @@
     <string name="general_confirm_exit">Vahvista poistuminen</string>
     <string name="general_confirm_exit_msg">Haluatko varmasti poistua?</string>
     <string name="general_enable_shadowbox">Ota Shadowbox-tila käyttöön</string>
-    <string name="pro_upgrade_msg">Päivitä Slide for Reddit Pro:hon nauttiaksesi mahtavia uusia ominaisuuksia kuten esimerkiksi:\n\n-Mainosten Esto ja Lukijatila\n- Kuvien Rajaaminen ja Piirtäminen\n- Tabletin sarakkeiden muokkaaminen\n- Automaattinen yötila\n- Varjolaatikkon ja Gallerian sisältönäkymä\n Kommentin Varjolaatikon Näkymä\n- Tiedostoon/Google Driveen Varmuuskopiointi ja Palauttaminen\n- Mainosvapaan ja avoin lähdekoodin ohjelmiston tukeminen!\n\nHaluaisitko tukea Slide for Reddit:ta?</string>
-    <string name="general_pro_msg">Minä haluan ottaa jotkut Sliden ominaisuukset käyttöön ostamalla Pro:n avain Play Kaupasta. \n\nTämä mahdollistaa kehityksen jatkaa ja estää mainoksia Sliden ilmaisessa versiossa!\n\nSinä saat monisarakkeiden, varjolaatikkojen (kuvasubredditeille), galleriatilan, tiedostoon/Google Driveen varmuskopioinnin ja palauttamisen, ja kuvien piirtäminen/rajaaminen!\n\n Haluaisitko avata Slide for Reddit Pro?</string>
-    <string name="general_pro_msg_crop">Minä haluan ottaa jotkut Sliden ominaisuukset käyttöön (kuvien piirtäminen ja rajaaminen mukaan lukien) ostamalla Pro:n avain Play Kaupasta. \n\nTämä mahdollistaa kehityksen jatkaa ja estää mainoksia Sliden ilmaisessa versiossa!\n\nSinä saat monisarakkeiden, varjolaatikkojen (kuvasubredditeille), galleriatilan, tiedostoon/Google Driveen varmuskopioinnin ja palauttamisen, ja kuvien piirtäminen/rajaaminen!\n\n Haluaisitko avata Slide for Reddit Pro?</string>
+    <string name="pro_upgrade_msg">Päivitä Cash for Reddit Pro:hon nauttiaksesi mahtavia uusia ominaisuuksia kuten esimerkiksi:\n\n-Mainosten Esto ja Lukijatila\n- Kuvien Rajaaminen ja Piirtäminen\n- Tabletin sarakkeiden muokkaaminen\n- Automaattinen yötila\n- Varjolaatikkon ja Gallerian sisältönäkymä\n Kommentin Varjolaatikon Näkymä\n- Tiedostoon/Google Driveen Varmuuskopiointi ja Palauttaminen\n- Mainosvapaan ja avoin lähdekoodin ohjelmiston tukeminen!\n\nHaluaisitko tukea Cash for Reddit:ta?</string>
+    <string name="general_pro_msg">Minä haluan ottaa jotkut Cashn ominaisuukset käyttöön ostamalla Pro:n avain Play Kaupasta. \n\nTämä mahdollistaa kehityksen jatkaa ja estää mainoksia Cashn ilmaisessa versiossa!\n\nSinä saat monisarakkeiden, varjolaatikkojen (kuvasubredditeille), galleriatilan, tiedostoon/Google Driveen varmuskopioinnin ja palauttamisen, ja kuvien piirtäminen/rajaaminen!\n\n Haluaisitko avata Cash for Reddit Pro?</string>
+    <string name="general_pro_msg_crop">Minä haluan ottaa jotkut Cashn ominaisuukset käyttöön (kuvien piirtäminen ja rajaaminen mukaan lukien) ostamalla Pro:n avain Play Kaupasta. \n\nTämä mahdollistaa kehityksen jatkaa ja estää mainoksia Cashn ilmaisessa versiossa!\n\nSinä saat monisarakkeiden, varjolaatikkojen (kuvasubredditeille), galleriatilan, tiedostoon/Google Driveen varmuskopioinnin ja palauttamisen, ja kuvien piirtäminen/rajaaminen!\n\n Haluaisitko avata Cash for Reddit Pro?</string>
     <string name="general_open_settings">Avaa Subreddit asetukset</string>
     <string name="general_sub_sync">Synkronoidaan tilauksia</string>
     <string name="general_gallerymode_ispro">Galleriatila on Pro-ominaisuus</string>
@@ -100,7 +100,7 @@
     <string name="drawer_hello">Hei,</string>
     <string name="drawer_search">Etsi subreddittiä</string>
     <string name="drawer_moderation">Moderointi</string>
-    <string name="drawer_offline">Slide on offline-tilassa</string>
+    <string name="drawer_offline">Cash on offline-tilassa</string>
     <string name="drawer_offline_retry">Yritä päästä online-tilaan</string>
     <!-- Sidebar items (That's the one on the right) -->
     <string name="sidebar_wiki">Subredditin wiki</string>
@@ -282,7 +282,7 @@
     <string name="mod_btn_approve">Hyväksy</string>
     <string name="mod_btn_ban">Porttikielto</string>
     <string name="mod_ban_user">Estä käyttäjä</string>
-    <string name="mod_ban_reauth">Estääksesi käyttäjiä, Sliden täytyy todentaa sinut uudelleen</string>
+    <string name="mod_ban_reauth">Estääksesi käyttäjiä, Cashn täytyy todentaa sinut uudelleen</string>
     <string name="mod_ban_success">Käyttäjä estetty!</string>
     <string name="mod_ban_reason">Eston syy</string>
     <string name="mod_remove_hint">Poiston syy</string>
@@ -308,7 +308,7 @@
     <string name="settings_accent_title">Muokkaa aksenttiväriä</string>
     <string name="settings_link_handling">Linkkien käsittely</string>
     <string name="settings_mail_check">Tarkista uudet viestit</string>
-    <string name="settings_mail_info">Mitä useammin uudet viestit tarkistetaan, sitä enemmän Slide kuluttaa laitteesi akkua taustalla!</string>
+    <string name="settings_mail_info">Mitä useammin uudet viestit tarkistetaan, sitä enemmän Cash kuluttaa laitteesi akkua taustalla!</string>
     <string name="settings_main_color_title">Muokkaa pääväriä</string>
     <string name="settings_notification">Tarkista uudet viestit joka %1$s</string>
     <string name="settings_store_history">Tallenna historia</string>

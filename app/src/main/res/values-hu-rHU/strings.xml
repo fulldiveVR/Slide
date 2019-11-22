@@ -4,11 +4,11 @@
     <!-- Generic text used anywhere -->
     <string name="general_confirm">Megerősítés</string>
     <string name="general_confirm_exit">Kilépés megerősítése</string>
-    <string name="general_confirm_exit_msg">Biztosan kilép a Slide-ból?</string>
+    <string name="general_confirm_exit_msg">Biztosan kilép a Cash-ból?</string>
     <string name="general_enable_shadowbox">Árnyékdoboz mód</string>
-    <string name="pro_upgrade_msg">Frissítsen Slide for Reddit Próra, hogy további funkciókat használhasson, például:\n\n- Reklámblokkoló és olvasó mód weboldal nézetben\n- Feltöltendő képek vágása és rájuk rajzolás\n- Személyre szabható táblagép oszlop mód\n- Automatikus éjszakai mód\n- Shadowbox és galéria tartalomnézegető\n- Hozzászólás shadowbox nézegető\n- Biztonsági mentés és helyreállítás fájlba vagy Google Drive-ra\n- Reklámmentes és nyílt forráskódú alkalmazások támogatása!\n\nSzeretne támogatni a Slide for Redditet?</string>
-    <string name="general_pro_msg">Úgy döntöttem, hogy a Slide egy-két funkcióját egy Pro kulcs Play Store-ból történő megvásárlásához kötöm.\n\nEz azért hasznos, mert segít az alkalmazás fejlesztésének fenntartásában, és így nem kell az ingyenes verzióban sem reklámokat megjeleníteni.\n\nA Pro verzióban többoszlopos mód, shadowbox mód (képes alredditekhez), galéria mód, biztonsági mentés, fájlból vagy Google Drive-ból történő helyreállítása, képek vágása és azokra rajzolás található.\n\nSzeretné a Pro verziót használni?</string>
-    <string name="general_pro_msg_crop">Úgy döntöttem, hogy a Slide egy-két funkcióját (például a képek vágását, és azokra rajzolást) egy Pro kulcs Play Store-ból történő megvásárlásához kötöm.\n\nEz azért hasznos, mert segít az alkalmazás fejlesztésének fenntartásában, és így nem kell az ingyenes verzióban sem reklámokat megjeleníteni.\n\nA Pro verzióban többoszlopos mód, shadowbox mód (képes alredditekhez), galéria mód, biztonsági mentés, fájlból vagy Google Drive-ból történő helyreállítása, képek vágása és azokra rajzolás található.\n\nSzeretné a Pro verziót használni?</string>
+    <string name="pro_upgrade_msg">Frissítsen Cash for Reddit Próra, hogy további funkciókat használhasson, például:\n\n- Reklámblokkoló és olvasó mód weboldal nézetben\n- Feltöltendő képek vágása és rájuk rajzolás\n- Személyre szabható táblagép oszlop mód\n- Automatikus éjszakai mód\n- Shadowbox és galéria tartalomnézegető\n- Hozzászólás shadowbox nézegető\n- Biztonsági mentés és helyreállítás fájlba vagy Google Drive-ra\n- Reklámmentes és nyílt forráskódú alkalmazások támogatása!\n\nSzeretne támogatni a Cash for Redditet?</string>
+    <string name="general_pro_msg">Úgy döntöttem, hogy a Cash egy-két funkcióját egy Pro kulcs Play Store-ból történő megvásárlásához kötöm.\n\nEz azért hasznos, mert segít az alkalmazás fejlesztésének fenntartásában, és így nem kell az ingyenes verzióban sem reklámokat megjeleníteni.\n\nA Pro verzióban többoszlopos mód, shadowbox mód (képes alredditekhez), galéria mód, biztonsági mentés, fájlból vagy Google Drive-ból történő helyreállítása, képek vágása és azokra rajzolás található.\n\nSzeretné a Pro verziót használni?</string>
+    <string name="general_pro_msg_crop">Úgy döntöttem, hogy a Cash egy-két funkcióját (például a képek vágását, és azokra rajzolást) egy Pro kulcs Play Store-ból történő megvásárlásához kötöm.\n\nEz azért hasznos, mert segít az alkalmazás fejlesztésének fenntartásában, és így nem kell az ingyenes verzióban sem reklámokat megjeleníteni.\n\nA Pro verzióban többoszlopos mód, shadowbox mód (képes alredditekhez), galéria mód, biztonsági mentés, fájlból vagy Google Drive-ból történő helyreállítása, képek vágása és azokra rajzolás található.\n\nSzeretné a Pro verziót használni?</string>
     <string name="general_open_settings">Oldalsáv</string>
     <string name="general_sub_sync">Feliratkozások szinkronizálása</string>
     <string name="general_gallerymode_ispro">A galéria mód egy Pro verziós funkció</string>
@@ -110,7 +110,7 @@
     <string name="drawer_hello">Helló,</string>
     <string name="drawer_search">Ugrás alredditre</string>
     <string name="drawer_moderation">Moderálás</string>
-    <string name="drawer_offline">A Slide offline módban van</string>
+    <string name="drawer_offline">A Cash offline módban van</string>
     <string name="drawer_offline_retry">Online módba váltás</string>
     <string name="drawer_guest_mode">Böngészés vendégként</string>
     <!-- Sidebar items (That's the one on the right) -->
@@ -222,11 +222,11 @@
     <string name="err_no_connection">A Reddit nem érhető el. Újra szeretnéd próbálni?</string>
     <string name="err_retry_later">Próbáld újra egy perc múlva!</string>
     <string name="err_permission">Hozzáférés megtagadva</string>
-    <string name="err_permission_msg">Úgy tűnik, megtagadtad a hozzáférést ahhoz, hogy a Slide a külső tárhelyre írhasson. Emiatt a képek, bejegyzések gyorsítótára és a képek mentése nem fog működni. :( \nSzeretnél hozzáférést adni a Slide-nak a külső tárhelyre való íráshoz?</string>
+    <string name="err_permission_msg">Úgy tűnik, megtagadtad a hozzáférést ahhoz, hogy a Cash a külső tárhelyre írhasson. Emiatt a képek, bejegyzések gyorsítótára és a képek mentése nem fog működni. :( \nSzeretnél hozzáférést adni a Cash-nak a külső tárhelyre való íráshoz?</string>
     <string name="err_authentication">Sikertelen hitelesítés</string>
     <string name="err_submit_restricted">Ez az alreddit korlátozott hozzáférésű</string>
     <string name="err_submit_restricted_text">Ide nem posztolhatsz. Válassz másik alredditet</string>
-    <string name="err_upload_unaccessible">Tedd a képet a Slide-nak hozzáférhetővé, és próbáld újra!</string>
+    <string name="err_upload_unaccessible">Tedd a képet a Cash-nak hozzáférhetővé, és próbáld újra!</string>
     <string name="error_video_not_found">A videó nem található</string>
     <string name="error_video_message">Hiba történt a videó betöltése közben</string>
     <string name="error_album_not_found">Az album nem található</string>
@@ -236,12 +236,12 @@
     <string name="err_refused_request_msg">A reddit megtagadott egy kérést. Szeretnél megpróbálni ismét csatlakozni?</string>
     <string name="err_color_sync_login">Jelentkezz be a Color Sync használatához</string>
     <string name="err_something_wrong">Ajjaj, valami hiba történt</string>
-    <string name="err_couldnt_save_choose_new">A Slide nem tud a kiválasztott mappába menteni. Szeretnél másik helyet választani?</string>
+    <string name="err_couldnt_save_choose_new">A Cash nem tud a kiválasztott mappába menteni. Szeretnél másik helyet választani?</string>
     <string name="err_share_image">Hiba történt a kép megosztásánál</string>
     <string name="err_file_not_found">A fájl nem található</string>
-    <string name="err_not_valid_backup">Érvénytelen Slide mentés fájl</string>
-    <string name="err_not_valid_backup_msg">A kiválasztott fájl nem érvényes Slide mentés fájl</string>
-    <string name="err_file_not_found_msg">A kiválasztott fájl nem található. Nézd meg, hogy létezik-e, és hogy a Slide-nak van engedélye hozzáférni</string>
+    <string name="err_not_valid_backup">Érvénytelen Cash mentés fájl</string>
+    <string name="err_not_valid_backup_msg">A kiválasztott fájl nem érvényes Cash mentés fájl</string>
+    <string name="err_file_not_found_msg">A kiválasztott fájl nem található. Nézd meg, hogy létezik-e, és hogy a Cash-nak van engedélye hozzáférni</string>
     <string name="err_comment_post">Ajjaj, nem sikerült elküldeni ezt a hozzászólást!</string>
     <string name="err_comment_post_reason">Ok: %1$s</string>
     <string name="err_comment_post_message">\n\nAz üzeneted piszkozatként lett elmentve. Próbáld meg később.</string>
@@ -350,7 +350,7 @@
     <string name="misc_please_try_again_soon">Kérlek, próbáld újra nemsoká</string>
     <string name="misc_setting_up">Dolgok beállítása&#8230;</string>
     <string name="misc_more_info">További információ</string>
-    <string name="misc_rate_title">Szereted a Slide-ot?</string>
+    <string name="misc_rate_title">Szereted a Cash-ot?</string>
     <string name="misc_rate_msg">Értékeld!</string>
     <!-- Goto User -->
     <string name="user_enter">Add meg a felhasználónevet</string>
@@ -507,7 +507,7 @@
     <string name="settings_link_handling">Linkek kezelése</string>
     <string name="settings_link_image">Beépített képmegtekintő</string>
     <string name="settings_mail_check">Üzenetek ellenőrzése</string>
-    <string name="settings_mail_info">Minél kisebb az időköz, vélhetően annál több energiát fog használni a Slide a háttérben!</string>
+    <string name="settings_mail_info">Minél kisebb az időköz, vélhetően annál több energiát fog használni a Cash a háttérben!</string>
     <string name="settings_main_color_title">Fő szín módosítása</string>
     <string name="settings_notification">Üzenet-ellenőrzési időköz:</string>
     <string name="settings_notification_newline">Beérkezett üzenetek ellenőrzésének időköze\n%1$s</string>
@@ -524,7 +524,7 @@
     <string name="settings_bugs">Hibajelentés</string>
     <string name="settings_changelog">Változások megtekintése</string>
     <string name="settings_google">Csatlakozás a Google-hoz</string>
-    <string name="settings_google_msg">A Slide csatlakozni a Google-hoz. Próbáld újra néhány másodperc múlva!</string>
+    <string name="settings_google_msg">A Cash csatlakozni a Google-hoz. Próbáld újra néhány másodperc múlva!</string>
     <string name="settings_fabclear_msg">A tisztítás gomb csak a jelenlegi nézetben rejti el a posztokat.\nA gomb hosszú lenyomása rejti el tartósan a posztokat!</string>
     <string name="settings_fabclear">FAB tisztítási műveletek</string>
     <string name="settings_notifdisabled">Értesítések letiltva.</string>
@@ -671,17 +671,17 @@
     <string name="title_mod">Moderátor</string>
     <!-- Text in Donation-Activity -->
     <string name="donate_amount_title">Ez az összeg&#8230;</string>
-    <string name="donate_info_student">Egy diák fejlesztő vagyok, és nagyon hálás vagyok a nagylelkű adományokért, mivel így ingyenes lehet a Slide. :)</string>
+    <string name="donate_info_student">Egy diák fejlesztő vagyok, és nagyon hálás vagyok a nagylelkű adományokért, mivel így ingyenes lehet a Cash. :)</string>
     <string name="donate_btn">Adományozás</string>
     <string name="donate_amount_ads1">helyettesít</string>
     <string name="donate_amount_ads2">hirdetést</string>
     <string name="donate_amount_hours1">támogat</string>
     <string name="donate_amount_hours2">órányi fejlesztést</string>
-    <string name="donate_title">Támogasd a Slide for Redditet</string>
+    <string name="donate_title">Támogasd a Cash for Redditet</string>
     <string name="donate_err_title">Sikertelen adományozás :(</string>
     <string name="donate_err_msg">Sajnos, az adományozás nem sikerült. Ellenőrizd, hogy csatlakozva vagy az internethez és próbáld újra! Köszönöm a támogatásodat!</string>
     <string name="donate_success_title">Sikeres adományozás!</string>
-    <string name="donate_success_msg">Köszönöm szépen, hogy támogattad a Slide for Redditet! Ez tényleg sokat jelent nekem. Ha bármilyen problémába ütközöl, dobj egy emailt vagy jelentsd be GitHubon bármikor.</string>
+    <string name="donate_success_msg">Köszönöm szépen, hogy támogattad a Cash for Redditet! Ez tényleg sokat jelent nekem. Ha bármilyen problémába ütközöl, dobj egy emailt vagy jelentsd be GitHubon bármikor.</string>
     <string name="donate_success_btn">Nincs mit!</string>
     <!-- Offline mode -->
     <string name="offline_caching">Bejegyzések gyorsítótárazása</string>
@@ -730,7 +730,7 @@
     <string name="login_subscribe_rslideforreddit">Feliratkozol a /r/slideforreddit-re?</string>
     <string name="login_sync_colors">Szinkronizáljam a színeket?</string>
     <string name="login_sync_colors_desc">Szeretnéd szinkronizálni az alredditek színeit most? Ezt később is megteheted itt: Beállítások → Alreddit témák</string>
-    <string name="login_authenticating">A Slide hitelesít</string>
+    <string name="login_authenticating">A Cash hitelesít</string>
     <string name="login_starting">Beállítás</string>
     <!-- Over 18 prompt when visiting a NSFW subreddit -->
     <string name="over18_title">/r/%1$s felnőtt tartalmakat tartalmaz</string>
@@ -781,7 +781,7 @@
     <string name="submission_share_reddit_url">Hozzászólások megosztása</string>
     <string name="filter_content">E tartalom szűrése</string>
     <string name="load_videos_internally">Videók betöltése az alkalmazáson belül</string>
-    <string name="load_videos_internally_content">Ki szeretnéd próbálni a Slide videó bővítményt? Ez lehetővé teszi a videók (pl: YouTube) megtekintését az alkalmazáson belül!</string>
+    <string name="load_videos_internally_content">Ki szeretnéd próbálni a Cash videó bővítményt? Ez lehetővé teszi a videók (pl: YouTube) megtekintését az alkalmazáson belül!</string>
     <string name="do_not_show_again">Ne mutasd többször</string>
     <plurals name="landscape_columns">
         <item quantity="one">%d oszlop fekvő módban</item>
@@ -818,8 +818,8 @@
     <string name="view_subreddits">Alredditek megtekintése</string>
     <string name="clear_saved_subreddits">Összes mentett alreddit törlése</string>
     <string name="really_remove_subreddit_title">Biztosan eltávolítja ezt az alredditet?</string>
-    <string name="rate_slide">Slide értékelése</string>
-    <string name="share_slide">Slide megosztása</string>
+    <string name="rate_slide">Cash értékelése</string>
+    <string name="share_slide">Cash megosztása</string>
     <string name="pro_previews">Előnézet (%d)</string>
     <string name="manage_your_subreddits">Alredditek kezelése</string>
 </resources>

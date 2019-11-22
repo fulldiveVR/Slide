@@ -4,7 +4,7 @@
     <!-- Generic text used anywhere -->
     <string name="general_confirm">Potvrdit</string>
     <string name="general_confirm_exit">Potvrdit ukončení</string>
-    <string name="general_confirm_exit_msg">Opravdu chcete zavřít Slide?</string>
+    <string name="general_confirm_exit_msg">Opravdu chcete zavřít Cash?</string>
     <string name="general_enable_shadowbox">Režim Shadowbox</string>
     <string name="general_open_settings">Postranní panel</string>
     <string name="general_sub_sync">Probíhá synchronizace odběrů</string>
@@ -97,7 +97,7 @@
     <string name="drawer_hello">Ahoj,</string>
     <string name="drawer_search">Přejít na subreddit</string>
     <string name="drawer_moderation">Moderace</string>
-    <string name="drawer_offline">Slide je v offline režimu</string>
+    <string name="drawer_offline">Cash je v offline režimu</string>
     <string name="drawer_offline_retry">Pokus se spustit online režim</string>
     <string name="drawer_guest_mode">Prohlížej jako host</string>
     <!-- Sidebar items (That's the one on the right) -->
@@ -289,7 +289,7 @@
     <string name="misc_setting_up">Nastavuji jisté věci&#8230;</string>
     <string name="misc_setting_up_message">Prosím, zůstaňte u obrazovky. Nebude to už trvat!</string>
     <string name="misc_more_info">Více informací</string>
-    <string name="misc_rate_title">Líbí se Vám Slide?</string>
+    <string name="misc_rate_title">Líbí se Vám Cash?</string>
     <string name="misc_rate_msg">Ohodnoťte jej!</string>
     <string name="misc_captcha_incorrect">Captcha nesprávná, prosím, zkuste znovu</string>
     <!-- Goto User -->
@@ -366,7 +366,7 @@
     <string name="settings_link_gif">Interní prohlížeč GIFů</string>
     <string name="settings_link_image">Interní prohlížeč obrázků</string>
     <string name="settings_mail_check">Kontrola nových zpráv</string>
-    <string name="settings_mail_info">Čim vyšší je frekvence, tím více baterie Slide použije v pozadí!</string>
+    <string name="settings_mail_info">Čim vyšší je frekvence, tím více baterie Cash použije v pozadí!</string>
     <string name="settings_main_color_title">Upravit hlavní barvu</string>
     <string name="settings_notification">Kontrolovat nové zprávy každých %1$s</string>
     <string name="settings_notification_short">Zkontrolovat každých %1$s</string>
@@ -415,16 +415,16 @@
     <string name="title_mod">Moderátor</string>
     <!-- Text in Donation-Activity -->
     <string name="donate_amount_title">Tato částka&#8230;</string>
-    <string name="donate_info_student">Jsem student developer a jsem velmi vděčný za vaše štědré dary! Pomohly mi učinit Slide (bezplatnou) realitou :)</string>
+    <string name="donate_info_student">Jsem student developer a jsem velmi vděčný za vaše štědré dary! Pomohly mi učinit Cash (bezplatnou) realitou :)</string>
     <string name="donate_btn">Přispějte</string>
     <string name="donate_amount_ads1">Zastaví</string>
     <string name="donate_amount_ads2">reklam od zobrazení</string>
     <string name="donate_amount_hours1">Podpoří</string>
     <string name="donate_amount_hours2">hodin vývoje</string>
-    <string name="donate_title">Podpořte Slide for Reddit</string>
+    <string name="donate_title">Podpořte Cash for Reddit</string>
     <string name="donate_err_title">Darování neúspěšné :(</string>
     <string name="donate_success_title">Darování úspěšné!</string>
-    <string name="donate_success_msg">Děkuji vám mnohokrát za vaši podporu Slide for Reddit! To pro mě opravdu hodně znamená. Pokud narazíte na nějaké problémy, kdykoliv mi napište e-mailem nebo na GitHubu!</string>
+    <string name="donate_success_msg">Děkuji vám mnohokrát za vaši podporu Cash for Reddit! To pro mě opravdu hodně znamená. Pokud narazíte na nějaké problémy, kdykoliv mi napište e-mailem nebo na GitHubu!</string>
     <string name="donate_success_btn">Není zač!</string>
     <!-- Offline mode -->
     <string name="offline_caching">Ukládání do mezipaměti</string>

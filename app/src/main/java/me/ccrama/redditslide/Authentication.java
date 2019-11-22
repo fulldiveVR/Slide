@@ -66,7 +66,7 @@ public class Authentication {
             httpAdapter = new OkHttpAdapter(Reddit.client, Protocol.HTTP_2);
             isLoggedIn = false;
             reddit = new RedditClient(
-                    UserAgent.of("android:me.ccrama.RedditSlide:v" + BuildConfig.VERSION_NAME),
+                    UserAgent.of("android:com.fulldive.cash4reddit:v" + BuildConfig.VERSION_NAME),
                     httpAdapter);
             reddit.setRetryLimit(2);
             if (BuildConfig.DEBUG) reddit.setLoggingMode(LoggingMode.ALWAYS);
@@ -98,7 +98,7 @@ public class Authentication {
             hasDone = true;
             isLoggedIn = false;
             reddit = new RedditClient(
-                    UserAgent.of("android:me.ccrama.RedditSlide:v" + BuildConfig.VERSION_NAME));
+                    UserAgent.of("android:com.fulldive.cash4reddit:v" + BuildConfig.VERSION_NAME));
             reddit.setLoggingMode(LoggingMode.ALWAYS);
             didOnline = true;
 

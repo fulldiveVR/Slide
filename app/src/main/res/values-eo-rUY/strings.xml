@@ -4,7 +4,7 @@
     <!-- Generic text used anywhere -->
     <string name="general_confirm">Konfirmi</string>
     <string name="general_confirm_exit">Konfirmu eliri</string>
-    <string name="general_confirm_exit_msg">Ĉu vi vere volas eliri Slide?</string>
+    <string name="general_confirm_exit_msg">Ĉu vi vere volas eliri Cash?</string>
     <string name="general_open_settings">Flanka strio</string>
     <string name="general_sub_sync">Sinkronigas abonojn</string>
     <!-- Used when viewing a thread -->

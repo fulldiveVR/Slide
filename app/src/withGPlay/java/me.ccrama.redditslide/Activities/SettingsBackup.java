@@ -537,7 +537,7 @@ public class SettingsBackup extends BaseActivityAnim
                     startActivityForResult(intent, 42);
                 }
             });
-        } else {
+        } /*else {
             new AlertDialogWrapper.Builder(this).setTitle("Settings Backup is a Pro feature")
                     .setMessage(R.string.pro_upgrade_msg)
                     //avoid that the dialog can be closed
@@ -567,7 +567,7 @@ public class SettingsBackup extends BaseActivityAnim
                             })
                     .setCancelable(false)
                     .show();
-        }
+        }*/
     }
 
     File file;

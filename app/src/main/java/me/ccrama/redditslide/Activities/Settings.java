@@ -1,7 +1,6 @@
 package me.ccrama.redditslide.Activities;
 
 import android.app.Dialog;
-import android.content.ActivityNotFoundException;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -40,12 +39,21 @@ import java.util.List;
 import me.ccrama.redditslide.Authentication;
 import me.ccrama.redditslide.DragSort.ReorderSubreddits;
 import me.ccrama.redditslide.FDroid;
-import me.ccrama.redditslide.Fragments.*;
+import me.ccrama.redditslide.Fragments.FolderChooserDialogCreate;
+import me.ccrama.redditslide.Fragments.ManageOfflineContentFragment;
+import me.ccrama.redditslide.Fragments.SettingsCommentsFragment;
+import me.ccrama.redditslide.Fragments.SettingsDataFragment;
+import me.ccrama.redditslide.Fragments.SettingsFontFragment;
+import me.ccrama.redditslide.Fragments.SettingsFragment;
+import me.ccrama.redditslide.Fragments.SettingsGeneralFragment;
+import me.ccrama.redditslide.Fragments.SettingsHandlingFragment;
+import me.ccrama.redditslide.Fragments.SettingsHistoryFragment;
+import me.ccrama.redditslide.Fragments.SettingsRedditFragment;
+import me.ccrama.redditslide.Fragments.SettingsThemeFragment;
 import me.ccrama.redditslide.R;
 import me.ccrama.redditslide.Reddit;
 import me.ccrama.redditslide.SettingValues;
 import me.ccrama.redditslide.Visuals.Palette;
-import me.ccrama.redditslide.util.LogUtil;
 import me.ccrama.redditslide.util.NetworkUtil;
 import me.ccrama.redditslide.util.OnSingleClickListener;
 
@@ -316,7 +324,7 @@ public class Settings extends BaseActivity
         View pro = findViewById(R.id.settings_child_pro);
         if (SettingValues.isPro) {
             pro.setVisibility(View.GONE);
-        } else {
+        } /*else {
             pro.setOnClickListener(new OnSingleClickListener() {
                 @Override
                 public void onSingleClick(View v) {
@@ -351,7 +359,7 @@ public class Settings extends BaseActivity
                             .show();
                 }
             });
-        }
+        }*/
 
         ((EditText) findViewById(R.id.settings_search)).addTextChangedListener(new TextWatcher() {
 
@@ -576,7 +584,7 @@ public class Settings extends BaseActivity
                                     .apply();
                         }
                     });
-                } else {
+                } /*else {
                     new AlertDialogWrapper.Builder(Settings.this).setTitle(
                             "Mutli-Column Settings are a Pro feature")
                             .setMessage(R.string.pro_upgrade_msg)
@@ -606,7 +614,7 @@ public class Settings extends BaseActivity
                                         }
                                     })
                             .show();
-                }
+                }*/
             }
         });
 

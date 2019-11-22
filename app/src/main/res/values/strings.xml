@@ -2,11 +2,11 @@
     <!-- Generic text used anywhere -->
     <string name="general_confirm">Confirm</string>
     <string name="general_confirm_exit">Confirm exit</string>
-    <string name="general_confirm_exit_msg">Do you really want to exit Slide?</string>
+    <string name="general_confirm_exit_msg">Do you really want to exit Cash?</string>
     <string name="general_enable_shadowbox">Shadowbox mode</string>
-    <string name="pro_upgrade_msg">Upgrade to Slide for Reddit Pro to enjoy some awesome new features including:\n\n- Ad Blocker and Reader Mode in Website view\n- Crop and draw on images to upload\n- Customizable tablet column mode\n- Automatic night mode\n- Shadowbox and Gallery content views\n- Comment Shadowbox view\n- Backup and restore to Google Drive and to file\n- Supporting open source and ad-free software!\n\nWould you like to support Slide for Reddit?</string>
-    <string name="general_pro_msg">I have opted to make a few features of Slide unlockable by purchasing a Pro unlock key from the Play Store. \n\nThis is to keep development going, and in lieu of displaying ads in the free version of Slide!\n\nIncluded in this is multi-column mode, Shadowbox mode (for image subreddits), gallery mode, backup and restore to Google Drive and to file, and drawing/cropping images!\n\nWould you like to unlock Slide for Reddit Pro?</string>
-    <string name="general_pro_msg_crop">I have opted to make a few features of Slide (including cropping and drawing on images) unlockable by purchasing a Pro unlock key from the Play Store. \n\nThis is to keep development going, and in lieu of displaying ads in the free version of Slide!\n\nIncluded in this is multi-column mode, Shadowbox mode (for image subreddits), gallery mode, backup and restore to Google Drive and to file, and more!\n\nWould you like to unlock Slide for Reddit Pro?</string>
+    <string name="pro_upgrade_msg">Upgrade to Cash for Reddit Pro to enjoy some awesome new features including:\n\n- Ad Blocker and Reader Mode in Website view\n- Crop and draw on images to upload\n- Customizable tablet column mode\n- Automatic night mode\n- Shadowbox and Gallery content views\n- Comment Shadowbox view\n- Backup and restore to Google Drive and to file\n- Supporting open source and ad-free software!\n\nWould you like to support Cash for Reddit?</string>
+    <string name="general_pro_msg">I have opted to make a few features of Cash unlockable by purchasing a Pro unlock key from the Play Store. \n\nThis is to keep development going, and in lieu of displaying ads in the free version of Cash!\n\nIncluded in this is multi-column mode, Shadowbox mode (for image subreddits), gallery mode, backup and restore to Google Drive and to file, and drawing/cropping images!\n\nWould you like to unlock Cash for Reddit Pro?</string>
+    <string name="general_pro_msg_crop">I have opted to make a few features of Cash (including cropping and drawing on images) unlockable by purchasing a Pro unlock key from the Play Store. \n\nThis is to keep development going, and in lieu of displaying ads in the free version of Cash!\n\nIncluded in this is multi-column mode, Shadowbox mode (for image subreddits), gallery mode, backup and restore to Google Drive and to file, and more!\n\nWould you like to unlock Cash for Reddit Pro?</string>
     <string name="general_open_settings">Sidebar</string>
     <string name="general_sub_sync">Syncing subscriptions</string>
     <string name="general_gallerymode_ispro">Gallery mode is a Pro feature</string>
@@ -119,7 +119,7 @@
     <string name="drawer_hello">Hello,</string>
     <string name="drawer_search">Go to subreddit</string>
     <string name="drawer_moderation">Moderation</string>
-    <string name="drawer_offline">Slide is in offline mode</string>
+    <string name="drawer_offline">Cash is in offline mode</string>
     <string name="drawer_offline_retry">Try to enter online mode</string>
     <string name="drawer_guest_mode">Browse as guest</string>
 
@@ -262,7 +262,7 @@
     <string name="err_no_connection">Reddit could not be reached. Would you like to try again?</string>
     <string name="err_retry_later">Try again in a minute!</string>
     <string name="err_permission">Permission was denied</string>
-    <string name="err_permission_msg">It looks like you denied Slide access to write to external storage. This will cause image cache, post cache, and saving images to fail :(. \nWould you like to allow Slide to access external storage?</string>
+    <string name="err_permission_msg">It looks like you denied Cash access to write to external storage. This will cause image cache, post cache, and saving images to fail :(. \nWould you like to allow Cash to access external storage?</string>
     <string name="err_authentication">Authentication failed</string>
     <string name="err_submit_restricted">This subreddit is restricted</string>
     <string name="err_submit_restricted_text">You are not allowed to post here. Please choose another subreddit</string>
@@ -276,12 +276,12 @@
     <string name="err_refused_request_msg">Reddit refused a request. Would you like to attempt to re-connect to Reddit?</string>
     <string name="err_color_sync_login">Please log in to use Color Sync</string>
     <string name="err_something_wrong">Uh oh, something went wrong</string>
-    <string name="err_couldnt_save_choose_new">Slide couldn\'t save to the selected directory. Would you like to choose a new save location?</string>
+    <string name="err_couldnt_save_choose_new">Cash couldn\'t save to the selected directory. Would you like to choose a new save location?</string>
     <string name="err_share_image">Error sharing image</string>
     <string name="err_file_not_found">File not found</string>
-    <string name="err_not_valid_backup">Not a valid Slide backup file</string>
-    <string name="err_not_valid_backup_msg">The selected file is not a valid Slide backup file</string>
-    <string name="err_file_not_found_msg">The selected file could not be found. Please make sure it exists and Slide has permissions to access that file/folder</string>
+    <string name="err_not_valid_backup">Not a valid Cash backup file</string>
+    <string name="err_not_valid_backup_msg">The selected file is not a valid Cash backup file</string>
+    <string name="err_file_not_found_msg">The selected file could not be found. Please make sure it exists and Cash has permissions to access that file/folder</string>
     <string name="err_comment_post">Uh oh, posting this comment failed!</string>
     <string name="err_comment_post_reason">Reason: %1$s</string>
     <string name="err_comment_post_message">\n\nYour message has been saved as a draft. Please try again later.</string>
@@ -401,7 +401,7 @@
     <string name="misc_setting_up">Setting some things up…</string>
     <string name="misc_setting_up_message">Please don\'t leave this screen. Shouldn\'t take long!</string>
     <string name="misc_more_info">More info</string>
-    <string name="misc_rate_title">Like Slide?</string>
+    <string name="misc_rate_title">Like Cash?</string>
     <string name="misc_rate_msg">Rate it!</string>
     <string name="misc_captcha_incorrect">Captcha incorrect, please try again</string>
 
@@ -477,7 +477,7 @@
     <string name="backup_backing_up">Backing up your settings</string>
     <string name="backup_restore_settings">Restoring settings successful!</string>
     <string name="backup_restarting">App will now restart</string>
-    <string name="backup_info">Slide backs up all your data to a private Google Drive folder. You can sync this data across devices (or to the same device), and your data never goes through a third-party service or server.</string>
+    <string name="backup_info">Cash backs up all your data to a private Google Drive folder. You can sync this data across devices (or to the same device), and your data never goes through a third-party service or server.</string>
     <string name="backup_btn">Backup</string>
     <string name="backup_btn_restore">Restore</string>
     <string name="backup_btn_file">Backup to file</string>
@@ -521,8 +521,8 @@
     <string name="mod_btn_author">Author profile</string>
     <string name="mod_btn_ban">Ban</string>
     <string name="mod_ban_user">Ban user</string>
-    <string name="mod_ban_reauth">To ban users, Slide must re-authenticate you</string>
-    <string name="mod_ban_reauth_question">Would you like to re-log into Slide now?</string>
+    <string name="mod_ban_reauth">To ban users, Cash must re-authenticate you</string>
+    <string name="mod_ban_reauth_question">Would you like to re-log into Cash now?</string>
     <string name="mod_ban_success">User banned!</string>
     <string name="mod_ban_fail">Error banning user</string>
     <string name="mod_ban_reason">Ban reason</string>
@@ -566,8 +566,8 @@
     <string name="toolbox_note_text_required">Note text is required</string>
     <string name="toolbox_note_text_placeholder">Something about the user…</string>
     <string name="toolbox_note_default">No type</string>
-    <string name="toolbox_wiki_edit_reauth">To add or remove usernotes, Slide must re-authenticate you</string>
-    <string name="toolbox_wiki_edit_reauth_question">Would you like to re-log-in to Slide now?</string>
+    <string name="toolbox_wiki_edit_reauth">To add or remove usernotes, Cash must re-authenticate you</string>
+    <string name="toolbox_wiki_edit_reauth_question">Would you like to re-log-in to Cash now?</string>
 
     <!-- Pleasantly asking the user if he made his mind up -->
     <string name="really_remove_submission">Really remove this submission?</string>
@@ -625,7 +625,7 @@
     <string name="settings_link_handling">Link handling</string>
     <string name="settings_link_image">Internal image view</string>
     <string name="settings_mail_check">Check for new messages</string>
-    <string name="settings_mail_info">The higher the frequency, the more potential battery Slide will use in the background!</string>
+    <string name="settings_mail_info">The higher the frequency, the more potential battery Cash will use in the background!</string>
     <string name="settings_main_color_title">Edit main color</string>
     <string name="settings_notification">Check for new messages every %1$s</string>
     <string name="settings_notification_newline">Check for new messages every\n%1$s</string>
@@ -642,7 +642,7 @@
     <string name="settings_bugs">Report bugs</string>
     <string name="settings_changelog">View changelog</string>
     <string name="settings_google">Connecting to Google</string>
-    <string name="settings_google_msg">Slide is connecting to Google. Try again in a few seconds!</string>
+    <string name="settings_google_msg">Cash is connecting to Google. Try again in a few seconds!</string>
     <string name="settings_fabclear_msg">Tapping the clear button will remove the posts from the current view, but will not hide the posts forever. \nLong pressing the button will hide the posts forever!</string>
     <string name="settings_fabclear">FAB clear actions</string>
     <string name="settings_notifdisabled">Notifications disabled</string>
@@ -745,7 +745,7 @@
     <string name="settings_general_comment_last_visit">Show comment count since last visit</string>
     <string name="settings_fab_create">Show \"create comment\" FAB</string>
     <string name="settings_right_handed_comment_menu">Right-handed comment reply menu</string>
-    <string name="settings_reddit_description">These settings change what the Reddit API returns to Slide.\n\nTo see thumbnails in all subreddits, enable \'Ignore subreddit media preferences\'\n\nTo see all NSFW content, turn off \'Hide NSFW photos\' and turn on \'I am over 18\'</string>
+    <string name="settings_reddit_description">These settings change what the Reddit API returns to Cash.\n\nTo see thumbnails in all subreddits, enable \'Ignore subreddit media preferences\'\n\nTo see all NSFW content, turn off \'Hide NSFW photos\' and turn on \'I am over 18\'</string>
     <string name="settings_reddit_media_pref">Ignore subreddit media preferences</string>
     <string name="settings_description_synccit">Synccit allows you to sync your submission history between devices and your browser</string>
     <string name="settings_description_view_type">View types affect both the main view and single subreddit views.\n\nComment pane: comments slide out from next to posts and the comment page state is saved after swiping back (so you don\'t lose your place)\n\nNo subreddit tabs: disables swiping between subreddits\n\nSubreddit tabs: slide between your subreddits</string>
@@ -767,7 +767,7 @@
     <string name="settings_backup_err_no_explorer">No file explorer found, file located at %1$s</string>
     <string name="settings_about_version_copied_toast">Version number copied to clipboard</string>
     <string name="settings_about_stacktrace_copied_toast">Stacktrace copied to clipboard</string>
-    <string name="settings_support_slide">Support Slide for Reddit by Going Pro!</string>
+    <string name="settings_support_slide">Support Cash for Reddit by Going Pro!</string>
     <string name="settings_theme_night_start_title">Select a start time for Night Mode</string>
     <string name="settings_theme_night_end_title">Select an end time for Night Mode</string>
     <string name="settings_theme_night_start_at">Start at\u0020</string>
@@ -778,7 +778,7 @@
     <string name="settings_mod_toolbox_enabled">Enable Toolbox functionality</string>
     <string name="settings_mod_toolbox_desc">May cause a slight performance decrease</string>
     <string name="settings_mod_removal_reasons">Removal reason type</string>
-    <string name="settings_mod_removal_slide">Slide \"remove with reason\"</string>
+    <string name="settings_mod_removal_slide">Cash \"remove with reason\"</string>
     <string name="settings_mod_removal_toolbox">Toolbox removal reasons</string>
     <string name="settings_mod_removal_reddit">Reddit removal reasons</string>
     <string name="settings_mod_toolbox_refresh">Force refresh Toolbox data</string>
@@ -826,7 +826,7 @@
     <string name="reorder_not_found_err">Subreddit not found, here are some suggestions</string>
     <string name="reorder_subscribed_toast">Subscribed to /r/%1$s</string>
     <string name="reorder_unsubscribed_toast">Unsubscribed from /r/%1$s</string>
-    <string name="sorting_faq"><b>How do I refresh subreddits?</b>\nTo refresh subreddits, click the refresh icon in the toolbar!\n\n<b>I unsubscribed from some subreddits but they are still in the list!</b>\nSlide will convert unsubscribed subs from the browser into casual subscriptions. To remove them, long press on the subreddit(s) and click remove!\n\n<b>How do I use collections?</b>\nTo create a collection, click the + FAB and select \'Create a collection\'. This allows you to have multiple subs acting as one subreddit in the main screen!</string>
+    <string name="sorting_faq"><b>How do I refresh subreddits?</b>\nTo refresh subreddits, click the refresh icon in the toolbar!\n\n<b>I unsubscribed from some subreddits but they are still in the list!</b>\nCash will convert unsubscribed subs from the browser into casual subscriptions. To remove them, long press on the subreddit(s) and click remove!\n\n<b>How do I use collections?</b>\nTo create a collection, click the + FAB and select \'Create a collection\'. This allows you to have multiple subs acting as one subreddit in the main screen!</string>
     <string name="FAQ">FAQ</string>
     <string name="alphabetize_subreddits">Alphabetize subreddits</string>
     <string name="sync_subscriptions">Sync subscriptions</string>
@@ -898,17 +898,17 @@
 
     <!-- Text in Donation-Activity -->
     <string name="donate_amount_title">This amount…</string>
-    <string name="donate_info_student">I am a student developer, and am very grateful for your generous donations! They have helped make Slide a (free) reality :)</string>
+    <string name="donate_info_student">I am a student developer, and am very grateful for your generous donations! They have helped make Cash a (free) reality :)</string>
     <string name="donate_btn">Donate</string>
     <string name="donate_amount_ads1">Saves</string>
     <string name="donate_amount_ads2">ads from being displayed</string>
     <string name="donate_amount_hours1">Supports</string>
     <string name="donate_amount_hours2">hours of development</string>
-    <string name="donate_title">Support Slide for Reddit</string>
+    <string name="donate_title">Support Cash for Reddit</string>
     <string name="donate_err_title">Donation unsuccessful :(</string>
     <string name="donate_err_msg">Unfortunately, the donation did not go through. Make sure you are connected to the internet and try again! Thank you for your support!</string>
     <string name="donate_success_title">Donation successful!</string>
-    <string name="donate_success_msg">Thank you very much for your support of Slide for Reddit! It really means a lot to me. If you encounter any issues, shoot me an email or report it on GitHub anytime!</string>
+    <string name="donate_success_msg">Thank you very much for your support of Cash for Reddit! It really means a lot to me. If you encounter any issues, shoot me an email or report it on GitHub anytime!</string>
     <string name="donate_success_btn">You\'re welcome!</string>
 
 
@@ -973,7 +973,7 @@
     <string name="login_subscribe_rslideforreddit_desc">Would you like to subscribe to /r/slideforreddit for the latest news and to report issues?</string>
     <string name="login_sync_colors">Sync colors now?</string>
     <string name="login_sync_colors_desc">Would you like to sync your subreddit colors now? This can be done later in Settings → Subreddit themes</string>
-    <string name="login_authenticating">Slide is authenticating</string>
+    <string name="login_authenticating">Cash is authenticating</string>
     <string name="login_starting">Setting things up!</string>
     <string name="login_starting_desc">This should only take a second…</string>
 
@@ -1004,7 +1004,7 @@
     <string name="sub_post_notifs_title_settings">Be notified of new posts?</string>
     <string name="sub_post_notifs_menu">Be notified of new posts</string>
     <string name="sub_post_notify">Notify</string>
-    <string name="sub_post_notifs_text">Slide will check for new posts every 10 minutes. You can cancel this in the post notifications</string>
+    <string name="sub_post_notifs_text">Cash will check for new posts every 10 minutes. You can cancel this in the post notifications</string>
     <string name="sub_post_notifs_threshold">Score threshold</string>
     <string name="sub_post_notifs_err">You can only add notifications to single subreddits</string>
     <string name="sub_post_notifs_settings_none">No subreddits to notify</string>
@@ -1111,11 +1111,11 @@
 
     <!-- Saving location setting -->
     <string name="set_gif_save_loc">Set GIF save location</string>
-    <string name="set_gif_save_loc_msg">Slide\'s GIF save location has not been set yet. Would you like to set this now?</string>
+    <string name="set_gif_save_loc_msg">Cash\'s GIF save location has not been set yet. Would you like to set this now?</string>
     <string name="set_video_save_loc">Set video save location</string>
-    <string name="set_video_save_loc_msg">Slide\'s video save location has not been set yet. Would you like to set this now?</string>
+    <string name="set_video_save_loc_msg">Cash\'s video save location has not been set yet. Would you like to set this now?</string>
     <string name="set_save_location">Set image save location</string>
-    <string name="set_save_location_msg">Slide\'s image save location has not been set yet. Would you like to set this now?</string>
+    <string name="set_save_location_msg">Cash\'s image save location has not been set yet. Would you like to set this now?</string>
 
     <!-- Report flow -->
     <string name="btn_report">Report</string>
@@ -1161,7 +1161,7 @@
     <string name="btn_collapse_children_all">Collapse child comments</string>
     <string name="btn_open_content">Open content</string>
     <string name="load_videos_internally">Load videos internally</string>
-    <string name="load_videos_internally_content">Would you like to try out the Slide Video plugin? This will allow you to view videos (like YouTube) internally!</string>
+    <string name="load_videos_internally_content">Would you like to try out the Cash Video plugin? This will allow you to view videos (like YouTube) internally!</string>
     <string name="do_not_show_again">Don\'t show again</string>
     <string name="enter_text_to_filter_click_enter_to_add_flair">Enter text to filter (subreddit:flair_text), click enter to add</string>
     <plurals name="landscape_columns">
@@ -1216,7 +1216,7 @@
     <string name="upvote_percentage">Show upvote percentage</string>
     <string name="view_subreddits">View subreddits</string>
     <string name="clear_saved_subreddits">Clear all saved subreddits</string>
-    <string name="download_the_slide_video_player_plugin">Download the Slide Video Player plugin</string>
+    <string name="download_the_slide_video_player_plugin">Download the Cash Video Player plugin</string>
     <string name="btn_suggest_title">Suggest title</string>
     <string name="navigate_comments_since">Comments newer than…</string>
     <string name="btn_offline">Enter offline mode</string>
@@ -1244,9 +1244,9 @@
     <string name="comment_removed">Comment removed</string>
     <string name="set_nav_mode">Set navigation mode</string>
     <string name="auto_hide_the_comment_nav_bar">Auto-hide the comment navigation bar</string>
-    <string name="rate_slide">Rate Slide</string>
+    <string name="rate_slide">Rate Cash</string>
     <string name="edit_query">Edit query</string>
-    <string name="share_slide">Share Slide</string>
+    <string name="share_slide">Share Cash</string>
     <string name="create_folder">Create folder</string>
     <string name="folder_name">Folder name</string>
     <string name="sidebar_friends">Friends</string>
@@ -1273,7 +1273,7 @@
     <string name="type_tumblr">Tumblr</string>
     <string name="type_nsfw_tumblr">NSFW Tumblr</string>
     <string name="submission_info_contest">This thread is in contest mode. You cannot change sorting.</string>
-    <string name="sub_post_notifs_msg">Slide will check for new posts when it checks for mail (mail notifications must be enabled)</string>
+    <string name="sub_post_notifs_msg">Cash will check for new posts when it checks for mail (mail notifications must be enabled)</string>
     <string name="mod_ban_reason_required">Reason is required</string>
     <string name="settings_abbreviate_post_scores">Abbreviate post scores (ex. 24.0k)</string>
     <string name="settings_wide_depth_indicators">Wide comment depth indicators</string>

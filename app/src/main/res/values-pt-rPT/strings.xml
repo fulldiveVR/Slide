@@ -4,11 +4,11 @@
     <!-- Generic text used anywhere -->
     <string name="general_confirm">Confirmar</string>
     <string name="general_confirm_exit">Confirmar saída</string>
-    <string name="general_confirm_exit_msg">Quer mesmo sair de Slide?</string>
+    <string name="general_confirm_exit_msg">Quer mesmo sair de Cash?</string>
     <string name="general_enable_shadowbox">Ativar modo Shadowbox</string>
-    <string name="pro_upgrade_msg">Atualize para o Slide para Reddit Pro desfrutar de algumas funções novas incríveis, incluindo: \n\n - Bloqueio de publicidade e o modo de leitor na vista de Website\n- Recortar e desenhar nas imagens para a enviar\n- Modo coluna personalizável do tablet\n Modo noturno automático\n- Vista de conteúdo em Shadowbox e Galeria\n - Vista de comentário em Shadowbox\n- Copia de segurança e restauro para Google Drive e ficheiro \n Apoiando software de código aberto e sem publicidade \n\nGostaria de apoiar o Slide para Reddit?</string>
-    <string name="general_pro_msg">Optei por disponibilizar algumas funções do Slide desbloqueáveis comprando uma chave de desbloqueio Pro na Play Store. \n\nIsso é para manter o desenvolvimento ativo, e em vez de exibir anúncios da versão gratuita do Slide!\n\nIncluído modo multi-coluna, o modo Shadowbox (para subreddits de imagens), modo de galeria, copia de segurança e restauro a partir de Google Drive e para ficheiro, e desenhar/cortar imagens\n\nGostaria de desbloquear Slide para Reddit Pro?</string>
-    <string name="general_pro_msg_crop">Optei por disponibilizar alguns recursos do Slide (incluindo recorte e desenho em imagens) desbloqueável comprando uma chave de desbloqueio Pro na Play Store. \n\nIsso é para manter o desenvolvimento ativo, e em vez de exibir anúncios na versão gratuita do Slide!\n\nIncluído nisto modo multi-coluna, modo Shadowbox (para subreddits de imagens), modo galeria, copia de segurança e restauro a partir de Google Drive e de ficheiro, e ainda mais!\n\n Gostaria de desbloquear o Slide para Reddit Pro?</string>
+    <string name="pro_upgrade_msg">Atualize para o Cash para Reddit Pro desfrutar de algumas funções novas incríveis, incluindo: \n\n - Bloqueio de publicidade e o modo de leitor na vista de Website\n- Recortar e desenhar nas imagens para a enviar\n- Modo coluna personalizável do tablet\n Modo noturno automático\n- Vista de conteúdo em Shadowbox e Galeria\n - Vista de comentário em Shadowbox\n- Copia de segurança e restauro para Google Drive e ficheiro \n Apoiando software de código aberto e sem publicidade \n\nGostaria de apoiar o Cash para Reddit?</string>
+    <string name="general_pro_msg">Optei por disponibilizar algumas funções do Cash desbloqueáveis comprando uma chave de desbloqueio Pro na Play Store. \n\nIsso é para manter o desenvolvimento ativo, e em vez de exibir anúncios da versão gratuita do Cash!\n\nIncluído modo multi-coluna, o modo Shadowbox (para subreddits de imagens), modo de galeria, copia de segurança e restauro a partir de Google Drive e para ficheiro, e desenhar/cortar imagens\n\nGostaria de desbloquear Cash para Reddit Pro?</string>
+    <string name="general_pro_msg_crop">Optei por disponibilizar alguns recursos do Cash (incluindo recorte e desenho em imagens) desbloqueável comprando uma chave de desbloqueio Pro na Play Store. \n\nIsso é para manter o desenvolvimento ativo, e em vez de exibir anúncios na versão gratuita do Cash!\n\nIncluído nisto modo multi-coluna, modo Shadowbox (para subreddits de imagens), modo galeria, copia de segurança e restauro a partir de Google Drive e de ficheiro, e ainda mais!\n\n Gostaria de desbloquear o Cash para Reddit Pro?</string>
     <string name="general_open_settings">Barra lateral</string>
     <string name="general_sub_sync">A sincronizar subscrições</string>
     <string name="general_gallerymode_ispro">Modo Galeria é uma funcionalidade Pro</string>
@@ -105,7 +105,7 @@
     <string name="drawer_hello">Olá,</string>
     <string name="drawer_search">Ir para subreddit</string>
     <string name="drawer_moderation">Moderação</string>
-    <string name="drawer_offline">Slide está em modo offline</string>
+    <string name="drawer_offline">Cash está em modo offline</string>
     <string name="drawer_offline_retry">Tente entrar no modo on-line</string>
     <!-- Sidebar items (That's the one on the right) -->
     <string name="sidebar_wiki">Subreddit wiki</string>
@@ -215,7 +215,7 @@
     <string name="err_no_connection">Reddit não pôde ser alcançado. Gostaria de tentar de novo?</string>
     <string name="err_retry_later">Tente novamente em um minuto!</string>
     <string name="err_permission">Permissão negada</string>
-    <string name="err_permission_msg">Parece que negou ao Slide acesso para escrever/gravar no armazenamento externo. Isso fará com que o cache de imagens, de publicações e gravar imagens falhe :(. \n Gostaria de permitir acesso ao armazenamento externo?</string>
+    <string name="err_permission_msg">Parece que negou ao Cash acesso para escrever/gravar no armazenamento externo. Isso fará com que o cache de imagens, de publicações e gravar imagens falhe :(. \n Gostaria de permitir acesso ao armazenamento externo?</string>
     <string name="err_authentication">Autenticação falhou</string>
     <string name="err_submit_restricted">Esta subreddit é restrita</string>
     <string name="err_submit_restricted_text">Não é permitido fazer submissões aqui. Por favor escolha outra subreddit</string>
@@ -229,12 +229,12 @@
     <string name="err_refused_request_msg">Reddit recusou a ligação. Gostaria de tentar ligar novamente ao Reddit?</string>
     <string name="err_color_sync_login">Por favor faça login para usar o Color Sync</string>
     <string name="err_something_wrong">Uh oh, alguma coisa correu mal</string>
-    <string name="err_couldnt_save_choose_new">Slide não pôde gravar no diretório selecionado. Gostaria de escolher um novo local para gravar?</string>
+    <string name="err_couldnt_save_choose_new">Cash não pôde gravar no diretório selecionado. Gostaria de escolher um novo local para gravar?</string>
     <string name="err_share_image">Erro ao partilhar imagem</string>
     <string name="err_file_not_found">Ficheiro não encontrado</string>
-    <string name="err_not_valid_backup">Não é um ficheiro de copia de segurança válido do Slide</string>
-    <string name="err_not_valid_backup_msg">O ficheiro selecionado não é um ficheiro de copia de segurança válido do Slide</string>
-    <string name="err_file_not_found_msg">O ficheiro selecionado não pôde ser encontrado. Por favor, verifique se ele existe que o Slide tem permissões para aceder o ficheiro/pasta</string>
+    <string name="err_not_valid_backup">Não é um ficheiro de copia de segurança válido do Cash</string>
+    <string name="err_not_valid_backup_msg">O ficheiro selecionado não é um ficheiro de copia de segurança válido do Cash</string>
+    <string name="err_file_not_found_msg">O ficheiro selecionado não pôde ser encontrado. Por favor, verifique se ele existe que o Cash tem permissões para aceder o ficheiro/pasta</string>
     <string name="err_comment_post">Uh oh, o envio desse comentário falhou!</string>
     <string name="err_comment_post_reason">Razão: %1$s</string>
     <string name="err_comment_post_message">\n\nSua mensagem foi gravada como um rascunho. Por favor, tente novamente mais tarde.</string>
@@ -343,7 +343,7 @@
     <string name="misc_setting_up">A configurar algumas cosas&#8230;</string>
     <string name="misc_setting_up_message">Por favor, não deixe este ecrã. Não vai demorar muito!</string>
     <string name="misc_more_info">Mais informações</string>
-    <string name="misc_rate_title">Gosta do Slide?</string>
+    <string name="misc_rate_title">Gosta do Cash?</string>
     <string name="misc_rate_msg">Avaliar!</string>
     <string name="misc_captcha_incorrect">Captcha incorreto, por favor tente novamente</string>
     <!-- Goto User -->
@@ -392,7 +392,7 @@
     <string name="backup_backing_up">Fazendo cópia de segurança das suas definições</string>
     <string name="backup_restore_settings">Definições restauradas com sucesso!</string>
     <string name="backup_restarting">A aplicação irá reiniciar agora</string>
-    <string name="backup_info">Slide faz copia de segurança de todos os seus dados para uma pasta pessoal no Google Drive. Pode sincronizar dados entre os dispositivos (ou para o mesmo dispositivo), e seus dados nunca passaram através de um serviço de terceiros ou de servidores.</string>
+    <string name="backup_info">Cash faz copia de segurança de todos os seus dados para uma pasta pessoal no Google Drive. Pode sincronizar dados entre os dispositivos (ou para o mesmo dispositivo), e seus dados nunca passaram através de um serviço de terceiros ou de servidores.</string>
     <string name="backup_btn">Cópia de Segurança</string>
     <string name="backup_btn_restore">Restaurar</string>
     <string name="backup_btn_file">Copia de segurança em ficheiro</string>
@@ -429,8 +429,8 @@
     <string name="mod_btn_author">Perfil do Autor</string>
     <string name="mod_btn_ban">Banir</string>
     <string name="mod_ban_user">Banir utilizador</string>
-    <string name="mod_ban_reauth">Para bloquear um utilizador, Slide deve autenticar novamente</string>
-    <string name="mod_ban_reauth_question">Gostaria de iniciar sessão no Slide novamente?</string>
+    <string name="mod_ban_reauth">Para bloquear um utilizador, Cash deve autenticar novamente</string>
+    <string name="mod_ban_reauth_question">Gostaria de iniciar sessão no Cash novamente?</string>
     <string name="mod_ban_success">Utilizador banido!</string>
     <string name="mod_ban_fail">Error a banir utilizador</string>
     <string name="mod_ban_reason">Razão do ban</string>
@@ -499,7 +499,7 @@
     <string name="settings_link_handling">Manipulação de ligações</string>
     <string name="settings_link_image">Exibição interna de imagens</string>
     <string name="settings_mail_check">Verificar novas mensagens</string>
-    <string name="settings_mail_info">Quanto maior a frequência, mais bateria Slide usará em segundo plano!</string>
+    <string name="settings_mail_info">Quanto maior a frequência, mais bateria Cash usará em segundo plano!</string>
     <string name="settings_main_color_title">Editar a cor principal</string>
     <string name="settings_notification">Verificar se há novas mensagens a cada %1$s</string>
     <string name="settings_notification_newline">Verificar se há novas mensagens a cada\n%1$s</string>
@@ -516,7 +516,7 @@
     <string name="settings_bugs">Relatar um erro</string>
     <string name="settings_changelog">Ver lista de alterações</string>
     <string name="settings_google">A ligar ao Google</string>
-    <string name="settings_google_msg">Slide está a ligar ao Google. Tente novamente em alguns segundos!</string>
+    <string name="settings_google_msg">Cash está a ligar ao Google. Tente novamente em alguns segundos!</string>
     <string name="settings_fabclear_msg">Tocar no botão limpar removerá as publicações do modo de exibição atual, mas não irá esconder as publicações para sempre. \nPressionar por mais tempo o botão irá esconder as publicações para sempre!</string>
     <string name="settings_fabclear">Limpar ações do FAB</string>
     <string name="settings_notifdisabled">Notificações desativadas</string>
@@ -633,7 +633,7 @@
     <string name="settings_backup_err_no_explorer">Nenhum explorador de ficheiros encontrado, ficheiro localizado em %1$s</string>
     <string name="settings_about_version_copied_toast">Número de versão copiado para a área de transferência</string>
     <string name="settings_about_stacktrace_copied_toast">StackTrace copiados para a área de transferência</string>
-    <string name="settings_support_slide">Suporte Slide para Reddit indo Pro!</string>
+    <string name="settings_support_slide">Suporte Cash para Reddit indo Pro!</string>
     <string name="settings_theme_night_start_title">Selecione uma hora de início para modo noturno</string>
     <string name="settings_theme_night_end_title">Selecione a hora para terminal modo noturno</string>
     <string name="settings_theme_night_start_at">Iniciar as\u0020</string>
@@ -669,7 +669,7 @@
     <string name="reorder_not_found_err">Subreddit não encontrado, estão aqui algumas sugestões</string>
     <string name="reorder_subscribed_toast">Subscreveu /r/%1$s</string>
     <string name="reorder_unsubscribed_toast">Anulou subscrição de /r/%1$s</string>
-    <string name="sorting_faq"><b>Como atualizar subreddits?</b>\nPara atualizar subreddits, pressione no ícone atualizar na barra de ferramentas!\n\n<b>Anulei a subscrição de alguns subreddits mas eles ainda estão na lista!</b>\nO Slide irá converter subscrições anuladas do navegador em subscrições casuais. Para removê-los, pressione longamente o(s) subreddit(s) e pressione em remover!\n\n<b>Como é que uso coleções?</b>\nPara criar uma coleção, pressione + FAB e selecione \"Criar uma coleção\". Isso permite que tenha vários subs atuando como um subreddit no ecrã principal!</string>
+    <string name="sorting_faq"><b>Como atualizar subreddits?</b>\nPara atualizar subreddits, pressione no ícone atualizar na barra de ferramentas!\n\n<b>Anulei a subscrição de alguns subreddits mas eles ainda estão na lista!</b>\nO Cash irá converter subscrições anuladas do navegador em subscrições casuais. Para removê-los, pressione longamente o(s) subreddit(s) e pressione em remover!\n\n<b>Como é que uso coleções?</b>\nPara criar uma coleção, pressione + FAB e selecione \"Criar uma coleção\". Isso permite que tenha vários subs atuando como um subreddit no ecrã principal!</string>
     <string name="FAQ">Perguntas Frequentes</string>
     <string name="alphabetize_subreddits">Alfabetizar subreddits</string>
     <string name="sync_subscriptions">Sincronizar subscrições</string>
@@ -734,17 +734,17 @@
     <string name="title_mod">Moderador</string>
     <!-- Text in Donation-Activity -->
     <string name="donate_amount_title">Esta quantidade&#8230;</string>
-    <string name="donate_info_student">Eu sou um programador estudante e estou muito grato por suas generosas doações! Elas ajudaram a fazer o Slide uma realidade (grátis) :)</string>
+    <string name="donate_info_student">Eu sou um programador estudante e estou muito grato por suas generosas doações! Elas ajudaram a fazer o Cash uma realidade (grátis) :)</string>
     <string name="donate_btn">Faça uma doação</string>
     <string name="donate_amount_ads1">Evita</string>
     <string name="donate_amount_ads2">anúncios de serem exibidos</string>
     <string name="donate_amount_hours1">Garante</string>
     <string name="donate_amount_hours2">horas de desenvolvimento</string>
-    <string name="donate_title">Ajude o Slide for Reddit</string>
+    <string name="donate_title">Ajude o Cash for Reddit</string>
     <string name="donate_err_title">Doação mal sucedida :(</string>
     <string name="donate_err_msg">Infelizmente, a doação não funcionou. Verifique se está ligado à internet e tente novamente! Obrigado por vosso apoio!</string>
     <string name="donate_success_title">Doação efetuada com sucesso!</string>
-    <string name="donate_success_msg">Muito obrigado por seu apoio ao Slide for Reddit! Isso realmente significa muito para mim. Se encontrar quaisquer problemas, envie-me um e-mail ou relate-o a qualquer momento no GitHub!</string>
+    <string name="donate_success_msg">Muito obrigado por seu apoio ao Cash for Reddit! Isso realmente significa muito para mim. Se encontrar quaisquer problemas, envie-me um e-mail ou relate-o a qualquer momento no GitHub!</string>
     <string name="donate_success_btn">De nada!</string>
     <!-- Offline mode -->
     <string name="offline_caching">A gravar publicações em cache</string>
@@ -799,7 +799,7 @@
     <string name="login_subscribe_rslideforreddit_desc">Gostaria de subscrever /r/slideforreddit para receber as últimas notícias e para relatar problemas?</string>
     <string name="login_sync_colors">Sincronizar as cores agora?</string>
     <string name="login_sync_colors_desc">Gostaria de sincronizar as suas cores de subreddit agora? Isso pode ser feito posteriormente nas definições → Temas de subreddit</string>
-    <string name="login_authenticating">Slide está a autenticar</string>
+    <string name="login_authenticating">Cash está a autenticar</string>
     <string name="login_starting">A configurar coisas!</string>
     <string name="login_starting_desc">Isto deve demorar só um pouco&#8230;</string>
     <!-- Over 18 prompt when visiting a NSFW subreddit -->
@@ -823,7 +823,7 @@
     <string name="sub_post_notifs_title_settings">Ser notificado sobre novas publicações?</string>
     <string name="sub_post_notifs_menu">Ser notificado sobre novas publicações</string>
     <string name="sub_post_notify">Notificar</string>
-    <string name="sub_post_notifs_text">Slide irá verificar por novas publicações cada 10 minutos. Pode cancelar isso nas notificações posteriores</string>
+    <string name="sub_post_notifs_text">Cash irá verificar por novas publicações cada 10 minutos. Pode cancelar isso nas notificações posteriores</string>
     <string name="sub_post_notifs_threshold">Limite de pontuação</string>
     <string name="sub_post_notifs_err">Só pode adicionar notificações a um único subreddit</string>
     <string name="sub_post_notifs_settings_none">Sem subreddits a notificar</string>
@@ -921,11 +921,11 @@
     <string name="comments_count">Número de comentários para cache</string>
     <!-- Saving location setting -->
     <string name="set_gif_save_loc">Definir local para gravar GIFs</string>
-    <string name="set_gif_save_loc_msg">Local para gravar GIFs no Slide ainda não foi definido. Gostaria de definir isso agora?</string>
+    <string name="set_gif_save_loc_msg">Local para gravar GIFs no Cash ainda não foi definido. Gostaria de definir isso agora?</string>
     <string name="set_video_save_loc">Definir local para gravar vídeos</string>
-    <string name="set_video_save_loc_msg">Local para gravar vídeos no Slide ainda não foi definido. Gostaria de definir isso agora?</string>
+    <string name="set_video_save_loc_msg">Local para gravar vídeos no Cash ainda não foi definido. Gostaria de definir isso agora?</string>
     <string name="set_save_location">Definir local para gravar imagens</string>
-    <string name="set_save_location_msg">Local para gravar imagens no Slide ainda não foi definido. Gostaria de definir isso agora?</string>
+    <string name="set_save_location_msg">Local para gravar imagens no Cash ainda não foi definido. Gostaria de definir isso agora?</string>
     <!-- Report flow -->
     <string name="btn_report">Reportar</string>
     <string name="report_post">Denunciar publicação</string>
@@ -961,7 +961,7 @@
     <string name="btn_collapse_children_all">Retrair comentários subsequentes</string>
     <string name="btn_open_content">Abrir conteúdo</string>
     <string name="load_videos_internally">Abrir vídeos internamente</string>
-    <string name="load_videos_internally_content">Gostaria de experimentar o plugin de vídeo do Slide? Isso permitirá ver os vídeos (como YouTube) internamente!</string>
+    <string name="load_videos_internally_content">Gostaria de experimentar o plugin de vídeo do Cash? Isso permitirá ver os vídeos (como YouTube) internamente!</string>
     <string name="do_not_show_again">Não mostrar novamente</string>
     <string name="enter_text_to_filter_click_enter_to_add_flair">Escrever texto a filtrar (subreddit:flair_text), pressione enviar para adicionar</string>
     <plurals name="landscape_columns">
@@ -1016,7 +1016,7 @@
     <string name="upvote_percentage">Mostrar percentagem de upvotes</string>
     <string name="view_subreddits">Ver subreddits</string>
     <string name="clear_saved_subreddits">Limpar todos os subreddits gravados</string>
-    <string name="download_the_slide_video_player_plugin">Transferir o plugin Slide Video Player</string>
+    <string name="download_the_slide_video_player_plugin">Transferir o plugin Cash Video Player</string>
     <string name="btn_suggest_title">Sugerir título</string>
     <string name="navigate_comments_since">Comentários mais novos que&#8230;</string>
     <string name="btn_offline">Entrar no modo offline</string>
@@ -1044,9 +1044,9 @@
     <string name="comment_removed">Comentário removido</string>
     <string name="set_nav_mode">Definir modo de navegação</string>
     <string name="auto_hide_the_comment_nav_bar">Auto-ocultar a barra de navegação em comentários</string>
-    <string name="rate_slide">Avaliar o Slide</string>
+    <string name="rate_slide">Avaliar o Cash</string>
     <string name="edit_query">Editar consulta</string>
-    <string name="share_slide">Partilhar Slide</string>
+    <string name="share_slide">Partilhar Cash</string>
     <string name="create_folder">Criar pasta</string>
     <string name="folder_name">Nome da pasta</string>
     <string name="sidebar_friends">Amigos</string>
@@ -1072,7 +1072,7 @@
     <string name="type_tumblr">Tumblr</string>
     <string name="type_nsfw_tumblr">Tumblr NSFW</string>
     <string name="submission_info_contest">Esta discussão está no modo de competição. Não pode mudar a classificação.</string>
-    <string name="sub_post_notifs_msg">Slide irá verificar se há novas publicações quando verificar o correio (notificações de correio devem estar ativadas)</string>
+    <string name="sub_post_notifs_msg">Cash irá verificar se há novas publicações quando verificar o correio (notificações de correio devem estar ativadas)</string>
     <string name="mod_ban_reason_required">Razão pela qual é necessário</string>
     <string name="settings_abbreviate_post_scores">Abreviar das pontuações de publicações (ex. 24.0k)</string>
     <string name="settings_wide_depth_indicators">Indicadores coloridos para comentários grandes</string>

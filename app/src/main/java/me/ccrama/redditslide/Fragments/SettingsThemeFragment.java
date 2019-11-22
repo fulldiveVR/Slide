@@ -4,10 +4,8 @@ import android.app.Dialog;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.DialogInterface;
-import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
-import android.net.Uri;
 import android.os.Build;
 import android.support.annotation.ArrayRes;
 import android.support.annotation.LayoutRes;
@@ -21,8 +19,23 @@ import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.Window;
-import android.widget.*;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.Button;
+import android.widget.CompoundButton;
+import android.widget.LinearLayout;
+import android.widget.RadioButton;
+import android.widget.Spinner;
+import android.widget.TextView;
+
 import com.afollestad.materialdialogs.AlertDialogWrapper;
+
+import org.apache.commons.lang3.ArrayUtils;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 import me.ccrama.redditslide.Activities.BaseActivity;
 import me.ccrama.redditslide.Activities.Slide;
 import me.ccrama.redditslide.ColorPreferences;
@@ -32,13 +45,8 @@ import me.ccrama.redditslide.SettingValues;
 import me.ccrama.redditslide.Visuals.Palette;
 import me.ccrama.redditslide.util.LogUtil;
 import me.ccrama.redditslide.util.OnSingleClickListener;
-import org.apache.commons.lang3.ArrayUtils;
 import uz.shift.colorpicker.LineColorPicker;
 import uz.shift.colorpicker.OnColorChangedListener;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 
 public class SettingsThemeFragment<ActivityType extends BaseActivity & SettingsFragment.RestartActivity> {
@@ -544,7 +552,7 @@ public class SettingsThemeFragment<ActivityType extends BaseActivity & SettingsF
                             }
                         });
                     }
-                } else {
+                } /*else {
                     new AlertDialogWrapper.Builder(context).setTitle(
                             R.string.general_nighttheme_ispro)
                             .setMessage(R.string.pro_upgrade_msg)
@@ -575,7 +583,7 @@ public class SettingsThemeFragment<ActivityType extends BaseActivity & SettingsF
                                         }
                                     })
                             .show();
-                }
+                }*/
             }
         });
     }

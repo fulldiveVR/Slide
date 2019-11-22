@@ -1,11 +1,9 @@
 package me.ccrama.redditslide.Activities;
 
-import android.content.ActivityNotFoundException;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.graphics.PorterDuff;
-import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -226,7 +224,7 @@ public class MultiredditOverview extends BaseActivityAnim {
                                 ((MultiredditView) adapter.getCurrentFragment()).posts.multiReddit.getDisplayName());
                         startActivity(i2);
                     }
-                } else {
+                } /*else {
                     AlertDialogWrapper.Builder b = new AlertDialogWrapper.Builder(this).setTitle(
                             R.string.general_gallerymode_ispro)
                             .setMessage(R.string.pro_upgrade_msg)
@@ -281,7 +279,7 @@ public class MultiredditOverview extends BaseActivityAnim {
                                 });
                     }
                     b.show();
-                }
+                }*/
                 return true;
             case R.id.action_shadowbox:
                 if (SettingValues.isPro) {
@@ -295,7 +293,7 @@ public class MultiredditOverview extends BaseActivityAnim {
                                 ((MultiredditView) adapter.getCurrentFragment()).posts.multiReddit.getDisplayName());
                         startActivity(i);
                     }
-                } else {
+                } /*else {
                     AlertDialogWrapper.Builder b = new AlertDialogWrapper.Builder(this).setTitle(
                             R.string.general_shadowbox_ispro)
                             .setMessage(R.string.pro_upgrade_msg)
@@ -355,7 +353,7 @@ public class MultiredditOverview extends BaseActivityAnim {
                                 });
                     }
                     b.show();
-                }
+                }*/
                 return true;
             default:
                 return false;

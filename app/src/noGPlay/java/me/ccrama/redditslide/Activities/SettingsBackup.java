@@ -216,7 +216,7 @@ public class SettingsBackup extends BaseActivityAnim {
 
                 }
             });
-        } else {
+        } /*else {
             new AlertDialogWrapper.Builder(this).setTitle("Settings Backup is a Pro feature")
                     .setMessage(R.string.pro_upgrade_msg)
                     .setPositiveButton(R.string.btn_yes_exclaim,
@@ -242,7 +242,7 @@ public class SettingsBackup extends BaseActivityAnim {
                             })
                     .setCancelable(false)
                     .show();
-        }
+        }*/
     }
 
     public void backupToDir(final boolean personal) {

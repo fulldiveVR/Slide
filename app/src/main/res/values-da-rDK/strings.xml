@@ -3,7 +3,7 @@
 <resources>
     <!-- Generic text used anywhere -->
     <string name="general_confirm_exit">Bekræft lukning</string>
-    <string name="general_confirm_exit_msg">Er du sikker på at du vil lukke Slide?</string>
+    <string name="general_confirm_exit_msg">Er du sikker på at du vil lukke Cash?</string>
     <string name="general_enable_shadowbox">Aktiver Shadowbox tilstand</string>
     <string name="general_open_settings">Åben Subreddit indstillinger</string>
     <string name="general_sub_sync">Synkroniser abonnementer</string>
@@ -76,7 +76,7 @@
     <string name="drawer_hello">Hej,</string>
     <string name="drawer_search">Gå til subreddit</string>
     <string name="drawer_moderation">Moderation</string>
-    <string name="drawer_offline">Slide er i offlinetilstand</string>
+    <string name="drawer_offline">Cash er i offlinetilstand</string>
     <string name="drawer_offline_retry">Prøv at skifte til onlinetilstand</string>
     <!-- Sidebar items (That's the one on the right) -->
     <string name="sidebar_wiki">Subreddit-wiki</string>
@@ -181,7 +181,7 @@
     <string name="err_no_connection">Kunne ikke forbinde til Reddit. Vil du prøve igen?</string>
     <string name="err_retry_later">Prøv igen om et minut!</string>
     <string name="err_permission">Tilladelse nægtet</string>
-    <string name="err_permission_msg">Det ser ud til at du ikke har givet Slide lov til at bruge eksternt lagering. Dette vil føre til at du ikke kan gemme billede og at billed-/indlægscache vil fejle :(. \nVil du give Slide lov til at bruge ekstern lagring?</string>
+    <string name="err_permission_msg">Det ser ud til at du ikke har givet Cash lov til at bruge eksternt lagering. Dette vil føre til at du ikke kan gemme billede og at billed-/indlægscache vil fejle :(. \nVil du give Cash lov til at bruge ekstern lagring?</string>
     <string name="err_authentication">Godkendelse fejlede</string>
     <string name="err_submit_restricted">Dette subreddit er begrænset</string>
     <string name="err_submit_restricted_text">Du har ikke lov til at skrive her. Vælg et andet subreddit</string>

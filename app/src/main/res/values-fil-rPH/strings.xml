@@ -3,10 +3,10 @@
 <resources>
     <!-- Generic text used anywhere -->
     <string name="general_confirm_exit">Kumpirmahin ang pag-alis</string>
-    <string name="general_confirm_exit_msg">Gusto mo ba talagang i-exit ang Slide?</string>
+    <string name="general_confirm_exit_msg">Gusto mo ba talagang i-exit ang Cash?</string>
     <string name="general_enable_shadowbox">Shadowbox na mod</string>
-    <string name="pro_upgrade_msg">I-upgrade sa Slide for Reddit Pro upang ma-enjoy ang ilang mga kahanga-hangang baong feature kabilang ang:\n\n taga-block ng Ad at Reader na mod sa Website view\n- mag-Crop at mag-draw ng mga imahe na i-upload\n- napapasadyang mode ng kolum ng tablet\n- awtomatikong panggabi na mod\n- Shadowbox at mga view ng nilalaman ng Gallery\n- view ng Shadowbox ng komento\n- i-Backup at i-restore sa Google drive at sa file\n- sumusuporta sa open source at ad-free na software!\n\nGusto mo bang suportahan ang Slide for Reddit?</string>
-    <string name="general_pro_msg">Pinili kong gumawa ng ilang mga feature ng naa-unlock na slide sa pamamagitan ng pagbili ng isang Pro unlock na susi mula sa Play Store.\n\n Ito ay upang mapanatili ang pagde-develop, at kapalit ng nagdi-display ng mga ad sa libre na bersyon ng Slide!\n\n kasali nito ay isang mod ng maramihang-kolum, Shadowbox na mod (para sa imahe ng mga subreddit), gallery na mod, i-backup at i-restore sa Google drive at sa file, at mag-draw/mag-crop ng mga imahe!\n\n gusto mo bang mag unlock Slide para sa Reddit Pro?</string>
+    <string name="pro_upgrade_msg">I-upgrade sa Cash for Reddit Pro upang ma-enjoy ang ilang mga kahanga-hangang baong feature kabilang ang:\n\n taga-block ng Ad at Reader na mod sa Website view\n- mag-Crop at mag-draw ng mga imahe na i-upload\n- napapasadyang mode ng kolum ng tablet\n- awtomatikong panggabi na mod\n- Shadowbox at mga view ng nilalaman ng Gallery\n- view ng Shadowbox ng komento\n- i-Backup at i-restore sa Google drive at sa file\n- sumusuporta sa open source at ad-free na software!\n\nGusto mo bang suportahan ang Cash for Reddit?</string>
+    <string name="general_pro_msg">Pinili kong gumawa ng ilang mga feature ng naa-unlock na slide sa pamamagitan ng pagbili ng isang Pro unlock na susi mula sa Play Store.\n\n Ito ay upang mapanatili ang pagde-develop, at kapalit ng nagdi-display ng mga ad sa libre na bersyon ng Cash!\n\n kasali nito ay isang mod ng maramihang-kolum, Shadowbox na mod (para sa imahe ng mga subreddit), gallery na mod, i-backup at i-restore sa Google drive at sa file, at mag-draw/mag-crop ng mga imahe!\n\n gusto mo bang mag unlock Cash para sa Reddit Pro?</string>
     <string name="general_pro_msg_crop">Pinili kong gumawa ng ilang mga feature (kasama na ang pagka-crop at magguguhit sa mga imahe) naa-unlock sa pamamagitan ng pagbili ng isang Pro unlock na susi mula sa Play Store.\n\n Ito ay para mapanatili ang pagde-develop. at kapalit ng pagdi-display ng mga ad sa libreng bersyon ng slide!\n\n kasama nito ay isang mod ng maramihang-kolum, Shadowbox na mod (para sa mga subreddit na imahe), gallery na mod, i-backup at i-restore sa Google drive at sa file, at iba pa!\n\n gusto mo bang i-unlock slide para sa Reddit Pro?</string>
     <string name="general_open_settings">Panggilid na bar</string>
     <string name="general_sub_sync">Nagsi-sync ang mga suskripsyon</string>
@@ -294,7 +294,7 @@
     <string name="backup_backing_up">Binaback-up ang iyong mga setting</string>
     <string name="backup_restore_settings">Matagumpay ang paggre-restore ng mga setting!</string>
     <string name="backup_restarting">Ang app ay magre-restart ngayon</string>
-    <string name="backup_info">I-Slide back up lahat ng iyong datos sa isang pribadong folder ng Google Drive. Pwede mong i-sync ang datos na ito sa mga aparato (o sa parihong aparato), at ang iyong datos ay hindi kailanman mapupunta sa isang third-party na serbisyo o server.</string>
+    <string name="backup_info">I-Cash back up lahat ng iyong datos sa isang pribadong folder ng Google Drive. Pwede mong i-sync ang datos na ito sa mga aparato (o sa parihong aparato), at ang iyong datos ay hindi kailanman mapupunta sa isang third-party na serbisyo o server.</string>
     <!-- Vote -->
     <!-- Moderation tools -->
     <!-- Toolbox-related stuff -->

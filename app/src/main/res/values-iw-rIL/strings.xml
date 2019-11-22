@@ -3,10 +3,10 @@
 <resources>
     <!-- Generic text used anywhere -->
     <string name="general_confirm_exit">אשר יציאה</string>
-    <string name="general_confirm_exit_msg">אתה באמת רוצה לצאת מ-Slide?</string>
+    <string name="general_confirm_exit_msg">אתה באמת רוצה לצאת מ-Cash?</string>
     <string name="general_enable_shadowbox">הפעל מצב Shadowbox</string>
-    <string name="pro_upgrade_msg">שדרוג לSlide for Reddit Pro כדי ליהנות מכמה יכולות מצוינות: \n\n - חוסם פרסומות ומצב קריאה במציג דפי אינטרנט \nחיתוך, ציור על התמונות להעלאה\n-התאמה אישית של עמודות טאבלט \nמצב לילה אוטומטי\nהצגת תוכן במצב גלריה\nגיבוי ושחזור מאחסון גוגל וקבצים\nתמיכה בתוכנת קוד פתוח ללא פרסומות!\nהאם תרצו לתמוך בSlide for Reddit?</string>
-    <string name="general_pro_msg">בחרתי להפוך חלק מהיכולות של Slide לכאלו שנפתחות אחרי קנייה של מפתח גרסת pro מחנות גוגל.\nזאת בשביל להמשיך את הפיתוח, ומכיוון שלא הוספתי פרסומות לגרסה החינמית!\nבגרסת pro יש את מצב עמודות מרובות, מצב Shadowbox (לגלריות), מצב גלריה, גיבוי ושחזור מאחסון גוגל וקבצים, וציור/חיתוך תמונות!\nהאם תרצו לפתוח את גרסת Pro?</string>
+    <string name="pro_upgrade_msg">שדרוג לCash for Reddit Pro כדי ליהנות מכמה יכולות מצוינות: \n\n - חוסם פרסומות ומצב קריאה במציג דפי אינטרנט \nחיתוך, ציור על התמונות להעלאה\n-התאמה אישית של עמודות טאבלט \nמצב לילה אוטומטי\nהצגת תוכן במצב גלריה\nגיבוי ושחזור מאחסון גוגל וקבצים\nתמיכה בתוכנת קוד פתוח ללא פרסומות!\nהאם תרצו לתמוך בCash for Reddit?</string>
+    <string name="general_pro_msg">בחרתי להפוך חלק מהיכולות של Cash לכאלו שנפתחות אחרי קנייה של מפתח גרסת pro מחנות גוגל.\nזאת בשביל להמשיך את הפיתוח, ומכיוון שלא הוספתי פרסומות לגרסה החינמית!\nבגרסת pro יש את מצב עמודות מרובות, מצב Shadowbox (לגלריות), מצב גלריה, גיבוי ושחזור מאחסון גוגל וקבצים, וציור/חיתוך תמונות!\nהאם תרצו לפתוח את גרסת Pro?</string>
     <string name="general_open_settings">פתח הגדרות Subreddit</string>
     <string name="general_sub_sync">מסנכרן רישומים</string>
     <string name="general_gallerymode_ispro">מצב גלריה הוא לגרסת Pro</string>

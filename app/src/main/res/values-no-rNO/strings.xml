@@ -3,7 +3,7 @@
 <resources>
     <!-- Generic text used anywhere -->
     <string name="general_confirm_exit">Bekreft avslutning</string>
-    <string name="general_confirm_exit_msg">Vil du virkelig avslutte Slide?</string>
+    <string name="general_confirm_exit_msg">Vil du virkelig avslutte Cash?</string>
     <string name="general_enable_shadowbox">Aktiver skyggerammemodus</string>
     <string name="general_open_settings">Åpne subredditinnstillinger</string>
     <string name="general_sub_sync">Synkroniserer abonnementer</string>
@@ -75,7 +75,7 @@
     <string name="drawer_hello">Hei,</string>
     <string name="drawer_search">Søk etter subreddit</string>
     <string name="drawer_moderation">Moderering</string>
-    <string name="drawer_offline">Slide er i offline-modus</string>
+    <string name="drawer_offline">Cash er i offline-modus</string>
     <string name="drawer_offline_retry">Prøv å koble til online-modus</string>
     <!-- Sidebar items (That's the one on the right) -->
     <string name="sidebar_wiki">Subreddit-wiki</string>
@@ -159,7 +159,7 @@
     <string name="err_no_connection">Klarte ikke koble til Reddit. Prøve på nytt?</string>
     <string name="err_retry_later">Vent et minutt og prøv igjen.</string>
     <string name="err_permission">Tillatelse(r) var avvist</string>
-    <string name="err_permission_msg">Det ser ut til at du ikke ga Slide adgang til å skrive til ekstern lagring. Dette vil forårsake problemer for bilde-cache, innleggs-cache og bildelagring :(. \nØnsker du å gi Slide tilgang til ekstern lagringsplass?</string>
+    <string name="err_permission_msg">Det ser ut til at du ikke ga Cash adgang til å skrive til ekstern lagring. Dette vil forårsake problemer for bilde-cache, innleggs-cache og bildelagring :(. \nØnsker du å gi Cash tilgang til ekstern lagringsplass?</string>
     <string name="err_authentication">Godkjenning mislyktes</string>
     <string name="error_video_not_found">Video ikke funnet</string>
     <string name="error_video_message">En feil oppstod under lasting av videoen</string>
@@ -278,7 +278,7 @@
     <string name="backup_backing_up">Sikkerhetskopierer innstillinger</string>
     <string name="backup_restore_settings">Gjenoppretting av innstillinger vellykket.</string>
     <string name="backup_restarting">Appen starter på nytt nå.</string>
-    <string name="backup_info">Slide sikkerhetskopierer alle dataene dine til en mappe i Google Disk. Dermed får du tilgang til dem på alle enheter du bruker, og dataene dine forblir private og deles ikke med noen tredjepart.</string>
+    <string name="backup_info">Cash sikkerhetskopierer alle dataene dine til en mappe i Google Disk. Dermed får du tilgang til dem på alle enheter du bruker, og dataene dine forblir private og deles ikke med noen tredjepart.</string>
     <string name="backup_btn">Sikkerhetskopier</string>
     <string name="backup_btn_restore">Gjenopprett</string>
     <string name="backup_btn_file">Sikkerhetskopier til fil</string>
@@ -356,7 +356,7 @@
     <string name="settings_bugs">Rapporter feil</string>
     <string name="settings_changelog">Se endringslogg</string>
     <string name="settings_google">Kobler til Google</string>
-    <string name="settings_google_msg">Slide kobler seg til Google. Prøv igjen om et par øyeblikk!</string>
+    <string name="settings_google_msg">Cash kobler seg til Google. Prøv igjen om et par øyeblikk!</string>
     <string name="settings_fabclear_msg">Trykk på Tøm for å midlertidig fjerne postene fra denne visningen. \nTrykk lenge på Tøm for å fjerne postene for alltid.</string>
     <string name="settings_fabclear">FAB-handlinger</string>
     <string name="settings_notifdisabled">Varsler er deaktivert.</string>
@@ -472,17 +472,17 @@
     <string name="title_mod">Moderator</string>
     <!-- Text in Donation-Activity -->
     <string name="donate_amount_title">Dette beløpet&#8230;</string>
-    <string name="donate_info_student">Jeg er en studentutvikler, og er veldig takknemlig for deres sjenerøse donasjoner! De har bidratt til å gjøre Slide til en (gratis) virkelighet :)</string>
+    <string name="donate_info_student">Jeg er en studentutvikler, og er veldig takknemlig for deres sjenerøse donasjoner! De har bidratt til å gjøre Cash til en (gratis) virkelighet :)</string>
     <string name="donate_btn">Doner</string>
     <string name="donate_amount_ads1">Forhindrer</string>
     <string name="donate_amount_ads2">reklamevisninger</string>
     <string name="donate_amount_hours1">Støtter</string>
     <string name="donate_amount_hours2">timer med utvikling</string>
-    <string name="donate_title">Støtt Slide for Reddit</string>
+    <string name="donate_title">Støtt Cash for Reddit</string>
     <string name="donate_err_title">Donasjon mislyktes :(</string>
     <string name="donate_err_msg">Uheldigvis gikk ikke donasjonen gjennom. Sjekk at du er koblet til nettet og prøv igjen. Takk for støtten!</string>
     <string name="donate_success_title">Donasjonen var vellykket!</string>
-    <string name="donate_success_msg">Takk så mye for støtten til Slide for Reddit! Den er av stor betydning. Hvis du støter på problemer med appen, send meg en e-post eller skriv på /r/slideforreddit når som helst!</string>
+    <string name="donate_success_msg">Takk så mye for støtten til Cash for Reddit! Den er av stor betydning. Hvis du støter på problemer med appen, send meg en e-post eller skriv på /r/slideforreddit når som helst!</string>
     <string name="donate_success_btn">Værsågod!</string>
     <!-- Offline mode -->
     <string name="offline_caching">Cacher innlegg</string>
@@ -532,7 +532,7 @@
     <string name="login_subscribe_rslideforreddit_desc">Ønsker du å abonnere på /r/slideforreddit for å få de siste nyhetene og for å rapportere problemer?</string>
     <string name="login_sync_colors">Synkroniser farger nå?</string>
     <string name="login_sync_colors_desc">Ønsker du å synkronisere subreddit-fargene nå? Dette kan gjøres senere i innstillinger → Subreddit-temaer</string>
-    <string name="login_authenticating">Slide autoriserer</string>
+    <string name="login_authenticating">Cash autoriserer</string>
     <string name="login_starting">Setter opp ting!</string>
     <string name="login_starting_desc">Dette tar kun et par sekunder&#8230;</string>
     <!-- Over 18 prompt when visiting a NSFW subreddit -->

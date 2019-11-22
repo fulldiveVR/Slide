@@ -7,7 +7,6 @@ import android.animation.ValueAnimator;
 import android.app.Activity;
 import android.app.Dialog;
 import android.app.NotificationManager;
-import android.content.ActivityNotFoundException;
 import android.content.ClipData;
 import android.content.ClipboardManager;
 import android.content.Context;
@@ -779,7 +778,7 @@ public class MainActivity extends BaseActivity
                                 ((SubmissionsView) adapter.getCurrentFragment()).posts.subreddit);
                         startActivity(i2);
                     }
-                } else {
+                } /*else {
                     AlertDialogWrapper.Builder b = new AlertDialogWrapper.Builder(this).setTitle(
                             R.string.general_gallerymode_ispro)
                             .setMessage(R.string.pro_upgrade_msg)
@@ -837,7 +836,7 @@ public class MainActivity extends BaseActivity
                                 });
                     }
                     b.show();
-                }
+                }*/
                 return true;
             case R.id.action_shadowbox:
                 if (SettingValues.isPro) {
@@ -855,7 +854,7 @@ public class MainActivity extends BaseActivity
                                 ((SubmissionsView) adapter.getCurrentFragment()).posts.subreddit);
                         startActivity(i2);
                     }
-                } else {
+                } /*else {
                     AlertDialogWrapper.Builder b = new AlertDialogWrapper.Builder(this).setTitle(
                             R.string.general_shadowbox_ispro)
                             .setMessage(R.string.pro_upgrade_msg)
@@ -914,7 +913,7 @@ public class MainActivity extends BaseActivity
                                 });
                     }
                     b.show();
-                }
+                }*/
                 return true;
             default:
                 return false;
@@ -2132,7 +2131,7 @@ public class MainActivity extends BaseActivity
 
             if (SettingValues.isPro) {
                 support.setVisibility(View.GONE);
-            } else {
+            } /*else {
                 header.findViewById(R.id.support).setOnClickListener(new OnSingleClickListener() {
                     @Override
                     public void onSingleClick(View view) {
@@ -2158,7 +2157,7 @@ public class MainActivity extends BaseActivity
                                 .show();
                     }
                 });
-            }
+            }*/
             header.findViewById(R.id.prof).setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {

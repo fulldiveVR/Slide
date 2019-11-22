@@ -45,7 +45,7 @@
     <string name="drawer_goto_profile">Gaan na profiel</string>
     <string name="drawer_add_account">Voeg rekening by</string>
     <string name="drawer_hello">Hallo,</string>
-    <string name="drawer_offline">Slide in aflyn mode</string>
+    <string name="drawer_offline">Cash in aflyn mode</string>
     <!-- Sidebar items (That's the one on the right) -->
     <!-- User profile -->
     <string name="profile_message">Privaat boodskap</string>

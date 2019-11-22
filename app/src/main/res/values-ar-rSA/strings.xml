@@ -6,8 +6,8 @@
     <string name="general_confirm_exit">تأكيد الخروج</string>
     <string name="general_confirm_exit_msg">هل تريد حقاً الخروج من سلايد؟</string>
     <string name="general_enable_shadowbox">نمط Shadowbox</string>
-    <string name="pro_upgrade_msg">يمكنك الترقية إلى Slide لـ Reddit Pro للاستمتاع ببعض الميزات الجديدة في تحقيق ذلك:\n\n- أداة حظر الإعلانات عرض القارئ في عرض موقع الويب \n- لاقتصاص والرسم على الصور لتحميل\n- وضع عمود لوحي قابل للتخصيص \n- الوضع الليلي التلقائي mode\n- Shadowbox and ومعارض المحتوى معرض \n- تعليق Shadowbox عرض\n- النسخ الاحتياطي والاستعادة إلى Google Drive والملف\n- دعم البرامج مفتوحة المصدر والبرامج الخالية من الإعلانات!\n\nهل ترغب في دعم Slide for Reddit؟?</string>
-    <string name="general_pro_msg">لقد اخترت إنشاء بعض الميزات من الشريحة بدون قفل عن طريق شراء مفتاح إلغاء قفل Pro من متجرPlay. \n\nهذا هو للحفاظ على التنمية مستمرة, وبدلاً من عرض الإعلانات في الإصدار المجاني من Slide! \n\nالمدرجة في هذا هو وضع متعدد الأعمدة, وضع Shadowbox (للحصول على صور subreddits) ووضع المعرض والنسخ الاحتياطي والاستعادة إلى Google Drive وللملف والرسم / اقتصاص الصور!\n\nهل تريد فتح Slide For Reddit Pro؟</string>
+    <string name="pro_upgrade_msg">يمكنك الترقية إلى Cach لـ Reddit Pro للاستمتاع ببعض الميزات الجديدة في تحقيق ذلك:\n\n- أداة حظر الإعلانات عرض القارئ في عرض موقع الويب \n- لاقتصاص والرسم على الصور لتحميل\n- وضع عمود لوحي قابل للتخصيص \n- الوضع الليلي التلقائي mode\n- Shadowbox and ومعارض المحتوى معرض \n- تعليق Shadowbox عرض\n- النسخ الاحتياطي والاستعادة إلى Google Drive والملف\n- دعم البرامج مفتوحة المصدر والبرامج الخالية من الإعلانات!\n\nهل ترغب في دعم Cash for Reddit؟?</string>
+    <string name="general_pro_msg">لقد اخترت إنشاء بعض الميزات من الشريحة بدون قفل عن طريق شراء مفتاح إلغاء قفل Pro من متجرPlay. \n\nهذا هو للحفاظ على التنمية مستمرة, وبدلاً من عرض الإعلانات في الإصدار المجاني من Cash! \n\nالمدرجة في هذا هو وضع متعدد الأعمدة, وضع Shadowbox (للحصول على صور subreddits) ووضع المعرض والنسخ الاحتياطي والاستعادة إلى Google Drive وللملف والرسم / اقتصاص الصور!\n\nهل تريد فتح Cash For Reddit Pro؟</string>
     <string name="general_open_settings">الشريط الجانبي</string>
     <string name="general_sub_sync">مزامنة الاشتراكات</string>
     <string name="general_gallerymode_ispro">وضع المعرض هو ميزة Pro</string>
@@ -104,7 +104,7 @@
     <string name="drawer_hello">مرحباً,</string>
     <string name="drawer_search">اذهب إلى سب ريديت</string>
     <string name="drawer_moderation">الإشراف</string>
-    <string name="drawer_offline">Slide غير متصل</string>
+    <string name="drawer_offline">Cash غير متصل</string>
     <string name="drawer_offline_retry">حاول لدخول وضع على الإنترنت</string>
     <!-- Sidebar items (That's the one on the right) -->
     <string name="sidebar_wiki">ويكي subreddit</string>
@@ -360,13 +360,13 @@
     <string name="title_mod">مشرف</string>
     <!-- Text in Donation-Activity -->
     <string name="donate_amount_title">هذا المبلغ&#8230;</string>
-    <string name="donate_info_student">أنا مطور طالب، وأنا ممتن جداً للتبرع السخي! أنهم ساهموا في جعل Slide (مجاني) حقيقه :)</string>
+    <string name="donate_info_student">أنا مطور طالب، وأنا ممتن جداً للتبرع السخي! أنهم ساهموا في جعل Cash (مجاني) حقيقه :)</string>
     <string name="donate_btn">التبرع</string>
     <string name="donate_amount_ads1">محفوظات</string>
     <string name="donate_amount_ads2">إعلان من العرض</string>
     <string name="donate_amount_hours1">تدعيمات</string>
     <string name="donate_amount_hours2">ساعات من التطوير</string>
-    <string name="donate_title">دعم Slide for Reddit</string>
+    <string name="donate_title">دعم Cash for Reddit</string>
     <string name="donate_err_title">لم ينجح التبرع :(</string>
     <string name="donate_success_title">نجح التبرع!</string>
     <!-- Offline mode -->

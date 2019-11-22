@@ -13,7 +13,6 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.PopupMenu;
 import android.support.v7.widget.SwitchCompat;
-import android.text.Spannable;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
@@ -27,7 +26,6 @@ import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.rey.material.widget.Slider;
 
-import me.ccrama.redditslide.*;
 import net.dean.jraw.models.CommentSort;
 import net.dean.jraw.models.Subreddit;
 import net.dean.jraw.paginators.Sorting;
@@ -41,9 +39,17 @@ import java.util.List;
 import java.util.Locale;
 
 import me.ccrama.redditslide.Activities.SettingsViewType;
+import me.ccrama.redditslide.Authentication;
+import me.ccrama.redditslide.CaseInsensitiveArrayList;
+import me.ccrama.redditslide.Constants;
 import me.ccrama.redditslide.Fragments.FolderChooserDialogCreate.FolderCallback;
 import me.ccrama.redditslide.Notifications.CheckForMail;
 import me.ccrama.redditslide.Notifications.NotificationJobScheduler;
+import me.ccrama.redditslide.R;
+import me.ccrama.redditslide.Reddit;
+import me.ccrama.redditslide.SettingValues;
+import me.ccrama.redditslide.TimeUtils;
+import me.ccrama.redditslide.UserSubscriptions;
 import me.ccrama.redditslide.Visuals.Palette;
 import me.ccrama.redditslide.util.OnSingleClickListener;
 import me.ccrama.redditslide.util.SortingUtil;
@@ -736,7 +742,7 @@ public class SettingsGeneralFragment<ActivityType extends AppCompatActivity & Fo
                                 @Override
                                 public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
                                     single.setChecked(false);
-                                    Snackbar s = Snackbar.make(single, "Give Slide notification access", Snackbar.LENGTH_LONG);
+                                    Snackbar s = Snackbar.make(single, "Give Cash notification access", Snackbar.LENGTH_LONG);
                                     s.setAction("Go to settings", new View.OnClickListener() {
                                         @Override
                                         public void onClick(View view) {

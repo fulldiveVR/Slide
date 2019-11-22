@@ -4,7 +4,7 @@
     <!-- Generic text used anywhere -->
     <string name="general_confirm">Потврди</string>
     <string name="general_confirm_exit">Потврди излазак</string>
-    <string name="general_confirm_exit_msg">Да ли стварно желите да изађете из Slide-а?</string>
+    <string name="general_confirm_exit_msg">Да ли стварно желите да изађете из Cash-а?</string>
     <string name="general_enable_shadowbox">Shadowbox режим</string>
     <string name="general_open_settings">Бочна трака</string>
     <string name="general_sub_sync">Синхронизовање претплата</string>
@@ -104,7 +104,7 @@
     <string name="drawer_hello">Здраво,</string>
     <string name="drawer_search">Тражи субредит</string>
     <string name="drawer_moderation">Модерација</string>
-    <string name="drawer_offline">Slide је у режиму рада ван мреже</string>
+    <string name="drawer_offline">Cash је у режиму рада ван мреже</string>
     <string name="drawer_offline_retry">Покушајте да се повежете на интернет</string>
     <!-- Sidebar items (That's the one on the right) -->
     <string name="sidebar_wiki">Субредит вики</string>
@@ -227,8 +227,8 @@
     <string name="err_something_wrong">Ух, нешто је пошло наопако</string>
     <string name="err_share_image">Грешка при дељењу слике</string>
     <string name="err_file_not_found">Фајл није нађен</string>
-    <string name="err_not_valid_backup">Неисправна Slide резервна копија</string>
-    <string name="err_not_valid_backup_msg">Одабрани фајл није исправна Slide резервна копија</string>
+    <string name="err_not_valid_backup">Неисправна Cash резервна копија</string>
+    <string name="err_not_valid_backup_msg">Одабрани фајл није исправна Cash резервна копија</string>
     <string name="err_comment_post">Ух, објављивање коментара није успело!</string>
     <string name="err_comment_post_reason">Разлог: %1$s</string>
     <string name="err_comment_post_message">\n\nВаша порука је сачувана као нацрт. Покушајте касније поново.</string>
@@ -329,7 +329,7 @@
     <string name="misc_please_try_again">Молимо покушајте поново</string>
     <string name="misc_setting_up">Подешавам неке ствари&#8230;</string>
     <string name="misc_more_info">Још информација</string>
-    <string name="misc_rate_title">Свиђа Вам се Slide?</string>
+    <string name="misc_rate_title">Свиђа Вам се Cash?</string>
     <string name="misc_rate_msg">Оцените га!</string>
     <string name="misc_captcha_incorrect">Валидација нетачна, пробајте поново</string>
     <!-- Goto User -->
@@ -409,8 +409,8 @@
     <string name="mod_btn_author">Профил аутора</string>
     <string name="mod_btn_ban">Блокирај</string>
     <string name="mod_ban_user">Блокирај корисника</string>
-    <string name="mod_ban_reauth">Да бисте блокирали корисника, Slide мора да Вас поново пријави</string>
-    <string name="mod_ban_reauth_question">Да ли желите да се поново пријавите у Slide одмах?</string>
+    <string name="mod_ban_reauth">Да бисте блокирали корисника, Cash мора да Вас поново пријави</string>
+    <string name="mod_ban_reauth_question">Да ли желите да се поново пријавите у Cash одмах?</string>
     <string name="mod_ban_success">Корисник блокиран!</string>
     <string name="mod_ban_fail">Грешка приликом блокирања корисника</string>
     <string name="mod_ban_reason">Разлог блокирања</string>
@@ -483,7 +483,7 @@
     <string name="settings_bugs">Пријави грешке</string>
     <string name="settings_changelog">Види дневник измена</string>
     <string name="settings_google">Повезивање на Google</string>
-    <string name="settings_google_msg">Slide се повезује са Google-ом. Покушајте поново за пар секунди!</string>
+    <string name="settings_google_msg">Cash се повезује са Google-ом. Покушајте поново за пар секунди!</string>
     <string name="settings_notifdisabled">Обавештење искључена</string>
     <string name="settings_colored_navigation_bar">Обојена трака навигације</string>
     <string name="settings_colored_icon_desc">Може захтевати и поновно покретање телефона. Овим ће се такође уклонити иконица са Вашег почетног екрана.</string>
@@ -647,7 +647,7 @@
     <string name="donate_amount_ads2">приказивања реклама</string>
     <string name="donate_amount_hours1">Подржава</string>
     <string name="donate_amount_hours2">сати развоја</string>
-    <string name="donate_title">Подржите Slide за Редит</string>
+    <string name="donate_title">Подржите Cash за Редит</string>
     <string name="donate_err_title">Донирање није успело :(</string>
     <string name="donate_success_title">Донирање успело!</string>
     <string name="donate_success_btn">Нема на чему!</string>
@@ -706,7 +706,7 @@
     <!-- Strings present during the login process -->
     <string name="login_subscribe_rslideforreddit">Претплати се на /r/slideforreddit?</string>
     <string name="login_sync_colors">Синхронизуј боје сад?</string>
-    <string name="login_authenticating">Slide проверава идентитет</string>
+    <string name="login_authenticating">Cash проверава идентитет</string>
     <string name="login_starting">Подешавам ствари!</string>
     <string name="login_starting_desc">Ово не треба да трају дуже од секунде&#8230;</string>
     <!-- Over 18 prompt when visiting a NSFW subreddit -->
@@ -870,9 +870,9 @@
     <string name="remove_comment">Стварно желите да уклоните овај коментар?</string>
     <string name="comment_removed">Коментар уклоњен</string>
     <string name="set_nav_mode">Постави режим навигације</string>
-    <string name="rate_slide">Оцени Slide</string>
+    <string name="rate_slide">Оцени Cash</string>
     <string name="edit_query">Измени упит</string>
-    <string name="share_slide">Поделите Slide</string>
+    <string name="share_slide">Поделите Cash</string>
     <string name="create_folder">Направи фасциклу</string>
     <string name="folder_name">Име фасцикле</string>
     <string name="sidebar_friends">Пријатељи</string>

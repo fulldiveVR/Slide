@@ -53,7 +53,7 @@ public class ImageFlairs {
                 if (flairStylesheet != null) {
                     flairs.edit().putBoolean(subreddit.toLowerCase(Locale.ENGLISH), true).commit();
                     d = new AlertDialogWrapper.Builder(context).setTitle("Subreddit flairs synced")
-                            .setMessage("Slide found and synced "
+                            .setMessage("Cash for Reddit found and synced "
                                     + flairStylesheet.count
                                     + " image flairs")
                             .setPositiveButton(R.string.btn_ok, null)
@@ -61,7 +61,7 @@ public class ImageFlairs {
                 } else {
                     AlertDialogWrapper.Builder b = new AlertDialogWrapper.Builder(context).setTitle(
                             "Error syncing subreddit flairs")
-                            .setMessage("Slide could not find any subreddit flairs to sync from /r/"
+                            .setMessage("Cash for Reddit could not find any subreddit flairs to sync from /r/"
                                     + subreddit
                                     + "'s stylesheet.")
                             .setPositiveButton(R.string.btn_ok, null);
@@ -69,7 +69,7 @@ public class ImageFlairs {
                         b.setNeutralButton("Report no flairs", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                Toast.makeText(context, "Not all subreddits can be parsed, but send a message to SlideBot and hopefully we can add support for this subreddit :)\n\nPlease, only send one report.", Toast.LENGTH_LONG);
+                                Toast.makeText(context, "Not all subreddits can be parsed, but send a message to CashBot and hopefully we can add support for this subreddit :)\n\nPlease, only send one report.", Toast.LENGTH_LONG);
                                 Intent i = new Intent(context, SendMessage.class);
                                 i.putExtra(SendMessage.EXTRA_NAME, "slidebot");
                                 i.putExtra(SendMessage.EXTRA_MESSAGE, "/r/" + subreddit);
