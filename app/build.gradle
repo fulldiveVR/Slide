@@ -62,6 +62,15 @@ android {
 
     }
 
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            def nameSuff = variant.buildType.versionNameSuffix == null ? variant.versionName
+                    : variant.versionName.replace(variant.buildType.versionNameSuffix, "")
+
+            output.outputFileName = "Cash4Reddit-${variant.name}-${nameSuff}.apk"
+        }
+    }
+
     packagingOptions {
         exclude 'META-INF/DEPENDENCIES.txt'
         exclude 'META-INF/LICENSE.txt'
