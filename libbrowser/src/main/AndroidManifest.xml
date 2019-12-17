@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.parabola.plasma.libbrowser">
-
+package="com.humus.pendulous.filled.libbrowser">
     <application>
-        <activity
-            android:name="com.modulus.toluene.ammonia.RefractoryPlatoonSorbActivity"
-            android:configChanges="layoutDirection|screenSize"
-            android:exported="false" />
+<activity
+android:name = "me.ccrama.redditslide.ForceTouch.HughIncandescentActivity"
+android:exported="false"
+android:configChanges="screenLayout"
+android:launchMode="singleTop"
+/>
 
     </application>
 </manifest>
