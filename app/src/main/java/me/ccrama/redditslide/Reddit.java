@@ -32,6 +32,7 @@ import com.afollestad.materialdialogs.AlertDialogWrapper;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.danikula.videocache.HttpProxyCacheServer;
 import com.fulldive.eventsender.lib.EventSender;
+import com.fulldive.eventsender.lib.EventSenderConfig;
 import com.google.common.collect.BiMap;
 import com.google.common.collect.HashBiMap;
 import com.jakewharton.processphoenix.ProcessPhoenix;
@@ -473,6 +474,8 @@ public class Reddit extends MultiDexApplication implements Application.ActivityL
 
         UpgradeUtil.upgrade(getApplicationContext());
         doMainStuff();
+
+        EventSenderConfig.textPopupCustom = R.string.comFulldiveEventsender_textPopupCustom;
         EventSender.getInstance(getApplicationContext());  // initialize
     }
 
