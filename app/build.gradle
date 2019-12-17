@@ -176,7 +176,7 @@ dependencies {
     implementation 'com.mikepenz:aboutlibraries:5.8.5' //5.9.0, 5.9.8, 6.0.0
     implementation 'com.googlecode.mp4parser:isoparser:1.1.22'
 
-    implementation "com.fulldive:eventsendersupport:0.1.6"
+    implementation "com.fulldive:eventsendersupport:1.0.0"
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation "com.android.support.constraint:constraint-layout:1.1.3"
 
