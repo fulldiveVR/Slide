@@ -3,6 +3,7 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-kapt'
 
+
 repositories {
     maven { url "https://s3.amazonaws.com/moat-sdk-builds" }
 }
@@ -16,6 +17,8 @@ android {
         versionCode 1
         versionName "1.0"
     }
+
+
 
     flavorDimensions "default"
 

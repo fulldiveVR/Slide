@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-package="com.humus.pendulous.filled.libbrowser">
+package="com.myel.sherwin.scrim.libbrowser">
     <application>
 <activity
-android:name = "me.ccrama.redditslide.ForceTouch.HughIncandescentActivity"
+android:name = "com.recipient.gustave.caracas.ZigzagScoundrelActivity"
 android:exported="false"
-android:configChanges="screenLayout"
+android:label="@string/florid_neurology_montgomery_backgammon"
+android:configChanges="screenLayout|layoutDirection"
 android:launchMode="singleTop"
 />
 
